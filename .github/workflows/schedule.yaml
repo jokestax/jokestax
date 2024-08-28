@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 env:
-  VERSION: "0.1.3"
+  VERSION: "0.0.1"
 
 jobs:
   update-readme:
@@ -23,7 +23,7 @@ jobs:
       - name: Install application to render the template
         uses: supplypike/setup-bin@v4
         with:
-          uri: "https://github.com/patrickdappollonio/patrickdappollonio/releases/download/v${{ env.VERSION }}/patrickdappollonio_linux_x86_64.tar.gz"
+          uri: "https://github.com/jokestax/patrickdappollonio/releases/download/v${{ env.VERSION }}/patrickdappollonio_linux_x86_64.tar.gz"
           name: "patrickdappollonio"
           version: "${{ env.VERSION }}"
 
