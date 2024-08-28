@@ -18,8 +18,8 @@ func main() {
 }
 
 var (
-	username     = envdefault("GITHUB_USERNAME", "patrickdappollonio")
-	rssfeed      = envdefault("RSS_FEED", "https://www.patrickdap.com/index.xml")
+	username     = envdefault("GITHUB_USERNAME", "jokestax")
+	rssfeed      = envdefault("RSS_FEED", "")
 	templateFile = envdefault("TEMPLATE_FILE", "template.md.gotmpl")
 	maxPRs       = envintdefault("MAX_PULL_REQUESTS", 10)
 	maxStarred   = envintdefault("MAX_STARRED_REPOS", 10)
@@ -61,14 +61,14 @@ func run() error {
 		return nil
 	})
 
-	eg.Go(func() error {
-		var err error
-		articles, err = getArticles(rssfeed, maxArticles)
-		if err != nil {
-			return fmt.Errorf("failed to read feed %q %w", rssfeed, err)
-		}
-		return nil
-	})
+	// eg.Go(func() error {
+	// 	var err error
+	// 	articles, err = getArticles(rssfeed, maxArticles)
+	// 	if err != nil {
+	// 		return fmt.Errorf("failed to read feed %q %w", rssfeed, err)
+	// 	}
+	// 	return nil
+	// })
 
 	if err := eg.Wait(); err != nil {
 		return err
