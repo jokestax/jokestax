@@ -11,31 +11,30 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Here are some of the latest pull requests and contributions I’ve made.*
 
 
-* [#5 - Update Windows to use bash](https://github.com/patrickdappollonio/gc-rust/pull/5) on `patrickdappollonio/gc-rust` *(Merged)*
-* [#4 - Update Cargo again.](https://github.com/patrickdappollonio/gc-rust/pull/4) on `patrickdappollonio/gc-rust` *(Merged)*
-* [#3 - Use different versions for macOS vs Linux](https://github.com/patrickdappollonio/gc-rust/pull/3) on `patrickdappollonio/gc-rust` *(Merged)*
-* [#2 - Ensure versions in Cargo.toml match the version in tag.](https://github.com/patrickdappollonio/gc-rust/pull/2) on `patrickdappollonio/gc-rust` *(Merged)*
-* [#1 - Simplify code by processing everything in the same Regexp.](https://github.com/patrickdappollonio/gc-rust/pull/1) on `patrickdappollonio/gc-rust` *(Merged)*
-* [#400 - Fix minor inconsistencies with the API.](https://github.com/konstructio/kubefirst-api/pull/400) on `konstructio/kubefirst-api` *(Merged)*
-* [#6 - Update release flow to use dynamic Go version](https://github.com/konstructio/dropkick/pull/6) on `konstructio/dropkick` *(Merged)*
-* [#391 - Add GolangCI Linter. Run "gofmt" on all files.](https://github.com/konstructio/kubefirst-api/pull/391) on `konstructio/kubefirst-api` *(Draft)*
-* [#5 - Add support for DigitalOcean](https://github.com/konstructio/dropkick/pull/5) on `konstructio/dropkick` *(Merged)*
-* [#4 - Improve and allow extendability of current CLI.](https://github.com/konstructio/dropkick/pull/4) on `konstructio/dropkick` *(Merged)*
+* [#796 - Akamai upgrade](https://github.com/konstructio/gitops-template/pull/796) on `konstructio/gitops-template` *(Merged)*
+* [#404 - upgrade akamai argo](https://github.com/konstructio/kubefirst-api/pull/404) on `konstructio/kubefirst-api` *(Merged)*
+* [#2266 - fix: akamai](https://github.com/konstructio/kubefirst/pull/2266) on `konstructio/kubefirst` *(Merged)*
+* [#402 - feat: civo,google,vultr argo upgrade](https://github.com/konstructio/kubefirst-api/pull/402) on `konstructio/kubefirst-api` *(Merged)*
+* [#795 - fix,feat: google,vultr k8s and argo upgrade](https://github.com/konstructio/gitops-template/pull/795) on `konstructio/gitops-template` *(Merged)*
+* [#794 - feat,fix: civo,google,vultr argo upgrade and vultr fix](https://github.com/konstructio/gitops-template/pull/794) on `konstructio/gitops-template` *(Merged)*
+* [#401 - feat: civo upgrade](https://github.com/konstructio/kubefirst-api/pull/401) on `konstructio/kubefirst-api` 
+* [#399 - feat: aws argo upgrade](https://github.com/konstructio/kubefirst-api/pull/399) on `konstructio/kubefirst-api` *(Merged)*
+* [#791 - feat: upgrade the AWS EKS cluster, the Kubernetes version it runs, and the version of Argo ](https://github.com/konstructio/gitops-template/pull/791) on `konstructio/gitops-template` *(Merged)*
+* [#790 - fix: digital ocean k8s version upgrade](https://github.com/konstructio/gitops-template/pull/790) on `konstructio/gitops-template` *(Merged)*
 
 ### 🌟 Projects I’m Following
 
 *These are some repositories I’ve recently starred because they caught my eye.*
 
 
-* [ratatui/ratatui](https://github.com/ratatui/ratatui) by [@ratatui](https://github.com/ratatui) with 9.5K ⭐️
+* [patrickdappollonio/patrickdappollonio](https://github.com/patrickdappollonio/patrickdappollonio) by [@patrickdappollonio](https://github.com/patrickdappollonio) with 1 ⭐️
+* [patrickdappollonio/dotfiles](https://github.com/patrickdappollonio/dotfiles) by [@patrickdappollonio](https://github.com/patrickdappollonio) with 1 ⭐️
+* [charmbracelet/gum](https://github.com/charmbracelet/gum) by [@charmbracelet](https://github.com/charmbracelet) with 17.7K ⭐️
+* [charmbracelet/huh](https://github.com/charmbracelet/huh) by [@charmbracelet](https://github.com/charmbracelet) with 3.10K ⭐️
+* [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) by [@konstructio](https://github.com/konstructio) with 20 ⭐️
+* [ssotops/k1space](https://github.com/ssotops/k1space) by [@ssotops](https://github.com/ssotops) with 2 ⭐️
 * [jdx/demand](https://github.com/jdx/demand) by [@jdx](https://github.com/jdx) with 49 ⭐️
-* [k3s-io/helm-controller](https://github.com/k3s-io/helm-controller) by [@k3s-io](https://github.com/k3s-io) with 370 ⭐️
-* [zen-browser/desktop](https://github.com/zen-browser/desktop) by [@zen-browser](https://github.com/zen-browser) with 9.2K ⭐️
-* [twpayne/go-sse](https://github.com/twpayne/go-sse) by [@twpayne](https://github.com/twpayne) with 5 ⭐️
-* [caarlos0/mdtree](https://github.com/caarlos0/mdtree) by [@caarlos0](https://github.com/caarlos0) with 34 ⭐️
-* [astral-sh/uv](https://github.com/astral-sh/uv) by [@astral-sh](https://github.com/astral-sh) with 18.2K ⭐️
-* [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) by [@masonr](https://github.com/masonr) with 4.1K ⭐️
-* [JamesWoolfenden/ghat](https://github.com/JamesWoolfenden/ghat) by [@JamesWoolfenden](https://github.com/JamesWoolfenden) with 24 ⭐️
-* [moderato-app/approf](https://github.com/moderato-app/approf) by [@moderato-app](https://github.com/moderato-app) with 177 ⭐️
+* [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) by [@konstructio](https://github.com/konstructio) with 9 ⭐️
+* [konstructio/kubefirst](https://github.com/konstructio/kubefirst) by [@konstructio](https://github.com/konstructio) with 1.7K ⭐️
 
-<sub><small>Last updated: August 27, 2024 at 21:46:13 EDT. This content updates twice daily or when manually triggered.</small></sub>
+<sub><small>Last updated: August 27, 2024 at 21:49:08 EDT. This content updates twice daily or when manually triggered.</small></sub>
