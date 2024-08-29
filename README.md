@@ -11,6 +11,9 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Here are some of the latest pull requests and contributions I’ve made.*
 
 
+* [#2269 - fix:add restart function for argo](https://github.com/konstructio/kubefirst/pull/2269) on `konstructio/kubefirst` *(Merged)*
+* [#2268 - fix: add restart function for argo](https://github.com/konstructio/kubefirst/pull/2268) on `konstructio/kubefirst` 
+* [#413 - fix,feat: argo restart for k3d and argo upgrade](https://github.com/konstructio/kubefirst-api/pull/413) on `konstructio/kubefirst-api` *(Merged)*
 * [#797 - feat,fix: Konstruct chart reference and K3d upgrade](https://github.com/konstructio/gitops-template/pull/797) on `konstructio/gitops-template` *(Merged)*
 * [#2267 - fix: reference to konstruct](https://github.com/konstructio/kubefirst/pull/2267) on `konstructio/kubefirst` *(Merged)*
 * [#796 - Akamai upgrade](https://github.com/konstructio/gitops-template/pull/796) on `konstructio/gitops-template` *(Merged)*
@@ -18,9 +21,6 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#2266 - fix: akamai](https://github.com/konstructio/kubefirst/pull/2266) on `konstructio/kubefirst` *(Merged)*
 * [#402 - feat: civo,google,vultr argo upgrade](https://github.com/konstructio/kubefirst-api/pull/402) on `konstructio/kubefirst-api` *(Merged)*
 * [#795 - fix,feat: google,vultr k8s and argo upgrade](https://github.com/konstructio/gitops-template/pull/795) on `konstructio/gitops-template` *(Merged)*
-* [#794 - feat,fix: civo,google,vultr argo upgrade and vultr fix](https://github.com/konstructio/gitops-template/pull/794) on `konstructio/gitops-template` *(Merged)*
-* [#401 - feat: civo upgrade](https://github.com/konstructio/kubefirst-api/pull/401) on `konstructio/kubefirst-api` 
-* [#399 - feat: aws argo upgrade](https://github.com/konstructio/kubefirst-api/pull/399) on `konstructio/kubefirst-api` *(Merged)*
 
 ### 🌟 Projects I’m Following
 
@@ -37,4 +37,4 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) by [@konstructio](https://github.com/konstructio) with 9 ⭐️
 * [konstructio/kubefirst](https://github.com/konstructio/kubefirst) by [@konstructio](https://github.com/konstructio) with 1.7K ⭐️
 
-<sub><small>Last updated: August 28, 2024 at 14:26:58 EDT. This content updates twice daily or when manually triggered.</small></sub>
+<sub><small>Last updated: August 28, 2024 at 21:15:48 EDT. This content updates twice daily or when manually triggered.</small></sub>
