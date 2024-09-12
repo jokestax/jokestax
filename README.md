@@ -33,8 +33,8 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [charmbracelet/huh](https://github.com/charmbracelet/huh) by [@charmbracelet](https://github.com/charmbracelet) with 4.1K ⭐️
 * [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) by [@konstructio](https://github.com/konstructio) with 20 ⭐️
 * [ssotops/k1space](https://github.com/ssotops/k1space) by [@ssotops](https://github.com/ssotops) with 3 ⭐️
-* [jdx/demand](https://github.com/jdx/demand) by [@jdx](https://github.com/jdx) with 50 ⭐️
+* [jdx/demand](https://github.com/jdx/demand) by [@jdx](https://github.com/jdx) with 51 ⭐️
 * [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) by [@konstructio](https://github.com/konstructio) with 9 ⭐️
 * [konstructio/kubefirst](https://github.com/konstructio/kubefirst) by [@konstructio](https://github.com/konstructio) with 1.7K ⭐️
 
-<sub><small>Last updated: September 11, 2024 at 21:17:06 EDT. This content updates twice daily or when manually triggered.</small></sub>
+<sub><small>Last updated: September 12, 2024 at 08:33:12 EDT. This content updates twice daily or when manually triggered.</small></sub>
