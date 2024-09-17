@@ -11,7 +11,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Here are some of the latest pull requests and contributions I’ve made.*
 
 
-* [#2284 - fix reset cmd](https://github.com/konstructio/kubefirst/pull/2284) on `konstructio/kubefirst` 
+* [#2284 - fix reset cmd](https://github.com/konstructio/kubefirst/pull/2284) on `konstructio/kubefirst` *(Merged)*
 * [#2283 - fix: add check for viperfile](https://github.com/konstructio/kubefirst/pull/2283) on `konstructio/kubefirst` 
 * [#2281 - rebase](https://github.com/konstructio/kubefirst/pull/2281) on `konstructio/kubefirst` 
 * [#418 - fix: secret gitops catalog](https://github.com/konstructio/kubefirst-api/pull/418) on `konstructio/kubefirst-api` *(Merged)*
@@ -27,6 +27,8 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *These are some repositories I’ve recently starred because they caught my eye.*
 
 
+* [konstructio/dropkick](https://github.com/konstructio/dropkick) by [@konstructio](https://github.com/konstructio) with 3 ⭐️
+* [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) by [@konstructio](https://github.com/konstructio) with 9 ⭐️
 * [patrickdappollonio/patrickdappollonio](https://github.com/patrickdappollonio/patrickdappollonio) by [@patrickdappollonio](https://github.com/patrickdappollonio) with 2 ⭐️
 * [patrickdappollonio/dotfiles](https://github.com/patrickdappollonio/dotfiles) by [@patrickdappollonio](https://github.com/patrickdappollonio) with 1 ⭐️
 * [charmbracelet/gum](https://github.com/charmbracelet/gum) by [@charmbracelet](https://github.com/charmbracelet) with 17.8K ⭐️
@@ -35,6 +37,5 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [ssotops/k1space](https://github.com/ssotops/k1space) by [@ssotops](https://github.com/ssotops) with 3 ⭐️
 * [jdx/demand](https://github.com/jdx/demand) by [@jdx](https://github.com/jdx) with 52 ⭐️
 * [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) by [@konstructio](https://github.com/konstructio) with 9 ⭐️
-* [konstructio/kubefirst](https://github.com/konstructio/kubefirst) by [@konstructio](https://github.com/konstructio) with 1.7K ⭐️
 
-<sub><small>Last updated: September 16, 2024 at 21:04:40 EDT. This content updates twice daily or when manually triggered.</small></sub>
+<sub><small>Last updated: September 17, 2024 at 08:33:50 EDT. This content updates twice daily or when manually triggered.</small></sub>
