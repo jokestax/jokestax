@@ -27,6 +27,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *These are some repositories I’ve recently starred because they caught my eye.*
 
 
+* [patrickdappollonio/gc-rust](https://github.com/patrickdappollonio/gc-rust) by [@patrickdappollonio](https://github.com/patrickdappollonio) with 2 ⭐️
 * [konstructio/dropkick](https://github.com/konstructio/dropkick) by [@konstructio](https://github.com/konstructio) with 3 ⭐️
 * [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) by [@konstructio](https://github.com/konstructio) with 13 ⭐️
 * [patrickdappollonio/patrickdappollonio](https://github.com/patrickdappollonio/patrickdappollonio) by [@patrickdappollonio](https://github.com/patrickdappollonio) with 2 ⭐️
@@ -36,6 +37,5 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) by [@konstructio](https://github.com/konstructio) with 20 ⭐️
 * [ssotops/k1space](https://github.com/ssotops/k1space) by [@ssotops](https://github.com/ssotops) with 3 ⭐️
 * [jdx/demand](https://github.com/jdx/demand) by [@jdx](https://github.com/jdx) with 52 ⭐️
-* [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) by [@konstructio](https://github.com/konstructio) with 9 ⭐️
 
-<sub><small>Last updated: September 17, 2024 at 21:17:16 EDT. This content updates twice daily or when manually triggered.</small></sub>
+<sub><small>Last updated: September 18, 2024 at 08:33:36 EDT. This content updates twice daily or when manually triggered.</small></sub>
