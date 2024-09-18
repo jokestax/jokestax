@@ -11,6 +11,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Here are some of the latest pull requests and contributions I’ve made.*
 
 
+* [#2286 - fix:check docker daemon running?](https://github.com/konstructio/kubefirst/pull/2286) on `konstructio/kubefirst` 
 * [#2284 - fix reset cmd](https://github.com/konstructio/kubefirst/pull/2284) on `konstructio/kubefirst` *(Merged)*
 * [#2283 - fix: add check for viperfile](https://github.com/konstructio/kubefirst/pull/2283) on `konstructio/kubefirst` 
 * [#2281 - rebase](https://github.com/konstructio/kubefirst/pull/2281) on `konstructio/kubefirst` 
@@ -20,7 +21,6 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#413 - fix,feat: argo restart for k3d and argo upgrade](https://github.com/konstructio/kubefirst-api/pull/413) on `konstructio/kubefirst-api` *(Merged)*
 * [#797 - feat,fix: Konstruct chart reference and K3d upgrade](https://github.com/konstructio/gitops-template/pull/797) on `konstructio/gitops-template` *(Merged)*
 * [#2267 - fix: reference to konstruct](https://github.com/konstructio/kubefirst/pull/2267) on `konstructio/kubefirst` *(Merged)*
-* [#796 - Akamai upgrade](https://github.com/konstructio/gitops-template/pull/796) on `konstructio/gitops-template` *(Merged)*
 
 ### 🌟 Projects I’m Following
 
@@ -28,7 +28,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 
 
 * [konstructio/dropkick](https://github.com/konstructio/dropkick) by [@konstructio](https://github.com/konstructio) with 3 ⭐️
-* [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) by [@konstructio](https://github.com/konstructio) with 9 ⭐️
+* [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) by [@konstructio](https://github.com/konstructio) with 13 ⭐️
 * [patrickdappollonio/patrickdappollonio](https://github.com/patrickdappollonio/patrickdappollonio) by [@patrickdappollonio](https://github.com/patrickdappollonio) with 2 ⭐️
 * [patrickdappollonio/dotfiles](https://github.com/patrickdappollonio/dotfiles) by [@patrickdappollonio](https://github.com/patrickdappollonio) with 1 ⭐️
 * [charmbracelet/gum](https://github.com/charmbracelet/gum) by [@charmbracelet](https://github.com/charmbracelet) with 17.8K ⭐️
@@ -38,4 +38,4 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [jdx/demand](https://github.com/jdx/demand) by [@jdx](https://github.com/jdx) with 52 ⭐️
 * [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) by [@konstructio](https://github.com/konstructio) with 9 ⭐️
 
-<sub><small>Last updated: September 17, 2024 at 08:33:50 EDT. This content updates twice daily or when manually triggered.</small></sub>
+<sub><small>Last updated: September 17, 2024 at 21:17:16 EDT. This content updates twice daily or when manually triggered.</small></sub>
