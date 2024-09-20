@@ -11,6 +11,9 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Here are some of the latest pull requests and contributions I’ve made.*
 
 
+* [#2288 - fix: bypass if directory already exists](https://github.com/konstructio/kubefirst/pull/2288) on `konstructio/kubefirst` *(Merged)*
+* [#803 - feat:upgrade vault and crossplane version](https://github.com/konstructio/gitops-template/pull/803) on `konstructio/gitops-template` 
+* [#3 - fix: remove breaking parameters ](https://github.com/konstructio/vault-handler/pull/3) on `konstructio/vault-handler` *(Merged)*
 * [#2286 - fix:check docker daemon running?](https://github.com/konstructio/kubefirst/pull/2286) on `konstructio/kubefirst` 
 * [#2284 - fix reset cmd](https://github.com/konstructio/kubefirst/pull/2284) on `konstructio/kubefirst` *(Merged)*
 * [#2283 - fix: add check for viperfile](https://github.com/konstructio/kubefirst/pull/2283) on `konstructio/kubefirst` 
@@ -18,9 +21,6 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#418 - fix: secret gitops catalog](https://github.com/konstructio/kubefirst-api/pull/418) on `konstructio/kubefirst-api` *(Merged)*
 * [#2269 - fix:add restart function for argo](https://github.com/konstructio/kubefirst/pull/2269) on `konstructio/kubefirst` *(Merged)*
 * [#2268 - fix: add restart function for argo](https://github.com/konstructio/kubefirst/pull/2268) on `konstructio/kubefirst` 
-* [#413 - fix,feat: argo restart for k3d and argo upgrade](https://github.com/konstructio/kubefirst-api/pull/413) on `konstructio/kubefirst-api` *(Merged)*
-* [#797 - feat,fix: Konstruct chart reference and K3d upgrade](https://github.com/konstructio/gitops-template/pull/797) on `konstructio/gitops-template` *(Merged)*
-* [#2267 - fix: reference to konstruct](https://github.com/konstructio/kubefirst/pull/2267) on `konstructio/kubefirst` *(Merged)*
 
 ### 🌟 Projects I’m Following
 
@@ -38,4 +38,4 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [ssotops/k1space](https://github.com/ssotops/k1space) by [@ssotops](https://github.com/ssotops) with 3 ⭐️
 * [jdx/demand](https://github.com/jdx/demand) by [@jdx](https://github.com/jdx) with 52 ⭐️
 
-<sub><small>Last updated: September 19, 2024 at 08:34:00 EDT. This content updates twice daily or when manually triggered.</small></sub>
+<sub><small>Last updated: September 19, 2024 at 21:18:38 EDT. This content updates twice daily or when manually triggered.</small></sub>
