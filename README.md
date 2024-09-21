@@ -36,6 +36,6 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [charmbracelet/huh](https://github.com/charmbracelet/huh) by [@charmbracelet](https://github.com/charmbracelet) with 4.1K ⭐️
 * [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) by [@konstructio](https://github.com/konstructio) with 20 ⭐️
 * [ssotops/k1space](https://github.com/ssotops/k1space) by [@ssotops](https://github.com/ssotops) with 3 ⭐️
-* [jdx/demand](https://github.com/jdx/demand) by [@jdx](https://github.com/jdx) with 52 ⭐️
+* [jdx/demand](https://github.com/jdx/demand) by [@jdx](https://github.com/jdx) with 54 ⭐️
 
-<sub><small>Last updated: September 20, 2024 at 21:17:08 EDT. This content updates twice daily or when manually triggered.</small></sub>
+<sub><small>Last updated: September 21, 2024 at 08:30:59 EDT. This content updates twice daily or when manually triggered.</small></sub>
