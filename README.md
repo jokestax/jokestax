@@ -11,6 +11,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Here are some of the latest pull requests and contributions I’ve made.*
 
 
+* [#426 - fix: ssl secrests in do and adjust metaphor repo](https://github.com/konstructio/kubefirst-api/pull/426) on `konstructio/kubefirst-api` 
 * [#2288 - fix: bypass if directory already exists](https://github.com/konstructio/kubefirst/pull/2288) on `konstructio/kubefirst` *(Merged)*
 * [#803 - feat:upgrade vault and crossplane version](https://github.com/konstructio/gitops-template/pull/803) on `konstructio/gitops-template` 
 * [#3 - fix: remove breaking parameters ](https://github.com/konstructio/vault-handler/pull/3) on `konstructio/vault-handler` *(Merged)*
@@ -20,7 +21,6 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#2281 - rebase](https://github.com/konstructio/kubefirst/pull/2281) on `konstructio/kubefirst` 
 * [#418 - fix: secret gitops catalog](https://github.com/konstructio/kubefirst-api/pull/418) on `konstructio/kubefirst-api` *(Merged)*
 * [#2269 - fix:add restart function for argo](https://github.com/konstructio/kubefirst/pull/2269) on `konstructio/kubefirst` *(Merged)*
-* [#2268 - fix: add restart function for argo](https://github.com/konstructio/kubefirst/pull/2268) on `konstructio/kubefirst` 
 
 ### 🌟 Projects I’m Following
 
@@ -38,4 +38,4 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [ssotops/k1space](https://github.com/ssotops/k1space) by [@ssotops](https://github.com/ssotops) with 3 ⭐️
 * [jdx/demand](https://github.com/jdx/demand) by [@jdx](https://github.com/jdx) with 54 ⭐️
 
-<sub><small>Last updated: September 22, 2024 at 21:20:32 EDT. This content updates twice daily or when manually triggered.</small></sub>
+<sub><small>Last updated: September 23, 2024 at 08:35:04 EDT. This content updates twice daily or when manually triggered.</small></sub>
