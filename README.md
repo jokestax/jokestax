@@ -11,9 +11,9 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Here are some of the latest pull requests and contributions I’ve made.*
 
 
-* [#426 - fix: ssl secrests in do and adjust metaphor repo](https://github.com/konstructio/kubefirst-api/pull/426) on `konstructio/kubefirst-api` 
+* [#426 - fix: ssl secrests in do and adjust metaphor repo](https://github.com/konstructio/kubefirst-api/pull/426) on `konstructio/kubefirst-api` *(Merged)*
 * [#2288 - fix: bypass if directory already exists](https://github.com/konstructio/kubefirst/pull/2288) on `konstructio/kubefirst` *(Merged)*
-* [#803 - feat:upgrade vault and crossplane version](https://github.com/konstructio/gitops-template/pull/803) on `konstructio/gitops-template` 
+* [#803 - feat:upgrade vault and crossplane version](https://github.com/konstructio/gitops-template/pull/803) on `konstructio/gitops-template` *(Merged)*
 * [#3 - fix: remove breaking parameters ](https://github.com/konstructio/vault-handler/pull/3) on `konstructio/vault-handler` *(Merged)*
 * [#2286 - fix:check docker daemon running?](https://github.com/konstructio/kubefirst/pull/2286) on `konstructio/kubefirst` 
 * [#2284 - fix reset cmd](https://github.com/konstructio/kubefirst/pull/2284) on `konstructio/kubefirst` *(Merged)*
@@ -38,4 +38,4 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [ssotops/k1space](https://github.com/ssotops/k1space) by [@ssotops](https://github.com/ssotops) with 3 ⭐️
 * [jdx/demand](https://github.com/jdx/demand) by [@jdx](https://github.com/jdx) with 54 ⭐️
 
-<sub><small>Last updated: September 23, 2024 at 08:35:04 EDT. This content updates twice daily or when manually triggered.</small></sub>
+<sub><small>Last updated: September 23, 2024 at 21:20:42 EDT. This content updates twice daily or when manually triggered.</small></sub>
