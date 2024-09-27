@@ -11,6 +11,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Here are some of the latest pull requests and contributions I’ve made.*
 
 
+* [#431 - fix:nginx apex check for aws](https://github.com/konstructio/kubefirst-api/pull/431) on `konstructio/kubefirst-api` *(Merged)*
 * [#426 - fix: ssl secrests in do and adjust metaphor repo](https://github.com/konstructio/kubefirst-api/pull/426) on `konstructio/kubefirst-api` *(Merged)*
 * [#2288 - fix: bypass if directory already exists](https://github.com/konstructio/kubefirst/pull/2288) on `konstructio/kubefirst` *(Merged)*
 * [#803 - feat:upgrade vault and crossplane version](https://github.com/konstructio/gitops-template/pull/803) on `konstructio/gitops-template` *(Merged)*
@@ -20,13 +21,13 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#2283 - fix: add check for viperfile](https://github.com/konstructio/kubefirst/pull/2283) on `konstructio/kubefirst` 
 * [#2281 - rebase](https://github.com/konstructio/kubefirst/pull/2281) on `konstructio/kubefirst` 
 * [#418 - fix: secret gitops catalog](https://github.com/konstructio/kubefirst-api/pull/418) on `konstructio/kubefirst-api` *(Merged)*
-* [#2269 - fix:add restart function for argo](https://github.com/konstructio/kubefirst/pull/2269) on `konstructio/kubefirst` *(Merged)*
 
 ### 🌟 Projects I’m Following
 
 *These are some repositories I’ve recently starred because they caught my eye.*
 
 
+* [konstructio/console](https://github.com/konstructio/console) by [@konstructio](https://github.com/konstructio) with 7 ⭐️
 * [patrickdappollonio/gc-rust](https://github.com/patrickdappollonio/gc-rust) by [@patrickdappollonio](https://github.com/patrickdappollonio) with 2 ⭐️
 * [konstructio/dropkick](https://github.com/konstructio/dropkick) by [@konstructio](https://github.com/konstructio) with 4 ⭐️
 * [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) by [@konstructio](https://github.com/konstructio) with 13 ⭐️
@@ -36,6 +37,5 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [charmbracelet/huh](https://github.com/charmbracelet/huh) by [@charmbracelet](https://github.com/charmbracelet) with 4.1K ⭐️
 * [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) by [@konstructio](https://github.com/konstructio) with 21 ⭐️
 * [ssotops/k1space](https://github.com/ssotops/k1space) by [@ssotops](https://github.com/ssotops) with 3 ⭐️
-* [jdx/demand](https://github.com/jdx/demand) by [@jdx](https://github.com/jdx) with 55 ⭐️
 
-<sub><small>Last updated: September 26, 2024 at 08:35:45 EDT. This content updates twice daily or when manually triggered.</small></sub>
+<sub><small>Last updated: September 26, 2024 at 21:20:47 EDT. This content updates twice daily or when manually triggered.</small></sub>
