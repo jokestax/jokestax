@@ -34,8 +34,8 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [patrickdappollonio/patrickdappollonio](https://github.com/patrickdappollonio/patrickdappollonio) by [@patrickdappollonio](https://github.com/patrickdappollonio) with 3 ⭐️
 * [patrickdappollonio/dotfiles](https://github.com/patrickdappollonio/dotfiles) by [@patrickdappollonio](https://github.com/patrickdappollonio) with 1 ⭐️
 * [charmbracelet/gum](https://github.com/charmbracelet/gum) by [@charmbracelet](https://github.com/charmbracelet) with 17.9K ⭐️
-* [charmbracelet/huh](https://github.com/charmbracelet/huh) by [@charmbracelet](https://github.com/charmbracelet) with 4.1K ⭐️
+* [charmbracelet/huh](https://github.com/charmbracelet/huh) by [@charmbracelet](https://github.com/charmbracelet) with 4.2K ⭐️
 * [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) by [@konstructio](https://github.com/konstructio) with 21 ⭐️
 * [ssotops/k1space](https://github.com/ssotops/k1space) by [@ssotops](https://github.com/ssotops) with 3 ⭐️
 
-<sub><small>Last updated: September 29, 2024 at 08:32:18 EDT. This content updates twice daily or when manually triggered.</small></sub>
+<sub><small>Last updated: September 29, 2024 at 21:23:07 EDT. This content updates twice daily or when manually triggered.</small></sub>
