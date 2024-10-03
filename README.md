@@ -11,6 +11,8 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Here are some of the latest pull requests and contributions I’ve made.*
 
 
+* [#432 - feat: adjust template for ai cluster](https://github.com/konstructio/kubefirst-api/pull/432) on `konstructio/kubefirst-api` 
+* [#806 - feat: add ai cluster to civo](https://github.com/konstructio/gitops-template/pull/806) on `konstructio/gitops-template` 
 * [#431 - fix:nginx apex check for aws](https://github.com/konstructio/kubefirst-api/pull/431) on `konstructio/kubefirst-api` *(Merged)*
 * [#426 - fix: ssl secrests in do and adjust metaphor repo](https://github.com/konstructio/kubefirst-api/pull/426) on `konstructio/kubefirst-api` *(Merged)*
 * [#2288 - fix: bypass if directory already exists](https://github.com/konstructio/kubefirst/pull/2288) on `konstructio/kubefirst` *(Merged)*
@@ -19,8 +21,6 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#2286 - fix:check docker daemon running?](https://github.com/konstructio/kubefirst/pull/2286) on `konstructio/kubefirst` 
 * [#2284 - fix reset cmd](https://github.com/konstructio/kubefirst/pull/2284) on `konstructio/kubefirst` *(Merged)*
 * [#2283 - fix: add check for viperfile](https://github.com/konstructio/kubefirst/pull/2283) on `konstructio/kubefirst` 
-* [#2281 - rebase](https://github.com/konstructio/kubefirst/pull/2281) on `konstructio/kubefirst` 
-* [#418 - fix: secret gitops catalog](https://github.com/konstructio/kubefirst-api/pull/418) on `konstructio/kubefirst-api` *(Merged)*
 
 ### 🌟 Projects I’m Following
 
@@ -38,4 +38,4 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) by [@konstructio](https://github.com/konstructio) with 21 ⭐️
 * [ssotops/k1space](https://github.com/ssotops/k1space) by [@ssotops](https://github.com/ssotops) with 3 ⭐️
 
-<sub><small>Last updated: October 02, 2024 at 08:35:11 EDT. This content updates twice daily or when manually triggered.</small></sub>
+<sub><small>Last updated: October 02, 2024 at 21:20:45 EDT. This content updates twice daily or when manually triggered.</small></sub>
