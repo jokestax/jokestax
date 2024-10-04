@@ -11,6 +11,8 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Here are some of the latest pull requests and contributions I’ve made.*
 
 
+* [#219 - feat:add gpu field ](https://github.com/civo/civogo/pull/219) on `civo/civogo` 
+* [#1 - feat: add gpu field](https://github.com/jokestax/civogo/pull/1) on `jokestax/civogo` *(Merged)*
 * [#432 - feat: adjust template for ai cluster](https://github.com/konstructio/kubefirst-api/pull/432) on `konstructio/kubefirst-api` 
 * [#806 - feat: add ai cluster to civo](https://github.com/konstructio/gitops-template/pull/806) on `konstructio/gitops-template` 
 * [#431 - fix:nginx apex check for aws](https://github.com/konstructio/kubefirst-api/pull/431) on `konstructio/kubefirst-api` *(Merged)*
@@ -19,8 +21,6 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#803 - feat:upgrade vault and crossplane version](https://github.com/konstructio/gitops-template/pull/803) on `konstructio/gitops-template` *(Merged)*
 * [#3 - fix: remove breaking parameters ](https://github.com/konstructio/vault-handler/pull/3) on `konstructio/vault-handler` *(Merged)*
 * [#2286 - fix:check docker daemon running?](https://github.com/konstructio/kubefirst/pull/2286) on `konstructio/kubefirst` 
-* [#2284 - fix reset cmd](https://github.com/konstructio/kubefirst/pull/2284) on `konstructio/kubefirst` *(Merged)*
-* [#2283 - fix: add check for viperfile](https://github.com/konstructio/kubefirst/pull/2283) on `konstructio/kubefirst` 
 
 ### 🌟 Projects I’m Following
 
@@ -38,4 +38,4 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) by [@konstructio](https://github.com/konstructio) with 21 ⭐️
 * [ssotops/k1space](https://github.com/ssotops/k1space) by [@ssotops](https://github.com/ssotops) with 3 ⭐️
 
-<sub><small>Last updated: October 03, 2024 at 08:34:57 EDT. This content updates twice daily or when manually triggered.</small></sub>
+<sub><small>Last updated: October 03, 2024 at 21:20:46 EDT. This content updates twice daily or when manually triggered.</small></sub>
