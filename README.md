@@ -27,6 +27,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *These are some repositories I’ve recently starred because they caught my eye.*
 
 
+* [konstructio/gitops-template](https://github.com/konstructio/gitops-template) by [@konstructio](https://github.com/konstructio) with 65 ⭐️
 * [konstructio/console](https://github.com/konstructio/console) by [@konstructio](https://github.com/konstructio) with 8 ⭐️
 * [patrickdappollonio/gc-rust](https://github.com/patrickdappollonio/gc-rust) by [@patrickdappollonio](https://github.com/patrickdappollonio) with 2 ⭐️
 * [konstructio/dropkick](https://github.com/konstructio/dropkick) by [@konstructio](https://github.com/konstructio) with 4 ⭐️
@@ -36,6 +37,5 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [charmbracelet/gum](https://github.com/charmbracelet/gum) by [@charmbracelet](https://github.com/charmbracelet) with 17.10K ⭐️
 * [charmbracelet/huh](https://github.com/charmbracelet/huh) by [@charmbracelet](https://github.com/charmbracelet) with 4.2K ⭐️
 * [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) by [@konstructio](https://github.com/konstructio) with 21 ⭐️
-* [ssotops/k1space](https://github.com/ssotops/k1space) by [@ssotops](https://github.com/ssotops) with 3 ⭐️
 
-<sub><small>Last updated: October 06, 2024 at 21:22:58 EDT. This content updates twice daily or when manually triggered.</small></sub>
+<sub><small>Last updated: October 07, 2024 at 08:36:07 EDT. This content updates twice daily or when manually triggered.</small></sub>
