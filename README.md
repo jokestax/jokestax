@@ -11,16 +11,16 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Here are some of the latest pull requests and contributions I’ve made.*
 
 
+* [#812 - rebase](https://github.com/konstructio/gitops-template/pull/812) on `konstructio/gitops-template` *(Merged)*
 * [#810 - rebase](https://github.com/konstructio/gitops-template/pull/810) on `konstructio/gitops-template` *(Merged)*
 * [#808 - feat: eks autoscaler](https://github.com/konstructio/gitops-template/pull/808) on `konstructio/gitops-template` 
 * [#439 - fix vault new version for aws and gcp](https://github.com/konstructio/kubefirst-api/pull/439) on `konstructio/kubefirst-api` *(Merged)*
 * [#219 - feat:add gpu field ](https://github.com/civo/civogo/pull/219) on `civo/civogo` 
 * [#1 - feat: add gpu field](https://github.com/jokestax/civogo/pull/1) on `jokestax/civogo` *(Merged)*
-* [#432 - feat: adjust template for ai cluster](https://github.com/konstructio/kubefirst-api/pull/432) on `konstructio/kubefirst-api` 
-* [#806 - feat: add ai cluster to civo](https://github.com/konstructio/gitops-template/pull/806) on `konstructio/gitops-template` 
+* [#432 - feat: adjust template for ai cluster](https://github.com/konstructio/kubefirst-api/pull/432) on `konstructio/kubefirst-api` *(Merged)*
+* [#806 - feat: add ai cluster to civo](https://github.com/konstructio/gitops-template/pull/806) on `konstructio/gitops-template` *(Merged)*
 * [#431 - fix:nginx apex check for aws](https://github.com/konstructio/kubefirst-api/pull/431) on `konstructio/kubefirst-api` *(Merged)*
 * [#426 - fix: ssl secrests in do and adjust metaphor repo](https://github.com/konstructio/kubefirst-api/pull/426) on `konstructio/kubefirst-api` *(Merged)*
-* [#2288 - fix: bypass if directory already exists](https://github.com/konstructio/kubefirst/pull/2288) on `konstructio/kubefirst` *(Merged)*
 
 ### 🌟 Projects I’m Following
 
@@ -28,7 +28,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 
 
 * [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) by [@patrickdappollonio](https://github.com/patrickdappollonio) with 291 ⭐️
-* [konstructio/gitops-template](https://github.com/konstructio/gitops-template) by [@konstructio](https://github.com/konstructio) with 66 ⭐️
+* [konstructio/gitops-template](https://github.com/konstructio/gitops-template) by [@konstructio](https://github.com/konstructio) with 67 ⭐️
 * [konstructio/console](https://github.com/konstructio/console) by [@konstructio](https://github.com/konstructio) with 8 ⭐️
 * [patrickdappollonio/gc-rust](https://github.com/patrickdappollonio/gc-rust) by [@patrickdappollonio](https://github.com/patrickdappollonio) with 2 ⭐️
 * [konstructio/dropkick](https://github.com/konstructio/dropkick) by [@konstructio](https://github.com/konstructio) with 4 ⭐️
@@ -38,4 +38,4 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [charmbracelet/gum](https://github.com/charmbracelet/gum) by [@charmbracelet](https://github.com/charmbracelet) with 17.10K ⭐️
 * [charmbracelet/huh](https://github.com/charmbracelet/huh) by [@charmbracelet](https://github.com/charmbracelet) with 4.2K ⭐️
 
-<sub><small>Last updated: October 10, 2024 at 08:34:31 EDT. This content updates twice daily or when manually triggered.</small></sub>
+<sub><small>Last updated: October 10, 2024 at 21:20:18 EDT. This content updates twice daily or when manually triggered.</small></sub>
