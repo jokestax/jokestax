@@ -11,6 +11,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Here are some of the latest pull requests and contributions I’ve made.*
 
 
+* [#130 - feat: add docker image](https://github.com/patrickdappollonio/kubectl-slice/pull/130) on `patrickdappollonio/kubectl-slice` 
 * [#812 - rebase](https://github.com/konstructio/gitops-template/pull/812) on `konstructio/gitops-template` *(Merged)*
 * [#810 - rebase](https://github.com/konstructio/gitops-template/pull/810) on `konstructio/gitops-template` *(Merged)*
 * [#808 - feat: eks autoscaler](https://github.com/konstructio/gitops-template/pull/808) on `konstructio/gitops-template` 
@@ -20,7 +21,6 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#432 - feat: adjust template for ai cluster](https://github.com/konstructio/kubefirst-api/pull/432) on `konstructio/kubefirst-api` *(Merged)*
 * [#806 - feat: add ai cluster to civo](https://github.com/konstructio/gitops-template/pull/806) on `konstructio/gitops-template` *(Merged)*
 * [#431 - fix:nginx apex check for aws](https://github.com/konstructio/kubefirst-api/pull/431) on `konstructio/kubefirst-api` *(Merged)*
-* [#426 - fix: ssl secrests in do and adjust metaphor repo](https://github.com/konstructio/kubefirst-api/pull/426) on `konstructio/kubefirst-api` *(Merged)*
 
 ### 🌟 Projects I’m Following
 
@@ -38,4 +38,4 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [charmbracelet/gum](https://github.com/charmbracelet/gum) by [@charmbracelet](https://github.com/charmbracelet) with 17.10K ⭐️
 * [charmbracelet/huh](https://github.com/charmbracelet/huh) by [@charmbracelet](https://github.com/charmbracelet) with 4.2K ⭐️
 
-<sub><small>Last updated: October 12, 2024 at 08:32:02 EDT. This content updates twice daily or when manually triggered.</small></sub>
+<sub><small>Last updated: October 13, 2024 at 08:32:25 EDT. This content updates twice daily or when manually triggered.</small></sub>
