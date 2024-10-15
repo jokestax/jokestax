@@ -11,6 +11,8 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Here are some of the latest pull requests and contributions I’ve made.*
 
 
+* [#442 - feat:clone function for arn](https://github.com/konstructio/kubefirst-api/pull/442) on `konstructio/kubefirst-api` 
+* [#1 - feat irsa for crossplane and kubefirst-pro ](https://github.com/konstructio/aws-arn/pull/1) on `konstructio/aws-arn` *(Merged)*
 * [#130 - Add custom Docker image offering](https://github.com/patrickdappollonio/kubectl-slice/pull/130) on `patrickdappollonio/kubectl-slice` 
 * [#812 - rebase](https://github.com/konstructio/gitops-template/pull/812) on `konstructio/gitops-template` *(Merged)*
 * [#810 - rebase](https://github.com/konstructio/gitops-template/pull/810) on `konstructio/gitops-template` *(Merged)*
@@ -19,8 +21,6 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#219 - feat:add gpu field ](https://github.com/civo/civogo/pull/219) on `civo/civogo` 
 * [#1 - feat: add gpu field](https://github.com/jokestax/civogo/pull/1) on `jokestax/civogo` *(Merged)*
 * [#432 - feat: adjust template for ai cluster](https://github.com/konstructio/kubefirst-api/pull/432) on `konstructio/kubefirst-api` *(Merged)*
-* [#806 - feat: add ai cluster to civo](https://github.com/konstructio/gitops-template/pull/806) on `konstructio/gitops-template` *(Merged)*
-* [#431 - fix:nginx apex check for aws](https://github.com/konstructio/kubefirst-api/pull/431) on `konstructio/kubefirst-api` *(Merged)*
 
 ### 🌟 Projects I’m Following
 
@@ -38,4 +38,4 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [charmbracelet/gum](https://github.com/charmbracelet/gum) by [@charmbracelet](https://github.com/charmbracelet) with 17.10K ⭐️
 * [charmbracelet/huh](https://github.com/charmbracelet/huh) by [@charmbracelet](https://github.com/charmbracelet) with 4.2K ⭐️
 
-<sub><small>Last updated: October 14, 2024 at 08:35:48 EDT. This content updates twice daily or when manually triggered.</small></sub>
+<sub><small>Last updated: October 14, 2024 at 21:21:40 EDT. This content updates twice daily or when manually triggered.</small></sub>
