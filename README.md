@@ -35,7 +35,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) by [@konstructio](https://github.com/konstructio) with 13 ⭐️
 * [patrickdappollonio/patrickdappollonio](https://github.com/patrickdappollonio/patrickdappollonio) by [@patrickdappollonio](https://github.com/patrickdappollonio) with 3 ⭐️
 * [patrickdappollonio/dotfiles](https://github.com/patrickdappollonio/dotfiles) by [@patrickdappollonio](https://github.com/patrickdappollonio) with 1 ⭐️
-* [charmbracelet/gum](https://github.com/charmbracelet/gum) by [@charmbracelet](https://github.com/charmbracelet) with 17.10K ⭐️
+* [charmbracelet/gum](https://github.com/charmbracelet/gum) by [@charmbracelet](https://github.com/charmbracelet) with 18K ⭐️
 * [charmbracelet/huh](https://github.com/charmbracelet/huh) by [@charmbracelet](https://github.com/charmbracelet) with 4.2K ⭐️
 
-<sub><small>Last updated: October 14, 2024 at 21:21:40 EDT. This content updates twice daily or when manually triggered.</small></sub>
+<sub><small>Last updated: October 15, 2024 at 08:35:38 EDT. This content updates twice daily or when manually triggered.</small></sub>
