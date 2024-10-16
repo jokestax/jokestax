@@ -27,7 +27,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *These are some repositories I’ve recently starred because they caught my eye.*
 
 
-* [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) by [@patrickdappollonio](https://github.com/patrickdappollonio) with 291 ⭐️
+* [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) by [@patrickdappollonio](https://github.com/patrickdappollonio) with 292 ⭐️
 * [konstructio/gitops-template](https://github.com/konstructio/gitops-template) by [@konstructio](https://github.com/konstructio) with 67 ⭐️
 * [konstructio/console](https://github.com/konstructio/console) by [@konstructio](https://github.com/konstructio) with 8 ⭐️
 * [patrickdappollonio/gc-rust](https://github.com/patrickdappollonio/gc-rust) by [@patrickdappollonio](https://github.com/patrickdappollonio) with 2 ⭐️
@@ -38,4 +38,4 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [charmbracelet/gum](https://github.com/charmbracelet/gum) by [@charmbracelet](https://github.com/charmbracelet) with 18K ⭐️
 * [charmbracelet/huh](https://github.com/charmbracelet/huh) by [@charmbracelet](https://github.com/charmbracelet) with 4.2K ⭐️
 
-<sub><small>Last updated: October 15, 2024 at 21:21:44 EDT. This content updates twice daily or when manually triggered.</small></sub>
+<sub><small>Last updated: October 16, 2024 at 08:35:30 EDT. This content updates twice daily or when manually triggered.</small></sub>
