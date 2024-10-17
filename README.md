@@ -11,16 +11,16 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Here are some of the latest pull requests and contributions I’ve made.*
 
 
+* [#168 - feat:add iam role annotation to eks autoscaler service account](https://github.com/konstructio/gitops-catalog/pull/168) on `konstructio/gitops-catalog` 
 * [#442 - feat:clone function for arn](https://github.com/konstructio/kubefirst-api/pull/442) on `konstructio/kubefirst-api` *(Merged)*
 * [#1 - feat irsa for crossplane and kubefirst-pro ](https://github.com/konstructio/aws-arn/pull/1) on `konstructio/aws-arn` *(Merged)*
-* [#130 - Add custom Docker image offering](https://github.com/patrickdappollonio/kubectl-slice/pull/130) on `patrickdappollonio/kubectl-slice` 
+* [#130 - Add custom Docker image offering](https://github.com/patrickdappollonio/kubectl-slice/pull/130) on `patrickdappollonio/kubectl-slice` *(Merged)*
 * [#812 - rebase](https://github.com/konstructio/gitops-template/pull/812) on `konstructio/gitops-template` *(Merged)*
 * [#810 - rebase](https://github.com/konstructio/gitops-template/pull/810) on `konstructio/gitops-template` *(Merged)*
-* [#808 - feat: eks autoscaler](https://github.com/konstructio/gitops-template/pull/808) on `konstructio/gitops-template` 
+* [#808 - feat,fix: eks vault iam permissions,eks autoscaler iam role,](https://github.com/konstructio/gitops-template/pull/808) on `konstructio/gitops-template` *(Merged)*
 * [#439 - fix vault new version for aws and gcp](https://github.com/konstructio/kubefirst-api/pull/439) on `konstructio/kubefirst-api` *(Merged)*
 * [#219 - feat:add gpu field ](https://github.com/civo/civogo/pull/219) on `civo/civogo` 
 * [#1 - feat: add gpu field](https://github.com/jokestax/civogo/pull/1) on `jokestax/civogo` *(Merged)*
-* [#432 - feat: adjust template for ai cluster](https://github.com/konstructio/kubefirst-api/pull/432) on `konstructio/kubefirst-api` *(Merged)*
 
 ### 🌟 Projects I’m Following
 
@@ -38,4 +38,4 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [charmbracelet/gum](https://github.com/charmbracelet/gum) by [@charmbracelet](https://github.com/charmbracelet) with 18K ⭐️
 * [charmbracelet/huh](https://github.com/charmbracelet/huh) by [@charmbracelet](https://github.com/charmbracelet) with 4.2K ⭐️
 
-<sub><small>Last updated: October 16, 2024 at 08:35:30 EDT. This content updates twice daily or when manually triggered.</small></sub>
+<sub><small>Last updated: October 16, 2024 at 21:21:03 EDT. This content updates twice daily or when manually triggered.</small></sub>
