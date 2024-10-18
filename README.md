@@ -27,6 +27,9 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *These are some repositories I’ve recently starred because they caught my eye.*
 
 
+* [konstructio/colony-docs](https://github.com/konstructio/colony-docs) by [@konstructio](https://github.com/konstructio) with 2 ⭐️
+* [konstructio/code-samples](https://github.com/konstructio/code-samples) by [@konstructio](https://github.com/konstructio) with 2 ⭐️
+* [konstructio/branding](https://github.com/konstructio/branding) by [@konstructio](https://github.com/konstructio) with 1 ⭐️
 * [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) by [@patrickdappollonio](https://github.com/patrickdappollonio) with 292 ⭐️
 * [konstructio/gitops-template](https://github.com/konstructio/gitops-template) by [@konstructio](https://github.com/konstructio) with 67 ⭐️
 * [konstructio/console](https://github.com/konstructio/console) by [@konstructio](https://github.com/konstructio) with 8 ⭐️
@@ -34,8 +37,5 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [konstructio/dropkick](https://github.com/konstructio/dropkick) by [@konstructio](https://github.com/konstructio) with 5 ⭐️
 * [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) by [@konstructio](https://github.com/konstructio) with 13 ⭐️
 * [patrickdappollonio/patrickdappollonio](https://github.com/patrickdappollonio/patrickdappollonio) by [@patrickdappollonio](https://github.com/patrickdappollonio) with 3 ⭐️
-* [patrickdappollonio/dotfiles](https://github.com/patrickdappollonio/dotfiles) by [@patrickdappollonio](https://github.com/patrickdappollonio) with 1 ⭐️
-* [charmbracelet/gum](https://github.com/charmbracelet/gum) by [@charmbracelet](https://github.com/charmbracelet) with 18K ⭐️
-* [charmbracelet/huh](https://github.com/charmbracelet/huh) by [@charmbracelet](https://github.com/charmbracelet) with 4.2K ⭐️
 
-<sub><small>Last updated: October 17, 2024 at 21:21:06 EDT. This content updates twice daily or when manually triggered.</small></sub>
+<sub><small>Last updated: October 18, 2024 at 08:34:44 EDT. This content updates twice daily or when manually triggered.</small></sub>
