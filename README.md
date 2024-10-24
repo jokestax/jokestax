@@ -11,6 +11,8 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Here are some of the latest pull requests and contributions I’ve made.*
 
 
+* [#451 - fix : argocd application controller ](https://github.com/konstructio/kubefirst-api/pull/451) on `konstructio/kubefirst-api` 
+* [#817 - feat: change number of max and min nodes for nodes groups](https://github.com/konstructio/gitops-template/pull/817) on `konstructio/gitops-template` 
 * [#450 - fix: change url of kubefirst console for k3d](https://github.com/konstructio/kubefirst-api/pull/450) on `konstructio/kubefirst-api` 
 * [#816 - fix: remove annotations in ingress for k3d](https://github.com/konstructio/gitops-template/pull/816) on `konstructio/gitops-template` *(Merged)*
 * [#2309 - fix: k3d](https://github.com/konstructio/kubefirst/pull/2309) on `konstructio/kubefirst` *(Merged)*
@@ -19,8 +21,6 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#168 - feat:add iam role annotation to eks autoscaler service account](https://github.com/konstructio/gitops-catalog/pull/168) on `konstructio/gitops-catalog` *(Merged)*
 * [#442 - feat:clone function for arn](https://github.com/konstructio/kubefirst-api/pull/442) on `konstructio/kubefirst-api` *(Merged)*
 * [#1 - feat irsa for crossplane and kubefirst-pro ](https://github.com/konstructio/aws-arn/pull/1) on `konstructio/aws-arn` *(Merged)*
-* [#130 - Add custom Docker image offering](https://github.com/patrickdappollonio/kubectl-slice/pull/130) on `patrickdappollonio/kubectl-slice` *(Merged)*
-* [#812 - rebase](https://github.com/konstructio/gitops-template/pull/812) on `konstructio/gitops-template` *(Merged)*
 
 ### 🌟 Projects I’m Following
 
@@ -30,7 +30,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [konstructio/colony-docs](https://github.com/konstructio/colony-docs) by [@konstructio](https://github.com/konstructio) with 2 ⭐️
 * [konstructio/code-samples](https://github.com/konstructio/code-samples) by [@konstructio](https://github.com/konstructio) with 2 ⭐️
 * [konstructio/branding](https://github.com/konstructio/branding) by [@konstructio](https://github.com/konstructio) with 1 ⭐️
-* [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) by [@patrickdappollonio](https://github.com/patrickdappollonio) with 292 ⭐️
+* [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) by [@patrickdappollonio](https://github.com/patrickdappollonio) with 293 ⭐️
 * [konstructio/gitops-template](https://github.com/konstructio/gitops-template) by [@konstructio](https://github.com/konstructio) with 67 ⭐️
 * [konstructio/console](https://github.com/konstructio/console) by [@konstructio](https://github.com/konstructio) with 8 ⭐️
 * [patrickdappollonio/gc-rust](https://github.com/patrickdappollonio/gc-rust) by [@patrickdappollonio](https://github.com/patrickdappollonio) with 2 ⭐️
@@ -38,4 +38,4 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) by [@konstructio](https://github.com/konstructio) with 13 ⭐️
 * [patrickdappollonio/patrickdappollonio](https://github.com/patrickdappollonio/patrickdappollonio) by [@patrickdappollonio](https://github.com/patrickdappollonio) with 3 ⭐️
 
-<sub><small>Last updated: October 23, 2024 at 08:35:14 EDT. This content updates twice daily or when manually triggered.</small></sub>
+<sub><small>Last updated: October 23, 2024 at 21:20:50 EDT. This content updates twice daily or when manually triggered.</small></sub>
