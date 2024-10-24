@@ -12,7 +12,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 
 
 * [#451 - fix : argocd application controller ](https://github.com/konstructio/kubefirst-api/pull/451) on `konstructio/kubefirst-api` 
-* [#817 - feat: change number of max and min nodes for nodes groups](https://github.com/konstructio/gitops-template/pull/817) on `konstructio/gitops-template` 
+* [#817 - feat: change number of max and min nodes for nodes groups](https://github.com/konstructio/gitops-template/pull/817) on `konstructio/gitops-template` *(Merged)*
 * [#450 - fix: change url of kubefirst console for k3d](https://github.com/konstructio/kubefirst-api/pull/450) on `konstructio/kubefirst-api` 
 * [#816 - fix: remove annotations in ingress for k3d](https://github.com/konstructio/gitops-template/pull/816) on `konstructio/gitops-template` *(Merged)*
 * [#2309 - fix: k3d](https://github.com/konstructio/kubefirst/pull/2309) on `konstructio/kubefirst` *(Merged)*
@@ -38,4 +38,4 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) by [@konstructio](https://github.com/konstructio) with 13 ⭐️
 * [patrickdappollonio/patrickdappollonio](https://github.com/patrickdappollonio/patrickdappollonio) by [@patrickdappollonio](https://github.com/patrickdappollonio) with 3 ⭐️
 
-<sub><small>Last updated: October 23, 2024 at 21:20:50 EDT. This content updates twice daily or when manually triggered.</small></sub>
+<sub><small>Last updated: October 24, 2024 at 08:35:27 EDT. This content updates twice daily or when manually triggered.</small></sub>
