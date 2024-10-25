@@ -11,16 +11,16 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Here are some of the latest pull requests and contributions I’ve made.*
 
 
+* [#2313 - feat: tag api to latest version](https://github.com/konstructio/kubefirst/pull/2313) on `konstructio/kubefirst` *(Merged)*
 * [#451 - fix : argocd application controller ](https://github.com/konstructio/kubefirst-api/pull/451) on `konstructio/kubefirst-api` 
 * [#817 - feat: change number of max and min nodes for nodes groups](https://github.com/konstructio/gitops-template/pull/817) on `konstructio/gitops-template` *(Merged)*
-* [#450 - fix: change url of kubefirst console for k3d](https://github.com/konstructio/kubefirst-api/pull/450) on `konstructio/kubefirst-api` 
+* [#450 - fix: change url of kubefirst console for k3d](https://github.com/konstructio/kubefirst-api/pull/450) on `konstructio/kubefirst-api` *(Merged)*
 * [#816 - fix: remove annotations in ingress for k3d](https://github.com/konstructio/gitops-template/pull/816) on `konstructio/gitops-template` *(Merged)*
 * [#2309 - fix: k3d](https://github.com/konstructio/kubefirst/pull/2309) on `konstructio/kubefirst` *(Merged)*
 * [#815 - fix: correct chartmuseum secret path](https://github.com/konstructio/gitops-template/pull/815) on `konstructio/gitops-template` *(Merged)*
 * [#814 - fix: aws multi](https://github.com/konstructio/gitops-template/pull/814) on `konstructio/gitops-template` *(Merged)*
 * [#168 - feat:add iam role annotation to eks autoscaler service account](https://github.com/konstructio/gitops-catalog/pull/168) on `konstructio/gitops-catalog` *(Merged)*
 * [#442 - feat:clone function for arn](https://github.com/konstructio/kubefirst-api/pull/442) on `konstructio/kubefirst-api` *(Merged)*
-* [#1 - feat irsa for crossplane and kubefirst-pro ](https://github.com/konstructio/aws-arn/pull/1) on `konstructio/aws-arn` *(Merged)*
 
 ### 🌟 Projects I’m Following
 
@@ -38,4 +38,4 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) by [@konstructio](https://github.com/konstructio) with 13 ⭐️
 * [patrickdappollonio/patrickdappollonio](https://github.com/patrickdappollonio/patrickdappollonio) by [@patrickdappollonio](https://github.com/patrickdappollonio) with 3 ⭐️
 
-<sub><small>Last updated: October 24, 2024 at 08:35:27 EDT. This content updates twice daily or when manually triggered.</small></sub>
+<sub><small>Last updated: October 24, 2024 at 21:21:39 EDT. This content updates twice daily or when manually triggered.</small></sub>
