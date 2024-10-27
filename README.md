@@ -5,37 +5,50 @@
 Hey there! I’m Rishi, a Junior Platform Engineer at [Kubefirst](https://kubefirst.io/), specializing in Go and Kubernetes. My journey includes an internship at [Graphene AI](https://grapheneai.com/) where I automated cloud infrastructure with Terraform, and a role at [IRIS NITK](https://iris.nitk.ac.in/hrms/) managing data center operations. I also contributed as Co-chair at the [Web Enthusiasts Club](https://webclub.nitk.ac.in/) in Systems and Security SIG.
 
 Feel free to explore my work, and don’t hesitate to connect with me. Find me on [Twitter](https://x.com/RishixMonk) and [LinkedIn](https://www.linkedin.com/in/mrrishi373/).
+### ✍️ Recent Public Contributions
 
-### 🚀 Recent Contributions
-
-*Here are some of the latest pull requests and contributions I’ve made.*
-
-
-* [#2313 - feat: tag api to latest version](https://github.com/konstructio/kubefirst/pull/2313) on `konstructio/kubefirst` *(Merged)*
-* [#451 - fix : argocd application controller ](https://github.com/konstructio/kubefirst-api/pull/451) on `konstructio/kubefirst-api` 
-* [#817 - feat: change number of max and min nodes for nodes groups](https://github.com/konstructio/gitops-template/pull/817) on `konstructio/gitops-template` *(Merged)*
-* [#450 - fix: change url of kubefirst console for k3d](https://github.com/konstructio/kubefirst-api/pull/450) on `konstructio/kubefirst-api` *(Merged)*
-* [#816 - fix: remove annotations in ingress for k3d](https://github.com/konstructio/gitops-template/pull/816) on `konstructio/gitops-template` *(Merged)*
-* [#2309 - fix: k3d](https://github.com/konstructio/kubefirst/pull/2309) on `konstructio/kubefirst` *(Merged)*
-* [#815 - fix: correct chartmuseum secret path](https://github.com/konstructio/gitops-template/pull/815) on `konstructio/gitops-template` *(Merged)*
-* [#814 - fix: aws multi](https://github.com/konstructio/gitops-template/pull/814) on `konstructio/gitops-template` *(Merged)*
-* [#168 - feat:add iam role annotation to eks autoscaler service account](https://github.com/konstructio/gitops-catalog/pull/168) on `konstructio/gitops-catalog` *(Merged)*
-* [#442 - feat:clone function for arn](https://github.com/konstructio/kubefirst-api/pull/442) on `konstructio/kubefirst-api` *(Merged)*
-
-### 🌟 Projects I’m Following
-
-*These are some repositories I’ve recently starred because they caught my eye.*
+*Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
-* [konstructio/colony-docs](https://github.com/konstructio/colony-docs) by [@konstructio](https://github.com/konstructio) with 2 ⭐️
-* [konstructio/code-samples](https://github.com/konstructio/code-samples) by [@konstructio](https://github.com/konstructio) with 2 ⭐️
-* [konstructio/branding](https://github.com/konstructio/branding) by [@konstructio](https://github.com/konstructio) with 1 ⭐️
-* [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) by [@patrickdappollonio](https://github.com/patrickdappollonio) with 293 ⭐️
-* [konstructio/gitops-template](https://github.com/konstructio/gitops-template) by [@konstructio](https://github.com/konstructio) with 67 ⭐️
-* [konstructio/console](https://github.com/konstructio/console) by [@konstructio](https://github.com/konstructio) with 8 ⭐️
-* [patrickdappollonio/gc-rust](https://github.com/patrickdappollonio/gc-rust) by [@patrickdappollonio](https://github.com/patrickdappollonio) with 2 ⭐️
-* [konstructio/dropkick](https://github.com/konstructio/dropkick) by [@konstructio](https://github.com/konstructio) with 5 ⭐️
-* [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) by [@konstructio](https://github.com/konstructio) with 13 ⭐️
-* [patrickdappollonio/patrickdappollonio](https://github.com/patrickdappollonio/patrickdappollonio) by [@patrickdappollonio](https://github.com/patrickdappollonio) with 3 ⭐️
+* [#136 - Add support for appropriate GOMAXPROCS that's aware of Kubernetes limits.](https://github.com/patrickdappollonio/http-server/pull/136) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#135 - Enable etag generation on smaller files only.](https://github.com/patrickdappollonio/http-server/pull/135) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#1 - Add support for stripping debug symbols while releasing.](https://github.com/patrickdappollonio/find-project/pull/1) on `patrickdappollonio/find-project` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#132 - Add additional permissions for releases.](https://github.com/patrickdappollonio/kubectl-slice/pull/132) on `patrickdappollonio/kubectl-slice` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#131 - Fix naming convention on Github Action.](https://github.com/patrickdappollonio/kubectl-slice/pull/131) on `patrickdappollonio/kubectl-slice` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#8 - Add Slice functions: skip, take, max](https://github.com/patrickdappollonio/patrickdappollonio/pull/8) on `patrickdappollonio/patrickdappollonio` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#11 - Ensure GVK is properly detected](https://github.com/konstructio/colony/pull/11) on `konstructio/colony` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#287 - Update Chart.yaml: bump to +1 number](https://github.com/konstructio/charts/pull/287) on `konstructio/charts` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#286 - Update Chart.yaml](https://github.com/konstructio/charts/pull/286) on `konstructio/charts` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#129 - Update documentation on README](https://github.com/patrickdappollonio/http-server/pull/129) on `patrickdappollonio/http-server` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
-<sub><small>Last updated: October 26, 2024 at 21:26:51 EDT. This content updates twice daily or when manually triggered.</small></sub>
+Overall, my most recent contributions (besides my own repos) have gone to 
+[@konstructio](https://github.com/konstructio),
+[@kubernetes-sigs](https://github.com/kubernetes-sigs)
+and [@ansible](https://github.com/ansible).
+### ⭐ New third-party projects I'm keeping an eye on
+
+*Repositories I've starred recently because they were interesting, cool, or useful.*
+
+
+* [tidwall/buntdb](https://github.com/tidwall/buntdb) from [@tidwall](https://github.com/tidwall) with 4.6K ⭐️
+* [dave/jennifer](https://github.com/dave/jennifer) from [@dave](https://github.com/dave) with 3.4K ⭐️
+* [google/go-querystring](https://github.com/google/go-querystring) from [@google](https://github.com/google) with 1.10K ⭐️
+* [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) from [@siyuan-note](https://github.com/siyuan-note) with 21.4K ⭐️
+* [jeefy/kippy](https://github.com/jeefy/kippy) from [@jeefy](https://github.com/jeefy) with 3 ⭐️
+* [jordanwilson230/kubectl-plugins](https://github.com/jordanwilson230/kubectl-plugins) from [@jordanwilson230](https://github.com/jordanwilson230) with 622 ⭐️
+* [microsoft/BitNet](https://github.com/microsoft/BitNet) from [@microsoft](https://github.com/microsoft) with 9.10K ⭐️
+* [gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) from [@gosub-io](https://github.com/gosub-io) with 3.4K ⭐️
+* [douglasmakey/rrm](https://github.com/douglasmakey/rrm) from [@douglasmakey](https://github.com/douglasmakey) with 1 ⭐️
+* [fastrepl/canary](https://github.com/fastrepl/canary) from [@fastrepl](https://github.com/fastrepl) with 389 ⭐️
+* [samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) from [@samuel-vitorino](https://github.com/samuel-vitorino) with 895 ⭐️
+* [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) from [@fsnotify](https://github.com/fsnotify) with 9.6K ⭐️
+* [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) from [@drawdb-io](https://github.com/drawdb-io) with 21.2K ⭐️
+* [TruDan/dbdiagram-oss](https://github.com/TruDan/dbdiagram-oss) from [@TruDan](https://github.com/TruDan) with 300 ⭐️
+* [go-simpler/env](https://github.com/go-simpler/env) from [@go-simpler](https://github.com/go-simpler) with 64 ⭐️
+* [ivansaul/CLI-Video-Compressor](https://github.com/ivansaul/CLI-Video-Compressor) from [@ivansaul](https://github.com/ivansaul) with 12 ⭐️
+* [stakater/Forecastle](https://github.com/stakater/Forecastle) from [@stakater](https://github.com/stakater) with 596 ⭐️
+* [corona10/goimagehash](https://github.com/corona10/goimagehash) from [@corona10](https://github.com/corona10) with 746 ⭐️
+* [projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) from [@projectdiscovery](https://github.com/projectdiscovery) with 741 ⭐️
+* [go-rod/rod](https://github.com/go-rod/rod) from [@go-rod](https://github.com/go-rod) with 5.3K ⭐️
+
+<sup><sub>Last updated: October 27, 2024 at 08:54:24 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
