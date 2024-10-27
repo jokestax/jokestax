@@ -8,7 +8,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 
 {{- $contributed_orgs := .ContributedOrgs -}}
 {{- with .PullRequests }}
-### 🚀 Recent Contributions
+### ✍️ Recent Public Contributions
 
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
@@ -20,6 +20,17 @@ Overall, my most recent contributions (besides my own repos) have gone to {{ tem
 
 {{- end }}
 
+{{- $user := .GitHubUsername }}
+{{- with .Data.repos }}
+### 🛠️ My Open Source projects
+
+*My best recommendations of projects I maintain that might help you in your day-to-day. Happy to take feedback or feature requests!*
+
+{{ range . }}
+* [`{{ $user }}/{{ .name }}`](https://github.com/{{ $user }}/{{ .name }}): {{ .description }}
+{{- end }}
+
+{{- end }}
 
 {{- with .StarredRepos }}
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -33,4 +44,28 @@ Overall, my most recent contributions (besides my own repos) have gone to {{ tem
 
 <sup><sub>Last updated: {{ now | formatDateTime }}. The content here updates twice daily or when manually triggered.</sup></sub>
 
+{{- define "pr_status" -}}
+{{- $image_size := "12px" -}}
+{{- if .Draft -}}
+<img src="images/github-draft.png" width="{{ $image_size }}" height="{{ $image_size }}"> in draft
+{{- else if .Merged -}}
+<img src="images/github-merged.png" width="{{ $image_size }}" height="{{ $image_size }}"> merged
+{{- else if .Closed -}}
+<img src="images/github-closed.png" width="{{ $image_size }}" height="{{ $image_size }}"> closed
+{{- else -}}
+<img src="images/github-open.png" width="{{ $image_size }}" height="{{ $image_size }}"> open
+{{- end -}}
+{{- end -}}
 
+{{- define "contributed_orgs" -}}
+{{- $length := len . -}}
+{{- range $i, $value := . -}}
+{{- if eq $i (sub $length 1) }}
+and [@{{ $value }}](https://github.com/{{ $value }})
+{{- else if eq $i (sub $length 2) }}
+[@{{ $value }}](https://github.com/{{ $value }})
+{{- else }}
+[@{{ $value }}](https://github.com/{{ $value }}),
+{{- end -}}
+{{- end -}}
+{{- end -}}
