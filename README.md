@@ -5,7 +5,7 @@
 Hey there! I’m Rishi, a Junior Platform Engineer at [Kubefirst](https://kubefirst.io/), specializing in Go and Kubernetes. My journey includes an internship at [Graphene AI](https://grapheneai.com/) where I automated cloud infrastructure with Terraform, and a role at [IRIS NITK](https://iris.nitk.ac.in/hrms/) managing data center operations. I also contributed as Co-chair at the [Web Enthusiasts Club](https://webclub.nitk.ac.in/) in Systems and Security SIG.
 
 Feel free to explore my work, and don’t hesitate to connect with me. Find me on [Twitter](https://x.com/RishixMonk) and [LinkedIn](https://www.linkedin.com/in/mrrishi373/).
-### ✍️ Recent Public Contributions
+### 🚀 Recent Public Contributions
 
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
@@ -51,4 +51,4 @@ and [@ansible](https://github.com/ansible).
 * [projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) from [@projectdiscovery](https://github.com/projectdiscovery) with 741 ⭐️
 * [go-rod/rod](https://github.com/go-rod/rod) from [@go-rod](https://github.com/go-rod) with 5.3K ⭐️
 
-<sup><sub>Last updated: October 27, 2024 at 08:54:24 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 27, 2024 at 08:56:28 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
