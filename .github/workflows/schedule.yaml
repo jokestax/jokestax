@@ -2,14 +2,14 @@ name: "Update READMEs contents"
 
 on:
   schedule:
-    - cron: "0 0,12 * * *" # every day at midnight and noon
+    - cron: "0 */4 * * *" # every 4 hours
   workflow_dispatch:
 
 permissions:
   contents: write
 
 env:
-  VERSION: "0.0.1"
+  VERSION: "0.1.7"
 
 jobs:
   update-readme:
@@ -23,7 +23,7 @@ jobs:
       - name: Install application to render the template
         uses: supplypike/setup-bin@v4
         with:
-          uri: "https://github.com/jokestax/patrickdappollonio/releases/download/v${{ env.VERSION }}/patrickdappollonio_linux_x86_64.tar.gz"
+          uri: "https://github.com/patrickdappollonio/patrickdappollonio/releases/download/v${{ env.VERSION }}/patrickdappollonio_linux_x86_64.tar.gz"
           name: "patrickdappollonio"
           version: "${{ env.VERSION }}"
 
@@ -40,3 +40,6 @@ jobs:
           git add README.md || echo "No changes to add"
           git commit -m "[ci skip] Updating README with latest information" || echo "No changes to commit"
           git push || echo "No changes to push"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: "jokestax"
