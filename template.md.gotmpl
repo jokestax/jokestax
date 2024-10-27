@@ -6,12 +6,18 @@ Hey there! I’m Rishi, a Junior Platform Engineer at [Kubefirst](https://kubefi
 
 Feel free to explore my work, and don’t hesitate to connect with me. Find me on [Twitter](https://x.com/RishixMonk) and [LinkedIn](https://www.linkedin.com/in/mrrishi373/).
 
+{{- $contributed_orgs := .ContributedOrgs -}}
+{{- with .PullRequests }}
 ### 🚀 Recent Contributions
 
-*Here are some of the latest pull requests and contributions I’ve made.*
+*Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
-{{ range .PullRequests }}
-* {{ range . }}| [#{{ .ID }}: {{ .Title | ellipsize 8 }}]({{ .URL }}) | [`{{ .RepositoryName }}`]({{ .RepositoryURL }}) | {{ template "pr_status" . }} | {{ end }}
+{{ range . }}
+* [#{{ .ID }} - {{ .Title }}]({{ .URL }}) on `{{ .ProjectOrg }}` - {{ template "pr_status" . }}
+{{- end }}
+
+Overall, my most recent contributions (besides my own repos) have gone to {{ template "contributed_orgs" $contributed_orgs }}.
+
 {{- end }}
 
 
