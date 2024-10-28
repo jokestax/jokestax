@@ -10,7 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
-* [#452 - fix: return error for eks config creation](https://github.com/konstructio/kubefirst-api/pull/452) on `konstructio/kubefirst-api` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#452 - fix: return error for eks config creation](https://github.com/konstructio/kubefirst-api/pull/452) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#2313 - feat: tag api to latest version](https://github.com/konstructio/kubefirst/pull/2313) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#451 - fix : argocd application controller ](https://github.com/konstructio/kubefirst-api/pull/451) on `konstructio/kubefirst-api` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 * [#817 - feat: change number of max and min nodes for nodes groups](https://github.com/konstructio/gitops-template/pull/817) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -48,4 +48,4 @@ and [@RishixMonk](https://github.com/RishixMonk).
 * [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) from [@konstructio](https://github.com/konstructio) with 11 ⭐️
 * [konstructio/kubefirst](https://github.com/konstructio/kubefirst) from [@konstructio](https://github.com/konstructio) with 1.8K ⭐️
 
-<sup><sub>Last updated: October 28, 2024 at 04:24:24 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 28, 2024 at 08:37:07 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
