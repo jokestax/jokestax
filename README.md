@@ -10,6 +10,8 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#2315 - feat: bump api tag](https://github.com/konstructio/kubefirst/pull/2315) on `konstructio/kubefirst` - <img src="images/github-closed.png" width="12px" height="12px"> closed
+* [#2314 - feat: change tag](https://github.com/konstructio/kubefirst/pull/2314) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#453 - fix:aws eks creation](https://github.com/konstructio/kubefirst-api/pull/453) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#452 - fix: return error for eks config creation](https://github.com/konstructio/kubefirst-api/pull/452) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#2313 - feat: tag api to latest version](https://github.com/konstructio/kubefirst/pull/2313) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -18,8 +20,6 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#450 - fix: change url of kubefirst console for k3d](https://github.com/konstructio/kubefirst-api/pull/450) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#816 - fix: remove annotations in ingress for k3d](https://github.com/konstructio/gitops-template/pull/816) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#2309 - fix: k3d](https://github.com/konstructio/kubefirst/pull/2309) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#815 - fix: correct chartmuseum secret path](https://github.com/konstructio/gitops-template/pull/815) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#814 - fix: aws multi](https://github.com/konstructio/gitops-template/pull/814) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@konstructio](https://github.com/konstructio),
@@ -31,7 +31,7 @@ and [@RishixMonk](https://github.com/RishixMonk).
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
-* [douglasmakey/shelldon](https://github.com/douglasmakey/shelldon) from [@douglasmakey](https://github.com/douglasmakey) with 26 ⭐️
+* [douglasmakey/shelldon](https://github.com/douglasmakey/shelldon) from [@douglasmakey](https://github.com/douglasmakey) with 27 ⭐️
 * [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 293 ⭐️
 * [konstructio/gitops-template](https://github.com/konstructio/gitops-template) from [@konstructio](https://github.com/konstructio) with 68 ⭐️
 * [konstructio/console](https://github.com/konstructio/console) from [@konstructio](https://github.com/konstructio) with 8 ⭐️
@@ -48,4 +48,4 @@ and [@RishixMonk](https://github.com/RishixMonk).
 * [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) from [@konstructio](https://github.com/konstructio) with 11 ⭐️
 * [konstructio/kubefirst](https://github.com/konstructio/kubefirst) from [@konstructio](https://github.com/konstructio) with 1.8K ⭐️
 
-<sup><sub>Last updated: October 28, 2024 at 16:19:42 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 28, 2024 at 21:23:48 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
