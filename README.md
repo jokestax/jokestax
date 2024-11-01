@@ -22,10 +22,10 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#2309 - fix: k3d](https://github.com/konstructio/kubefirst/pull/2309) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@civo](https://github.com/civo),
 [@RishixMonk](https://github.com/RishixMonk),
-[@konstructio](https://github.com/konstructio)
-and [@patrickdappollonio](https://github.com/patrickdappollonio).
+[@konstructio](https://github.com/konstructio),
+[@patrickdappollonio](https://github.com/patrickdappollonio)
+and [@civo](https://github.com/civo).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -48,4 +48,4 @@ and [@patrickdappollonio](https://github.com/patrickdappollonio).
 * [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) from [@konstructio](https://github.com/konstructio) with 12 ⭐️
 * [konstructio/kubefirst](https://github.com/konstructio/kubefirst) from [@konstructio](https://github.com/konstructio) with 1.8K ⭐️
 
-<sup><sub>Last updated: November 01, 2024 at 08:34:37 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 01, 2024 at 12:21:40 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
