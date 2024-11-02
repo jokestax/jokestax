@@ -22,10 +22,10 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#816 - fix: remove annotations in ingress for k3d](https://github.com/konstructio/gitops-template/pull/816) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@patrickdappollonio](https://github.com/patrickdappollonio),
 [@konstructio](https://github.com/konstructio),
-[@civo](https://github.com/civo),
-[@RishixMonk](https://github.com/RishixMonk)
-and [@patrickdappollonio](https://github.com/patrickdappollonio).
+[@civo](https://github.com/civo)
+and [@RishixMonk](https://github.com/RishixMonk).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -49,4 +49,4 @@ and [@patrickdappollonio](https://github.com/patrickdappollonio).
 * [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) from [@konstructio](https://github.com/konstructio) with 12 ⭐️
 * [konstructio/kubefirst](https://github.com/konstructio/kubefirst) from [@konstructio](https://github.com/konstructio) with 1.8K ⭐️
 
-<sup><sub>Last updated: November 02, 2024 at 08:33:12 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 02, 2024 at 12:21:44 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
