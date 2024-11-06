@@ -22,10 +22,10 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#2313 - feat: tag api to latest version](https://github.com/konstructio/kubefirst/pull/2313) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@patrickdappollonio](https://github.com/patrickdappollonio),
 [@civo](https://github.com/civo),
-[@RishixMonk](https://github.com/RishixMonk),
-[@konstructio](https://github.com/konstructio)
-and [@patrickdappollonio](https://github.com/patrickdappollonio).
+[@RishixMonk](https://github.com/RishixMonk)
+and [@konstructio](https://github.com/konstructio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -49,4 +49,4 @@ and [@patrickdappollonio](https://github.com/patrickdappollonio).
 * [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) from [@konstructio](https://github.com/konstructio) with 13 ⭐️
 * [konstructio/kubefirst](https://github.com/konstructio/kubefirst) from [@konstructio](https://github.com/konstructio) with 1.8K ⭐️
 
-<sup><sub>Last updated: November 05, 2024 at 20:20:11 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 05, 2024 at 23:22:36 EST. The content here updates twice daily or when manually triggered.</sup></sub>
