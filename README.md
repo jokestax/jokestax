@@ -22,10 +22,10 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#452 - fix: return error for eks config creation](https://github.com/konstructio/kubefirst-api/pull/452) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
 [@patrickdappollonio](https://github.com/patrickdappollonio),
-[@civo](https://github.com/civo)
-and [@RishixMonk](https://github.com/RishixMonk).
+[@civo](https://github.com/civo),
+[@RishixMonk](https://github.com/RishixMonk)
+and [@konstructio](https://github.com/konstructio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -49,4 +49,4 @@ and [@RishixMonk](https://github.com/RishixMonk).
 * [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) from [@konstructio](https://github.com/konstructio) with 13 ⭐️
 * [konstructio/kubefirst](https://github.com/konstructio/kubefirst) from [@konstructio](https://github.com/konstructio) with 1.8K ⭐️
 
-<sup><sub>Last updated: November 06, 2024 at 11:22:51 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 06, 2024 at 15:19:04 EST. The content here updates twice daily or when manually triggered.</sup></sub>
