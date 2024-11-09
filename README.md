@@ -10,6 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#467 - fix: recommend](https://github.com/kubearmor/kubearmor-client/pull/467) on `kubearmor/kubearmor-client` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#827 - fix: download the stable 1.1.0 Civo tf provider](https://github.com/konstructio/gitops-template/pull/827) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#4 - fix: typo in log policy](https://github.com/konstructio/aws-arn/pull/4) on `konstructio/aws-arn` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#825 - feat: upgrade minio version](https://github.com/konstructio/gitops-template/pull/825) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -19,13 +20,13 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#2315 - feat: bump api tag](https://github.com/konstructio/kubefirst/pull/2315) on `konstructio/kubefirst` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 * [#2314 - feat: change tag](https://github.com/konstructio/kubefirst/pull/2314) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#453 - fix:aws eks creation](https://github.com/konstructio/kubefirst-api/pull/453) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#452 - fix: return error for eks config creation](https://github.com/konstructio/kubefirst-api/pull/452) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
-[@patrickdappollonio](https://github.com/patrickdappollonio),
-[@civo](https://github.com/civo)
-and [@RishixMonk](https://github.com/RishixMonk).
+[@civo](https://github.com/civo),
+[@RishixMonk](https://github.com/RishixMonk),
+[@kubearmor](https://github.com/kubearmor),
+[@konstructio](https://github.com/konstructio)
+and [@patrickdappollonio](https://github.com/patrickdappollonio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -51,4 +52,4 @@ and [@RishixMonk](https://github.com/RishixMonk).
 * [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) from [@konstructio](https://github.com/konstructio) with 14 ⭐️
 * [konstructio/kubefirst](https://github.com/konstructio/kubefirst) from [@konstructio](https://github.com/konstructio) with 1.8K ⭐️
 
-<sup><sub>Last updated: November 09, 2024 at 11:19:56 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 09, 2024 at 15:17:19 EST. The content here updates twice daily or when manually triggered.</sup></sub>
