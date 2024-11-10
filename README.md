@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#453 - fix:aws eks creation](https://github.com/konstructio/kubefirst-api/pull/453) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@civo](https://github.com/civo),
 [@RishixMonk](https://github.com/RishixMonk),
 [@kubearmor](https://github.com/kubearmor),
-[@konstructio](https://github.com/konstructio)
-and [@patrickdappollonio](https://github.com/patrickdappollonio).
+[@konstructio](https://github.com/konstructio),
+[@patrickdappollonio](https://github.com/patrickdappollonio)
+and [@civo](https://github.com/civo).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -52,4 +52,4 @@ and [@patrickdappollonio](https://github.com/patrickdappollonio).
 * [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) from [@konstructio](https://github.com/konstructio) with 14 ⭐️
 * [konstructio/kubefirst](https://github.com/konstructio/kubefirst) from [@konstructio](https://github.com/konstructio) with 1.8K ⭐️
 
-<sup><sub>Last updated: November 09, 2024 at 15:17:19 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 09, 2024 at 20:25:20 EST. The content here updates twice daily or when manually triggered.</sup></sub>
