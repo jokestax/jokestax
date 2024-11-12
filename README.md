@@ -10,6 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#2321 - feat: disable bubbletea](https://github.com/konstructio/kubefirst/pull/2321) on `konstructio/kubefirst` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#467 - fix: recommend](https://github.com/kubearmor/kubearmor-client/pull/467) on `kubearmor/kubearmor-client` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#827 - fix: download the stable 1.1.0 Civo tf provider](https://github.com/konstructio/gitops-template/pull/827) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#4 - fix: typo in log policy](https://github.com/konstructio/aws-arn/pull/4) on `konstructio/aws-arn` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -19,11 +20,10 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#134 - Add support for "API groups"](https://github.com/patrickdappollonio/kubectl-slice/pull/134) on `patrickdappollonio/kubectl-slice` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#2315 - feat: bump api tag](https://github.com/konstructio/kubefirst/pull/2315) on `konstructio/kubefirst` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 * [#2314 - feat: change tag](https://github.com/konstructio/kubefirst/pull/2314) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#453 - fix:aws eks creation](https://github.com/konstructio/kubefirst-api/pull/453) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubearmor](https://github.com/kubearmor),
 [@konstructio](https://github.com/konstructio),
+[@kubearmor](https://github.com/kubearmor),
 [@patrickdappollonio](https://github.com/patrickdappollonio),
 [@civo](https://github.com/civo)
 and [@RishixMonk](https://github.com/RishixMonk).
@@ -48,8 +48,8 @@ and [@RishixMonk](https://github.com/RishixMonk).
 * [charmbracelet/huh](https://github.com/charmbracelet/huh) from [@charmbracelet](https://github.com/charmbracelet) with 4.4K ⭐️
 * [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) from [@konstructio](https://github.com/konstructio) with 22 ⭐️
 * [ssotops/k1space](https://github.com/ssotops/k1space) from [@ssotops](https://github.com/ssotops) with 3 ⭐️
-* [jdx/demand](https://github.com/jdx/demand) from [@jdx](https://github.com/jdx) with 57 ⭐️
+* [jdx/demand](https://github.com/jdx/demand) from [@jdx](https://github.com/jdx) with 58 ⭐️
 * [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) from [@konstructio](https://github.com/konstructio) with 14 ⭐️
 * [konstructio/kubefirst](https://github.com/konstructio/kubefirst) from [@konstructio](https://github.com/konstructio) with 1.8K ⭐️
 
-<sup><sub>Last updated: November 11, 2024 at 15:18:49 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 11, 2024 at 20:19:48 EST. The content here updates twice daily or when manually triggered.</sup></sub>
