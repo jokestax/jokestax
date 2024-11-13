@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#2314 - feat: change tag](https://github.com/konstructio/kubefirst/pull/2314) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@patrickdappollonio](https://github.com/patrickdappollonio),
 [@civo](https://github.com/civo),
 [@RishixMonk](https://github.com/RishixMonk),
-[@konstructio](https://github.com/konstructio)
-and [@kubearmor](https://github.com/kubearmor).
+[@konstructio](https://github.com/konstructio),
+[@kubearmor](https://github.com/kubearmor)
+and [@patrickdappollonio](https://github.com/patrickdappollonio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -48,8 +48,8 @@ and [@kubearmor](https://github.com/kubearmor).
 * [charmbracelet/huh](https://github.com/charmbracelet/huh) from [@charmbracelet](https://github.com/charmbracelet) with 4.4K ⭐️
 * [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) from [@konstructio](https://github.com/konstructio) with 23 ⭐️
 * [ssotops/k1space](https://github.com/ssotops/k1space) from [@ssotops](https://github.com/ssotops) with 3 ⭐️
-* [jdx/demand](https://github.com/jdx/demand) from [@jdx](https://github.com/jdx) with 58 ⭐️
+* [jdx/demand](https://github.com/jdx/demand) from [@jdx](https://github.com/jdx) with 59 ⭐️
 * [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) from [@konstructio](https://github.com/konstructio) with 14 ⭐️
 * [konstructio/kubefirst](https://github.com/konstructio/kubefirst) from [@konstructio](https://github.com/konstructio) with 1.8K ⭐️
 
-<sup><sub>Last updated: November 13, 2024 at 11:22:05 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 13, 2024 at 15:19:11 EST. The content here updates twice daily or when manually triggered.</sup></sub>
