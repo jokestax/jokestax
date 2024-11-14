@@ -18,7 +18,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#825 - feat: upgrade minio version](https://github.com/konstructio/gitops-template/pull/825) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#824 - feat: add json file in terraform for Civo Multi account](https://github.com/konstructio/gitops-template/pull/824) on `konstructio/gitops-template` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#2317 - fix: delete k1dir instead of kubeconfig file](https://github.com/konstructio/kubefirst/pull/2317) on `konstructio/kubefirst` - <img src="images/github-open.png" width="12px" height="12px"> open
-* [#134 - Add support for "API groups"](https://github.com/patrickdappollonio/kubectl-slice/pull/134) on `patrickdappollonio/kubectl-slice` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#134 - Add support for "API groups"](https://github.com/patrickdappollonio/kubectl-slice/pull/134) on `patrickdappollonio/kubectl-slice` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#2315 - feat: bump api tag](https://github.com/konstructio/kubefirst/pull/2315) on `konstructio/kubefirst` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 
 Overall, my most recent contributions (besides my own repos) have gone to 
@@ -52,4 +52,4 @@ and [@RishixMonk](https://github.com/RishixMonk).
 * [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) from [@konstructio](https://github.com/konstructio) with 14 ⭐️
 * [konstructio/kubefirst](https://github.com/konstructio/kubefirst) from [@konstructio](https://github.com/konstructio) with 1.8K ⭐️
 
-<sup><sub>Last updated: November 14, 2024 at 11:23:31 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 14, 2024 at 15:19:49 EST. The content here updates twice daily or when manually triggered.</sup></sub>
