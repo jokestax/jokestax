@@ -10,6 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#468 - fix: probe command](https://github.com/kubearmor/kubearmor-client/pull/468) on `kubearmor/kubearmor-client` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#1895 - fix: typo](https://github.com/kubearmor/KubeArmor/pull/1895) on `kubearmor/KubeArmor` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#2321 - feat: disable bubbletea](https://github.com/konstructio/kubefirst/pull/2321) on `konstructio/kubefirst` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#467 - fix: recommend](https://github.com/kubearmor/kubearmor-client/pull/467) on `kubearmor/kubearmor-client` - <img src="images/github-open.png" width="12px" height="12px"> open
@@ -19,7 +20,6 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#824 - feat: add json file in terraform for Civo Multi account](https://github.com/konstructio/gitops-template/pull/824) on `konstructio/gitops-template` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#2317 - fix: delete k1dir instead of kubeconfig file](https://github.com/konstructio/kubefirst/pull/2317) on `konstructio/kubefirst` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#134 - Add support for "API groups"](https://github.com/patrickdappollonio/kubectl-slice/pull/134) on `patrickdappollonio/kubectl-slice` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#2315 - feat: bump api tag](https://github.com/konstructio/kubefirst/pull/2315) on `konstructio/kubefirst` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@civo](https://github.com/civo),
@@ -52,4 +52,4 @@ and [@patrickdappollonio](https://github.com/patrickdappollonio).
 * [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) from [@konstructio](https://github.com/konstructio) with 14 ⭐️
 * [konstructio/kubefirst](https://github.com/konstructio/kubefirst) from [@konstructio](https://github.com/konstructio) with 1.8K ⭐️
 
-<sup><sub>Last updated: November 15, 2024 at 11:24:21 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 15, 2024 at 15:19:56 EST. The content here updates twice daily or when manually triggered.</sup></sub>
