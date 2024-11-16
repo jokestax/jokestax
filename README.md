@@ -10,6 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#309 - fix: controlplane Dockerfile](https://github.com/kubernetes-sigs/blixt/pull/309) on `kubernetes-sigs/blixt` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#468 - fix: probe command](https://github.com/kubearmor/kubearmor-client/pull/468) on `kubearmor/kubearmor-client` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#1895 - fix: typo](https://github.com/kubearmor/KubeArmor/pull/1895) on `kubearmor/KubeArmor` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#2321 - feat: disable bubbletea](https://github.com/konstructio/kubefirst/pull/2321) on `konstructio/kubefirst` - <img src="images/github-open.png" width="12px" height="12px"> open
@@ -19,14 +20,13 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#825 - feat: upgrade minio version](https://github.com/konstructio/gitops-template/pull/825) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#824 - feat: add json file in terraform for Civo Multi account](https://github.com/konstructio/gitops-template/pull/824) on `konstructio/gitops-template` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#2317 - fix: delete k1dir instead of kubeconfig file](https://github.com/konstructio/kubefirst/pull/2317) on `konstructio/kubefirst` - <img src="images/github-open.png" width="12px" height="12px"> open
-* [#134 - Add support for "API groups"](https://github.com/patrickdappollonio/kubectl-slice/pull/134) on `patrickdappollonio/kubectl-slice` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@RishixMonk](https://github.com/RishixMonk),
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
 [@kubearmor](https://github.com/kubearmor),
-[@konstructio](https://github.com/konstructio),
-[@patrickdappollonio](https://github.com/patrickdappollonio),
-[@civo](https://github.com/civo)
-and [@RishixMonk](https://github.com/RishixMonk).
+[@konstructio](https://github.com/konstructio)
+and [@patrickdappollonio](https://github.com/patrickdappollonio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@RishixMonk](https://github.com/RishixMonk).
 * [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) from [@konstructio](https://github.com/konstructio) with 14 ⭐️
 * [konstructio/kubefirst](https://github.com/konstructio/kubefirst) from [@konstructio](https://github.com/konstructio) with 1.8K ⭐️
 
-<sup><sub>Last updated: November 16, 2024 at 11:22:19 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 16, 2024 at 15:18:32 EST. The content here updates twice daily or when manually triggered.</sup></sub>
