@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#824 - feat: add json file in terraform for Civo Multi account](https://github.com/konstructio/gitops-template/pull/824) on `konstructio/gitops-template` - <img src="images/github-open.png" width="12px" height="12px"> open
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@RishixMonk](https://github.com/RishixMonk),
 [@konstructio](https://github.com/konstructio),
 [@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@kubearmor](https://github.com/kubearmor),
-[@patrickdappollonio](https://github.com/patrickdappollonio)
-and [@civo](https://github.com/civo).
+[@kubearmor](https://github.com/kubearmor)
+and [@patrickdappollonio](https://github.com/patrickdappollonio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@civo](https://github.com/civo).
 * [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) from [@konstructio](https://github.com/konstructio) with 14 ⭐️
 * [konstructio/kubefirst](https://github.com/konstructio/kubefirst) from [@konstructio](https://github.com/konstructio) with 1.8K ⭐️
 
-<sup><sub>Last updated: November 18, 2024 at 15:19:52 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 18, 2024 at 20:26:12 EST. The content here updates twice daily or when manually triggered.</sup></sub>
