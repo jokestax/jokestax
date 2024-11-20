@@ -19,14 +19,14 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#827 - fix: download the stable 1.1.0 Civo tf provider](https://github.com/konstructio/gitops-template/pull/827) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#4 - fix: typo in log policy](https://github.com/konstructio/aws-arn/pull/4) on `konstructio/aws-arn` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#825 - feat: upgrade minio version](https://github.com/konstructio/gitops-template/pull/825) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#824 - feat: add json file in terraform for Civo Multi account](https://github.com/konstructio/gitops-template/pull/824) on `konstructio/gitops-template` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#824 - feat: add json file in terraform for Civo Multi account](https://github.com/konstructio/gitops-template/pull/824) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@civo](https://github.com/civo),
-[@RishixMonk](https://github.com/RishixMonk),
 [@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs)
-and [@kubearmor](https://github.com/kubearmor).
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@kubearmor](https://github.com/kubearmor),
+[@patrickdappollonio](https://github.com/patrickdappollonio)
+and [@civo](https://github.com/civo).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -49,8 +49,8 @@ and [@kubearmor](https://github.com/kubearmor).
 * [charmbracelet/huh](https://github.com/charmbracelet/huh) from [@charmbracelet](https://github.com/charmbracelet) with 4.4K ⭐️
 * [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) from [@konstructio](https://github.com/konstructio) with 23 ⭐️
 * [ssotops/k1space](https://github.com/ssotops/k1space) from [@ssotops](https://github.com/ssotops) with 3 ⭐️
-* [jdx/demand](https://github.com/jdx/demand) from [@jdx](https://github.com/jdx) with 60 ⭐️
+* [jdx/demand](https://github.com/jdx/demand) from [@jdx](https://github.com/jdx) with 61 ⭐️
 * [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) from [@konstructio](https://github.com/konstructio) with 14 ⭐️
 * [konstructio/kubefirst](https://github.com/konstructio/kubefirst) from [@konstructio](https://github.com/konstructio) with 1.8K ⭐️
 
-<sup><sub>Last updated: November 19, 2024 at 15:20:25 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 19, 2024 at 20:25:16 EST. The content here updates twice daily or when manually triggered.</sup></sub>
