@@ -10,7 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
-* [#2326 - bump api](https://github.com/konstructio/kubefirst/pull/2326) on `konstructio/kubefirst` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#2326 - bump api](https://github.com/konstructio/kubefirst/pull/2326) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#830 - fix: remove cloud account secret](https://github.com/konstructio/gitops-template/pull/830) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#467 - fix: initialise correct vault conf](https://github.com/konstructio/kubefirst-api/pull/467) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#309 - fix: controlplane Dockerfile](https://github.com/kubernetes-sigs/blixt/pull/309) on `kubernetes-sigs/blixt` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#4 - fix: typo in log policy](https://github.com/konstructio/aws-arn/pull/4) on `konstructio/aws-arn` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@patrickdappollonio](https://github.com/patrickdappollonio),
-[@civo](https://github.com/civo),
-[@RishixMonk](https://github.com/RishixMonk),
-[@konstructio](https://github.com/konstructio)
-and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
+[@konstructio](https://github.com/konstructio),
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@kubearmor](https://github.com/kubearmor),
+[@patrickdappollonio](https://github.com/patrickdappollonio)
+and [@civo](https://github.com/civo).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -47,10 +47,10 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 * [patrickdappollonio/dotfiles](https://github.com/patrickdappollonio/dotfiles) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 1 ⭐️
 * [charmbracelet/gum](https://github.com/charmbracelet/gum) from [@charmbracelet](https://github.com/charmbracelet) with 18.3K ⭐️
 * [charmbracelet/huh](https://github.com/charmbracelet/huh) from [@charmbracelet](https://github.com/charmbracelet) with 4.4K ⭐️
-* [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) from [@konstructio](https://github.com/konstructio) with 23 ⭐️
+* [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) from [@konstructio](https://github.com/konstructio) with 24 ⭐️
 * [ssotops/k1space](https://github.com/ssotops/k1space) from [@ssotops](https://github.com/ssotops) with 3 ⭐️
 * [jdx/demand](https://github.com/jdx/demand) from [@jdx](https://github.com/jdx) with 61 ⭐️
 * [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) from [@konstructio](https://github.com/konstructio) with 14 ⭐️
 * [konstructio/kubefirst](https://github.com/konstructio/kubefirst) from [@konstructio](https://github.com/konstructio) with 1.8K ⭐️
 
-<sup><sub>Last updated: November 21, 2024 at 07:37:43 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 21, 2024 at 11:23:57 EST. The content here updates twice daily or when manually triggered.</sup></sub>
