@@ -10,23 +10,23 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
-* [#2328 - fix: delete k1dir instead of kubeconfig file](https://github.com/konstructio/kubefirst/pull/2328) on `konstructio/kubefirst` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#834 - fix remove hard coded repo url](https://github.com/konstructio/gitops-template/pull/834) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#833 - rebase](https://github.com/konstructio/gitops-template/pull/833) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#832 - remove hard coded repo url ](https://github.com/konstructio/gitops-template/pull/832) on `konstructio/gitops-template` - <img src="images/github-closed.png" width="12px" height="12px"> closed
+* [#2328 - fix: delete k1dir instead of kubeconfig file](https://github.com/konstructio/kubefirst/pull/2328) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#2326 - bump api](https://github.com/konstructio/kubefirst/pull/2326) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#830 - fix: remove cloud account secret](https://github.com/konstructio/gitops-template/pull/830) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#467 - fix: initialise correct vault conf](https://github.com/konstructio/kubefirst-api/pull/467) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#309 - fix: controlplane Dockerfile](https://github.com/kubernetes-sigs/blixt/pull/309) on `kubernetes-sigs/blixt` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#468 - fix: probe command](https://github.com/kubearmor/kubearmor-client/pull/468) on `kubearmor/kubearmor-client` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#1895 - fix: typo](https://github.com/kubearmor/KubeArmor/pull/1895) on `kubearmor/KubeArmor` - <img src="images/github-open.png" width="12px" height="12px"> open
-* [#2321 - feat: disable bubbletea](https://github.com/konstructio/kubefirst/pull/2321) on `konstructio/kubefirst` - <img src="images/github-open.png" width="12px" height="12px"> open
-* [#467 - fix: recommend](https://github.com/kubearmor/kubearmor-client/pull/467) on `kubearmor/kubearmor-client` - <img src="images/github-open.png" width="12px" height="12px"> open
-* [#827 - fix: download the stable 1.1.0 Civo tf provider](https://github.com/konstructio/gitops-template/pull/827) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@patrickdappollonio](https://github.com/patrickdappollonio),
+[@civo](https://github.com/civo),
 [@RishixMonk](https://github.com/RishixMonk),
-[@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@kubearmor](https://github.com/kubearmor)
-and [@patrickdappollonio](https://github.com/patrickdappollonio).
+[@konstructio](https://github.com/konstructio)
+and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -37,7 +37,7 @@ and [@patrickdappollonio](https://github.com/patrickdappollonio).
 * [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) from [@kubearmor](https://github.com/kubearmor) with 1.5K ⭐️
 * [douglasmakey/tipsandtricks](https://github.com/douglasmakey/tipsandtricks) from [@douglasmakey](https://github.com/douglasmakey) with 1 ⭐️
 * [douglasmakey/shelldon](https://github.com/douglasmakey/shelldon) from [@douglasmakey](https://github.com/douglasmakey) with 27 ⭐️
-* [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 301 ⭐️
+* [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 304 ⭐️
 * [konstructio/gitops-template](https://github.com/konstructio/gitops-template) from [@konstructio](https://github.com/konstructio) with 72 ⭐️
 * [konstructio/console](https://github.com/konstructio/console) from [@konstructio](https://github.com/konstructio) with 9 ⭐️
 * [patrickdappollonio/gc-rust](https://github.com/patrickdappollonio/gc-rust) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 2 ⭐️
@@ -53,4 +53,4 @@ and [@patrickdappollonio](https://github.com/patrickdappollonio).
 * [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) from [@konstructio](https://github.com/konstructio) with 14 ⭐️
 * [konstructio/kubefirst](https://github.com/konstructio/kubefirst) from [@konstructio](https://github.com/konstructio) with 1.8K ⭐️
 
-<sup><sub>Last updated: November 25, 2024 at 11:24:12 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 25, 2024 at 15:20:53 EST. The content here updates twice daily or when manually triggered.</sup></sub>
