@@ -10,6 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#2341 - revert bubbletea changes](https://github.com/konstructio/kubefirst/pull/2341) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#834 - fix remove hard coded repo url](https://github.com/konstructio/gitops-template/pull/834) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#833 - rebase](https://github.com/konstructio/gitops-template/pull/833) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#832 - remove hard coded repo url ](https://github.com/konstructio/gitops-template/pull/832) on `konstructio/gitops-template` - <img src="images/github-closed.png" width="12px" height="12px"> closed
@@ -19,14 +20,13 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#467 - fix: initialise correct vault conf](https://github.com/konstructio/kubefirst-api/pull/467) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#309 - fix: controlplane Dockerfile](https://github.com/kubernetes-sigs/blixt/pull/309) on `kubernetes-sigs/blixt` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#468 - fix: probe command](https://github.com/kubearmor/kubearmor-client/pull/468) on `kubearmor/kubearmor-client` - <img src="images/github-open.png" width="12px" height="12px"> open
-* [#1895 - fix: typo](https://github.com/kubearmor/KubeArmor/pull/1895) on `kubearmor/KubeArmor` - <img src="images/github-open.png" width="12px" height="12px"> open
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@civo](https://github.com/civo),
 [@RishixMonk](https://github.com/RishixMonk),
 [@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs)
-and [@kubearmor](https://github.com/kubearmor).
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@kubearmor](https://github.com/kubearmor)
+and [@patrickdappollonio](https://github.com/patrickdappollonio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@kubearmor](https://github.com/kubearmor).
 * [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) from [@konstructio](https://github.com/konstructio) with 14 ⭐️
 * [konstructio/kubefirst](https://github.com/konstructio/kubefirst) from [@konstructio](https://github.com/konstructio) with 1.8K ⭐️
 
-<sup><sub>Last updated: November 28, 2024 at 11:23:18 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 28, 2024 at 15:20:11 EST. The content here updates twice daily or when manually triggered.</sup></sub>
