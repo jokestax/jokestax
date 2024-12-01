@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#468 - fix: probe command](https://github.com/kubearmor/kubearmor-client/pull/468) on `kubearmor/kubearmor-client` - <img src="images/github-open.png" width="12px" height="12px"> open
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@kubearmor](https://github.com/kubearmor),
-[@patrickdappollonio](https://github.com/patrickdappollonio)
-and [@civo](https://github.com/civo).
+[@patrickdappollonio](https://github.com/patrickdappollonio),
+[@civo](https://github.com/civo),
+[@RishixMonk](https://github.com/RishixMonk),
+[@konstructio](https://github.com/konstructio)
+and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -37,7 +37,7 @@ and [@civo](https://github.com/civo).
 * [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) from [@kubearmor](https://github.com/kubearmor) with 1.5K ⭐️
 * [douglasmakey/tipsandtricks](https://github.com/douglasmakey/tipsandtricks) from [@douglasmakey](https://github.com/douglasmakey) with 1 ⭐️
 * [douglasmakey/shelldon](https://github.com/douglasmakey/shelldon) from [@douglasmakey](https://github.com/douglasmakey) with 27 ⭐️
-* [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 308 ⭐️
+* [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 309 ⭐️
 * [konstructio/gitops-template](https://github.com/konstructio/gitops-template) from [@konstructio](https://github.com/konstructio) with 72 ⭐️
 * [konstructio/console](https://github.com/konstructio/console) from [@konstructio](https://github.com/konstructio) with 9 ⭐️
 * [patrickdappollonio/gc-rust](https://github.com/patrickdappollonio/gc-rust) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 2 ⭐️
@@ -45,7 +45,7 @@ and [@civo](https://github.com/civo).
 * [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) from [@konstructio](https://github.com/konstructio) with 14 ⭐️
 * [patrickdappollonio/patrickdappollonio](https://github.com/patrickdappollonio/patrickdappollonio) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 3 ⭐️
 * [patrickdappollonio/dotfiles](https://github.com/patrickdappollonio/dotfiles) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 1 ⭐️
-* [charmbracelet/gum](https://github.com/charmbracelet/gum) from [@charmbracelet](https://github.com/charmbracelet) with 18.3K ⭐️
+* [charmbracelet/gum](https://github.com/charmbracelet/gum) from [@charmbracelet](https://github.com/charmbracelet) with 18.4K ⭐️
 * [charmbracelet/huh](https://github.com/charmbracelet/huh) from [@charmbracelet](https://github.com/charmbracelet) with 4.7K ⭐️
 * [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) from [@konstructio](https://github.com/konstructio) with 24 ⭐️
 * [ssotops/k1space](https://github.com/ssotops/k1space) from [@ssotops](https://github.com/ssotops) with 3 ⭐️
@@ -53,4 +53,4 @@ and [@civo](https://github.com/civo).
 * [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) from [@konstructio](https://github.com/konstructio) with 15 ⭐️
 * [konstructio/kubefirst](https://github.com/konstructio/kubefirst) from [@konstructio](https://github.com/konstructio) with 1.8K ⭐️
 
-<sup><sub>Last updated: December 01, 2024 at 07:35:22 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 01, 2024 at 11:21:46 EST. The content here updates twice daily or when manually triggered.</sup></sub>
