@@ -11,7 +11,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 
 
 * [#1 - rebase](https://github.com/jokestax/blixt/pull/1) on `jokestax/blixt` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#312 - fix dataplane loader ](https://github.com/kubernetes-sigs/blixt/pull/312) on `kubernetes-sigs/blixt` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#312 - fix dataplane loader ](https://github.com/kubernetes-sigs/blixt/pull/312) on `kubernetes-sigs/blixt` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 * [#2341 - revert bubbletea changes](https://github.com/konstructio/kubefirst/pull/2341) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#834 - fix remove hard coded repo url](https://github.com/konstructio/gitops-template/pull/834) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#833 - rebase](https://github.com/konstructio/gitops-template/pull/833) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#467 - fix: initialise correct vault conf](https://github.com/konstructio/kubefirst-api/pull/467) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@konstructio](https://github.com/konstructio),
-[@kubearmor](https://github.com/kubearmor),
-[@patrickdappollonio](https://github.com/patrickdappollonio)
-and [@civo](https://github.com/civo).
+[@patrickdappollonio](https://github.com/patrickdappollonio),
+[@civo](https://github.com/civo),
+[@RishixMonk](https://github.com/RishixMonk),
+[@konstructio](https://github.com/konstructio)
+and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@civo](https://github.com/civo).
 * [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) from [@konstructio](https://github.com/konstructio) with 15 ⭐️
 * [konstructio/kubefirst](https://github.com/konstructio/kubefirst) from [@konstructio](https://github.com/konstructio) with 1.8K ⭐️
 
-<sup><sub>Last updated: December 02, 2024 at 11:25:00 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 02, 2024 at 15:19:52 EST. The content here updates twice daily or when manually triggered.</sup></sub>
