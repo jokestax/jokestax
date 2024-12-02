@@ -53,4 +53,4 @@ and [@RishixMonk](https://github.com/RishixMonk).
 * [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) from [@konstructio](https://github.com/konstructio) with 15 ⭐️
 * [konstructio/kubefirst](https://github.com/konstructio/kubefirst) from [@konstructio](https://github.com/konstructio) with 1.8K ⭐️
 
-<sup><sub>Last updated: December 01, 2024 at 20:38:44 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 01, 2024 at 23:23:21 EST. The content here updates twice daily or when manually triggered.</sup></sub>
