@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#467 - fix: initialise correct vault conf](https://github.com/konstructio/kubefirst-api/pull/467) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@RishixMonk](https://github.com/RishixMonk),
 [@kubernetes-sigs](https://github.com/kubernetes-sigs),
 [@konstructio](https://github.com/konstructio),
-[@kubearmor](https://github.com/kubearmor)
-and [@patrickdappollonio](https://github.com/patrickdappollonio).
+[@kubearmor](https://github.com/kubearmor),
+[@patrickdappollonio](https://github.com/patrickdappollonio)
+and [@civo](https://github.com/civo).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -37,7 +37,7 @@ and [@patrickdappollonio](https://github.com/patrickdappollonio).
 * [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) from [@kubearmor](https://github.com/kubearmor) with 1.5K ⭐️
 * [douglasmakey/tipsandtricks](https://github.com/douglasmakey/tipsandtricks) from [@douglasmakey](https://github.com/douglasmakey) with 1 ⭐️
 * [douglasmakey/shelldon](https://github.com/douglasmakey/shelldon) from [@douglasmakey](https://github.com/douglasmakey) with 27 ⭐️
-* [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 311 ⭐️
+* [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 312 ⭐️
 * [konstructio/gitops-template](https://github.com/konstructio/gitops-template) from [@konstructio](https://github.com/konstructio) with 72 ⭐️
 * [konstructio/console](https://github.com/konstructio/console) from [@konstructio](https://github.com/konstructio) with 9 ⭐️
 * [patrickdappollonio/gc-rust](https://github.com/patrickdappollonio/gc-rust) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 2 ⭐️
@@ -53,4 +53,4 @@ and [@patrickdappollonio](https://github.com/patrickdappollonio).
 * [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) from [@konstructio](https://github.com/konstructio) with 15 ⭐️
 * [konstructio/kubefirst](https://github.com/konstructio/kubefirst) from [@konstructio](https://github.com/konstructio) with 1.8K ⭐️
 
-<sup><sub>Last updated: December 04, 2024 at 07:38:55 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 04, 2024 at 11:25:41 EST. The content here updates twice daily or when manually triggered.</sup></sub>
