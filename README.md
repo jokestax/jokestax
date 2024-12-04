@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#467 - fix: initialise correct vault conf](https://github.com/konstructio/kubefirst-api/pull/467) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
-[@kubearmor](https://github.com/kubearmor),
-[@patrickdappollonio](https://github.com/patrickdappollonio),
-[@civo](https://github.com/civo)
-and [@RishixMonk](https://github.com/RishixMonk).
+[@civo](https://github.com/civo),
+[@RishixMonk](https://github.com/RishixMonk),
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@konstructio](https://github.com/konstructio)
+and [@kubearmor](https://github.com/kubearmor).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@RishixMonk](https://github.com/RishixMonk).
 * [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) from [@konstructio](https://github.com/konstructio) with 15 ⭐️
 * [konstructio/kubefirst](https://github.com/konstructio/kubefirst) from [@konstructio](https://github.com/konstructio) with 1.8K ⭐️
 
-<sup><sub>Last updated: December 03, 2024 at 15:21:12 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 03, 2024 at 20:37:29 EST. The content here updates twice daily or when manually triggered.</sup></sub>
