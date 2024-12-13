@@ -53,4 +53,4 @@ and [@civo](https://github.com/civo).
 * [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) from [@konstructio](https://github.com/konstructio) with 15 ⭐️
 * [konstructio/kubefirst](https://github.com/konstructio/kubefirst) from [@konstructio](https://github.com/konstructio) with 1.8K ⭐️
 
-<sup><sub>Last updated: December 12, 2024 at 20:38:10 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 12, 2024 at 23:23:19 EST. The content here updates twice daily or when manually triggered.</sup></sub>
