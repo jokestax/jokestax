@@ -32,7 +32,7 @@ and [@civo](https://github.com/civo).
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
-* [patrickdappollonio/dotenv](https://github.com/patrickdappollonio/dotenv) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 3 ⭐️
+* [patrickdappollonio/dotenv](https://github.com/patrickdappollonio/dotenv) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 4 ⭐️
 * [kubernetes-sigs/blixt](https://github.com/kubernetes-sigs/blixt) from [@kubernetes-sigs](https://github.com/kubernetes-sigs) with 361 ⭐️
 * [open-cluster-management-io/ocm](https://github.com/open-cluster-management-io/ocm) from [@open-cluster-management-io](https://github.com/open-cluster-management-io) with 780 ⭐️
 * [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) from [@kubearmor](https://github.com/kubearmor) with 1.6K ⭐️
@@ -53,4 +53,4 @@ and [@civo](https://github.com/civo).
 * [jdx/demand](https://github.com/jdx/demand) from [@jdx](https://github.com/jdx) with 68 ⭐️
 * [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) from [@konstructio](https://github.com/konstructio) with 15 ⭐️
 
-<sup><sub>Last updated: December 14, 2024 at 23:22:12 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 15, 2024 at 03:22:51 EST. The content here updates twice daily or when manually triggered.</sup></sub>
