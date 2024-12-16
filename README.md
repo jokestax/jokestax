@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#830 - fix: remove cloud account secret](https://github.com/konstructio/gitops-template/pull/830) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@civo](https://github.com/civo),
 [@RishixMonk](https://github.com/RishixMonk),
 [@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@kubearmor](https://github.com/kubearmor)
-and [@patrickdappollonio](https://github.com/patrickdappollonio).
+[@kubernetes-sigs](https://github.com/kubernetes-sigs)
+and [@kubearmor](https://github.com/kubearmor).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@patrickdappollonio](https://github.com/patrickdappollonio).
 * [jdx/demand](https://github.com/jdx/demand) from [@jdx](https://github.com/jdx) with 69 ⭐️
 * [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) from [@konstructio](https://github.com/konstructio) with 15 ⭐️
 
-<sup><sub>Last updated: December 15, 2024 at 15:19:34 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 15, 2024 at 20:40:10 EST. The content here updates twice daily or when manually triggered.</sup></sub>
