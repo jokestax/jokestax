@@ -53,4 +53,4 @@ and [@kubearmor](https://github.com/kubearmor).
 * [jdx/demand](https://github.com/jdx/demand) from [@jdx](https://github.com/jdx) with 69 ⭐️
 * [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) from [@konstructio](https://github.com/konstructio) with 15 ⭐️
 
-<sup><sub>Last updated: December 15, 2024 at 20:40:10 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 15, 2024 at 23:23:36 EST. The content here updates twice daily or when manually triggered.</sup></sub>
