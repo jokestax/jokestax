@@ -22,18 +22,18 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#830 - fix: remove cloud account secret](https://github.com/konstructio/gitops-template/pull/830) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
 [@kubernetes-sigs](https://github.com/kubernetes-sigs),
 [@kubearmor](https://github.com/kubearmor),
-[@patrickdappollonio](https://github.com/patrickdappollonio)
-and [@civo](https://github.com/civo).
+[@patrickdappollonio](https://github.com/patrickdappollonio),
+[@civo](https://github.com/civo)
+and [@RishixMonk](https://github.com/RishixMonk).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
 * [patrickdappollonio/dotenv](https://github.com/patrickdappollonio/dotenv) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 4 ⭐️
-* [kubernetes-sigs/blixt](https://github.com/kubernetes-sigs/blixt) from [@kubernetes-sigs](https://github.com/kubernetes-sigs) with 361 ⭐️
+* [kubernetes-sigs/blixt](https://github.com/kubernetes-sigs/blixt) from [@kubernetes-sigs](https://github.com/kubernetes-sigs) with 362 ⭐️
 * [open-cluster-management-io/ocm](https://github.com/open-cluster-management-io/ocm) from [@open-cluster-management-io](https://github.com/open-cluster-management-io) with 780 ⭐️
 * [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) from [@kubearmor](https://github.com/kubearmor) with 1.6K ⭐️
 * [douglasmakey/tipsandtricks](https://github.com/douglasmakey/tipsandtricks) from [@douglasmakey](https://github.com/douglasmakey) with 1 ⭐️
@@ -53,4 +53,4 @@ and [@civo](https://github.com/civo).
 * [jdx/demand](https://github.com/jdx/demand) from [@jdx](https://github.com/jdx) with 69 ⭐️
 * [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) from [@konstructio](https://github.com/konstructio) with 15 ⭐️
 
-<sup><sub>Last updated: December 16, 2024 at 03:27:07 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 16, 2024 at 07:39:57 EST. The content here updates twice daily or when manually triggered.</sup></sub>
