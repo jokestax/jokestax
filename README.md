@@ -22,16 +22,17 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#2326 - bump api](https://github.com/konstructio/kubefirst/pull/2326) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
 [@kubearmor](https://github.com/kubearmor),
 [@patrickdappollonio](https://github.com/patrickdappollonio),
-[@civo](https://github.com/civo),
-[@RishixMonk](https://github.com/RishixMonk)
-and [@konstructio](https://github.com/konstructio).
+[@civo](https://github.com/civo)
+and [@RishixMonk](https://github.com/RishixMonk).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
+* [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 * [patrickdappollonio/dotenv](https://github.com/patrickdappollonio/dotenv) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 4 ⭐️
 * [kubernetes-sigs/blixt](https://github.com/kubernetes-sigs/blixt) from [@kubernetes-sigs](https://github.com/kubernetes-sigs) with 363 ⭐️
 * [open-cluster-management-io/ocm](https://github.com/open-cluster-management-io/ocm) from [@open-cluster-management-io](https://github.com/open-cluster-management-io) with 780 ⭐️
@@ -51,6 +52,5 @@ and [@konstructio](https://github.com/konstructio).
 * [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) from [@konstructio](https://github.com/konstructio) with 26 ⭐️
 * [ssotops/k1space](https://github.com/ssotops/k1space) from [@ssotops](https://github.com/ssotops) with 3 ⭐️
 * [jdx/demand](https://github.com/jdx/demand) from [@jdx](https://github.com/jdx) with 69 ⭐️
-* [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) from [@konstructio](https://github.com/konstructio) with 15 ⭐️
 
-<sup><sub>Last updated: December 16, 2024 at 15:21:23 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 16, 2024 at 20:36:50 EST. The content here updates twice daily or when manually triggered.</sup></sub>
