@@ -10,23 +10,23 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
-* [#844 - fix: service account name](https://github.com/konstructio/gitops-template/pull/844) on `konstructio/gitops-template` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#1 - Goreleaser](https://github.com/jokestax/metrics-client/pull/1) on `jokestax/metrics-client` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#16 - feat: add multi arch build using goreleaser](https://github.com/kubefirst/metrics-client/pull/16) on `kubefirst/metrics-client` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#15 - feat: add multi arch build using goreleaser](https://github.com/kubefirst/metrics-client/pull/15) on `kubefirst/metrics-client` - <img src="images/github-closed.png" width="12px" height="12px"> closed
+* [#845 - feat: support for bottlerocket provisioning](https://github.com/konstructio/gitops-template/pull/845) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#844 - fix: service account name](https://github.com/konstructio/gitops-template/pull/844) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#987 - deps: upgrade Kubefirst version](https://github.com/civo/kubernetes-marketplace/pull/987) on `civo/kubernetes-marketplace` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#3 - feat: upgrade version](https://github.com/konstructio/civo-marketplace/pull/3) on `konstructio/civo-marketplace` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#1 - rebase](https://github.com/jokestax/kubearmor-client/pull/1) on `jokestax/kubearmor-client` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#12 - feat: add goreleaser action to build and push container images](https://github.com/konstructio/kubernetes-toolkit/pull/12) on `konstructio/kubernetes-toolkit` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#313 - fix: add correct binary for `manager` and set `runAsUser: 1000` in `deployment.yaml`](https://github.com/kubernetes-sigs/blixt/pull/313) on `kubernetes-sigs/blixt` - <img src="images/github-open.png" width="12px" height="12px"> open
-* [#312 - fix dataplane loader ](https://github.com/kubernetes-sigs/blixt/pull/312) on `kubernetes-sigs/blixt` - <img src="images/github-closed.png" width="12px" height="12px"> closed
-* [#2341 - revert bubbletea changes](https://github.com/konstructio/kubefirst/pull/2341) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#834 - fix remove hard coded repo url](https://github.com/konstructio/gitops-template/pull/834) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#833 - rebase](https://github.com/konstructio/gitops-template/pull/833) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubearmor](https://github.com/kubearmor),
-[@patrickdappollonio](https://github.com/patrickdappollonio),
 [@RishixMonk](https://github.com/RishixMonk),
-[@konstructio](https://github.com/konstructio)
-and [@civo](https://github.com/civo).
+[@kubefirst](https://github.com/kubefirst),
+[@konstructio](https://github.com/konstructio),
+[@civo](https://github.com/civo)
+and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -47,10 +47,10 @@ and [@civo](https://github.com/civo).
 * [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) from [@konstructio](https://github.com/konstructio) with 15 ⭐️
 * [patrickdappollonio/patrickdappollonio](https://github.com/patrickdappollonio/patrickdappollonio) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 3 ⭐️
 * [patrickdappollonio/dotfiles](https://github.com/patrickdappollonio/dotfiles) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 1 ⭐️
-* [charmbracelet/gum](https://github.com/charmbracelet/gum) from [@charmbracelet](https://github.com/charmbracelet) with 18.5K ⭐️
+* [charmbracelet/gum](https://github.com/charmbracelet/gum) from [@charmbracelet](https://github.com/charmbracelet) with 18.4K ⭐️
 * [charmbracelet/huh](https://github.com/charmbracelet/huh) from [@charmbracelet](https://github.com/charmbracelet) with 4.8K ⭐️
 * [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) from [@konstructio](https://github.com/konstructio) with 27 ⭐️
 * [ssotops/k1space](https://github.com/ssotops/k1space) from [@ssotops](https://github.com/ssotops) with 3 ⭐️
 * [jdx/demand](https://github.com/jdx/demand) from [@jdx](https://github.com/jdx) with 69 ⭐️
 
-<sup><sub>Last updated: December 19, 2024 at 07:37:32 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 19, 2024 at 11:21:27 EST. The content here updates twice daily or when manually triggered.</sup></sub>
