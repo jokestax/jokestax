@@ -10,6 +10,8 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#987 - deps: upgrade Kubefirst version](https://github.com/civo/kubernetes-marketplace/pull/987) on `civo/kubernetes-marketplace` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#3 - feat: upgrade version](https://github.com/konstructio/civo-marketplace/pull/3) on `konstructio/civo-marketplace` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#1 - rebase](https://github.com/jokestax/kubearmor-client/pull/1) on `jokestax/kubearmor-client` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#12 - feat: add goreleaser action to build and push container images](https://github.com/konstructio/kubernetes-toolkit/pull/12) on `konstructio/kubernetes-toolkit` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#313 - fix: add correct binary for `manager` and set `runAsUser: 1000` in `deployment.yaml`](https://github.com/kubernetes-sigs/blixt/pull/313) on `kubernetes-sigs/blixt` - <img src="images/github-open.png" width="12px" height="12px"> open
@@ -18,15 +20,13 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#834 - fix remove hard coded repo url](https://github.com/konstructio/gitops-template/pull/834) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#833 - rebase](https://github.com/konstructio/gitops-template/pull/833) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#832 - remove hard coded repo url ](https://github.com/konstructio/gitops-template/pull/832) on `konstructio/gitops-template` - <img src="images/github-closed.png" width="12px" height="12px"> closed
-* [#2328 - fix: delete k1dir instead of kubeconfig file](https://github.com/konstructio/kubefirst/pull/2328) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#2326 - bump api](https://github.com/konstructio/kubefirst/pull/2326) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@civo](https://github.com/civo),
-[@RishixMonk](https://github.com/RishixMonk),
 [@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs)
-and [@kubearmor](https://github.com/kubearmor).
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@kubearmor](https://github.com/kubearmor)
+and [@patrickdappollonio](https://github.com/patrickdappollonio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -34,7 +34,7 @@ and [@kubearmor](https://github.com/kubearmor).
 
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 11 ⭐️
 * [patrickdappollonio/dotenv](https://github.com/patrickdappollonio/dotenv) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 5 ⭐️
-* [kubernetes-sigs/blixt](https://github.com/kubernetes-sigs/blixt) from [@kubernetes-sigs](https://github.com/kubernetes-sigs) with 363 ⭐️
+* [kubernetes-sigs/blixt](https://github.com/kubernetes-sigs/blixt) from [@kubernetes-sigs](https://github.com/kubernetes-sigs) with 364 ⭐️
 * [open-cluster-management-io/ocm](https://github.com/open-cluster-management-io/ocm) from [@open-cluster-management-io](https://github.com/open-cluster-management-io) with 781 ⭐️
 * [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) from [@kubearmor](https://github.com/kubearmor) with 1.6K ⭐️
 * [douglasmakey/tipsandtricks](https://github.com/douglasmakey/tipsandtricks) from [@douglasmakey](https://github.com/douglasmakey) with 1 ⭐️
@@ -53,4 +53,4 @@ and [@kubearmor](https://github.com/kubearmor).
 * [ssotops/k1space](https://github.com/ssotops/k1space) from [@ssotops](https://github.com/ssotops) with 3 ⭐️
 * [jdx/demand](https://github.com/jdx/demand) from [@jdx](https://github.com/jdx) with 69 ⭐️
 
-<sup><sub>Last updated: December 18, 2024 at 15:20:19 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 18, 2024 at 20:26:37 EST. The content here updates twice daily or when manually triggered.</sup></sub>
