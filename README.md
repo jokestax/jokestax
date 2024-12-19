@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#313 - fix: add correct binary for `manager` and set `runAsUser: 1000` in `deployment.yaml`](https://github.com/kubernetes-sigs/blixt/pull/313) on `kubernetes-sigs/blixt` - <img src="images/github-open.png" width="12px" height="12px"> open
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@RishixMonk](https://github.com/RishixMonk),
-[@kubefirst](https://github.com/kubefirst),
-[@konstructio](https://github.com/konstructio),
-[@civo](https://github.com/civo)
-and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@kubearmor](https://github.com/kubearmor),
+[@patrickdappollonio](https://github.com/patrickdappollonio),
+[@RishixMonk](https://github.com/RishixMonk)
+and [@kubefirst](https://github.com/kubefirst).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -47,10 +47,10 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 * [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) from [@konstructio](https://github.com/konstructio) with 15 ⭐️
 * [patrickdappollonio/patrickdappollonio](https://github.com/patrickdappollonio/patrickdappollonio) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 3 ⭐️
 * [patrickdappollonio/dotfiles](https://github.com/patrickdappollonio/dotfiles) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 1 ⭐️
-* [charmbracelet/gum](https://github.com/charmbracelet/gum) from [@charmbracelet](https://github.com/charmbracelet) with 18.4K ⭐️
+* [charmbracelet/gum](https://github.com/charmbracelet/gum) from [@charmbracelet](https://github.com/charmbracelet) with 18.5K ⭐️
 * [charmbracelet/huh](https://github.com/charmbracelet/huh) from [@charmbracelet](https://github.com/charmbracelet) with 4.8K ⭐️
 * [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) from [@konstructio](https://github.com/konstructio) with 27 ⭐️
 * [ssotops/k1space](https://github.com/ssotops/k1space) from [@ssotops](https://github.com/ssotops) with 3 ⭐️
 * [jdx/demand](https://github.com/jdx/demand) from [@jdx](https://github.com/jdx) with 69 ⭐️
 
-<sup><sub>Last updated: December 19, 2024 at 11:21:27 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 19, 2024 at 15:19:26 EST. The content here updates twice daily or when manually triggered.</sup></sub>
