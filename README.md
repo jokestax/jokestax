@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#313 - fix: add correct binary for `manager` and set `runAsUser: 1000` in `deployment.yaml`](https://github.com/kubernetes-sigs/blixt/pull/313) on `kubernetes-sigs/blixt` - <img src="images/github-open.png" width="12px" height="12px"> open
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@civo](https://github.com/civo),
 [@kubernetes-sigs](https://github.com/kubernetes-sigs),
 [@kubearmor](https://github.com/kubearmor),
-[@patrickdappollonio](https://github.com/patrickdappollonio)
-and [@RishixMonk](https://github.com/RishixMonk).
+[@patrickdappollonio](https://github.com/patrickdappollonio),
+[@RishixMonk](https://github.com/RishixMonk)
+and [@kubefirst](https://github.com/kubefirst).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@RishixMonk](https://github.com/RishixMonk).
 * [ssotops/k1space](https://github.com/ssotops/k1space) from [@ssotops](https://github.com/ssotops) with 3 ⭐️
 * [jdx/demand](https://github.com/jdx/demand) from [@jdx](https://github.com/jdx) with 70 ⭐️
 
-<sup><sub>Last updated: December 20, 2024 at 23:20:55 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 21, 2024 at 03:20:54 EST. The content here updates twice daily or when manually triggered.</sup></sub>
