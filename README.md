@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#12 - feat: add goreleaser action to build and push container images](https://github.com/konstructio/kubernetes-toolkit/pull/12) on `konstructio/kubernetes-toolkit` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubearmor](https://github.com/kubearmor),
-[@patrickdappollonio](https://github.com/patrickdappollonio),
-[@RishixMonk](https://github.com/RishixMonk),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs)
-and [@kubefirst](https://github.com/kubefirst).
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@kubefirst](https://github.com/kubefirst),
+[@konstructio](https://github.com/konstructio),
+[@civo](https://github.com/civo)
+and [@kubearmor](https://github.com/kubearmor).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@kubefirst](https://github.com/kubefirst).
 * [ssotops/k1space](https://github.com/ssotops/k1space) from [@ssotops](https://github.com/ssotops) with 3 ⭐️
 * [jdx/demand](https://github.com/jdx/demand) from [@jdx](https://github.com/jdx) with 70 ⭐️
 
-<sup><sub>Last updated: December 21, 2024 at 11:19:50 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 21, 2024 at 15:17:36 EST. The content here updates twice daily or when manually triggered.</sup></sub>
