@@ -10,6 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#325 - feat: implement checksum ](https://github.com/kubernetes-sigs/blixt/pull/325) on `kubernetes-sigs/blixt` - <img src="images/github-draft.png" width="12px" height="12px"> in draft
 * [#1 - Goreleaser](https://github.com/jokestax/metrics-client/pull/1) on `jokestax/metrics-client` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#16 - feat: add multi arch build using goreleaser](https://github.com/kubefirst/metrics-client/pull/16) on `kubefirst/metrics-client` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#15 - feat: add multi arch build using goreleaser](https://github.com/kubefirst/metrics-client/pull/15) on `kubefirst/metrics-client` - <img src="images/github-closed.png" width="12px" height="12px"> closed
@@ -19,14 +20,13 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#3 - feat: upgrade version](https://github.com/konstructio/civo-marketplace/pull/3) on `konstructio/civo-marketplace` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#1 - rebase](https://github.com/jokestax/kubearmor-client/pull/1) on `jokestax/kubearmor-client` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#12 - feat: add goreleaser action to build and push container images](https://github.com/konstructio/kubernetes-toolkit/pull/12) on `konstructio/kubernetes-toolkit` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#313 - fix: add correct binary for `manager` and set `runAsUser: 1000` in `deployment.yaml`](https://github.com/kubernetes-sigs/blixt/pull/313) on `kubernetes-sigs/blixt` - <img src="images/github-open.png" width="12px" height="12px"> open
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@konstructio](https://github.com/konstructio),
+[@civo](https://github.com/civo),
 [@kubearmor](https://github.com/kubearmor),
-[@patrickdappollonio](https://github.com/patrickdappollonio),
-[@RishixMonk](https://github.com/RishixMonk)
-and [@kubefirst](https://github.com/kubefirst).
+[@patrickdappollonio](https://github.com/patrickdappollonio)
+and [@RishixMonk](https://github.com/RishixMonk).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -40,7 +40,7 @@ and [@kubefirst](https://github.com/kubefirst).
 * [douglasmakey/tipsandtricks](https://github.com/douglasmakey/tipsandtricks) from [@douglasmakey](https://github.com/douglasmakey) with 1 ⭐️
 * [douglasmakey/shelldon](https://github.com/douglasmakey/shelldon) from [@douglasmakey](https://github.com/douglasmakey) with 28 ⭐️
 * [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 316 ⭐️
-* [konstructio/gitops-template](https://github.com/konstructio/gitops-template) from [@konstructio](https://github.com/konstructio) with 75 ⭐️
+* [konstructio/gitops-template](https://github.com/konstructio/gitops-template) from [@konstructio](https://github.com/konstructio) with 76 ⭐️
 * [konstructio/console](https://github.com/konstructio/console) from [@konstructio](https://github.com/konstructio) with 9 ⭐️
 * [patrickdappollonio/gc-rust](https://github.com/patrickdappollonio/gc-rust) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 2 ⭐️
 * [konstructio/dropkick](https://github.com/konstructio/dropkick) from [@konstructio](https://github.com/konstructio) with 6 ⭐️
@@ -53,4 +53,4 @@ and [@kubefirst](https://github.com/kubefirst).
 * [ssotops/k1space](https://github.com/ssotops/k1space) from [@ssotops](https://github.com/ssotops) with 3 ⭐️
 * [jdx/demand](https://github.com/jdx/demand) from [@jdx](https://github.com/jdx) with 70 ⭐️
 
-<sup><sub>Last updated: December 21, 2024 at 03:20:54 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 21, 2024 at 07:32:36 EST. The content here updates twice daily or when manually triggered.</sup></sub>
