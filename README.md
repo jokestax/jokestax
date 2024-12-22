@@ -22,16 +22,17 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#12 - feat: add goreleaser action to build and push container images](https://github.com/konstructio/kubernetes-toolkit/pull/12) on `konstructio/kubernetes-toolkit` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@RishixMonk](https://github.com/RishixMonk),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs),
 [@kubefirst](https://github.com/kubefirst),
-[@konstructio](https://github.com/konstructio)
-and [@civo](https://github.com/civo).
+[@konstructio](https://github.com/konstructio),
+[@civo](https://github.com/civo),
+[@kubearmor](https://github.com/kubearmor)
+and [@patrickdappollonio](https://github.com/patrickdappollonio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
+* [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.2K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 11 ⭐️
 * [patrickdappollonio/dotenv](https://github.com/patrickdappollonio/dotenv) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 5 ⭐️
 * [kubernetes-sigs/blixt](https://github.com/kubernetes-sigs/blixt) from [@kubernetes-sigs](https://github.com/kubernetes-sigs) with 364 ⭐️
@@ -51,6 +52,5 @@ and [@civo](https://github.com/civo).
 * [charmbracelet/huh](https://github.com/charmbracelet/huh) from [@charmbracelet](https://github.com/charmbracelet) with 4.8K ⭐️
 * [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) from [@konstructio](https://github.com/konstructio) with 27 ⭐️
 * [ssotops/k1space](https://github.com/ssotops/k1space) from [@ssotops](https://github.com/ssotops) with 3 ⭐️
-* [jdx/demand](https://github.com/jdx/demand) from [@jdx](https://github.com/jdx) with 70 ⭐️
 
-<sup><sub>Last updated: December 21, 2024 at 20:34:59 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 21, 2024 at 23:20:26 EST. The content here updates twice daily or when manually triggered.</sup></sub>
