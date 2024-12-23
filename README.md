@@ -53,4 +53,4 @@ and [@kubearmor](https://github.com/kubearmor).
 * [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) from [@konstructio](https://github.com/konstructio) with 27 ⭐️
 * [ssotops/k1space](https://github.com/ssotops/k1space) from [@ssotops](https://github.com/ssotops) with 3 ⭐️
 
-<sup><sub>Last updated: December 22, 2024 at 15:17:47 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 22, 2024 at 20:23:32 EST. The content here updates twice daily or when manually triggered.</sup></sub>
