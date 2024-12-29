@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#12 - feat: add goreleaser action to build and push container images](https://github.com/konstructio/kubernetes-toolkit/pull/12) on `konstructio/kubernetes-toolkit` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@civo](https://github.com/civo),
 [@kubearmor](https://github.com/kubearmor),
 [@patrickdappollonio](https://github.com/patrickdappollonio),
-[@RishixMonk](https://github.com/RishixMonk)
-and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
+[@RishixMonk](https://github.com/RishixMonk),
+[@kubernetes-sigs](https://github.com/kubernetes-sigs)
+and [@kubefirst](https://github.com/kubefirst).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -41,7 +41,7 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 * [douglasmakey/tipsandtricks](https://github.com/douglasmakey/tipsandtricks) from [@douglasmakey](https://github.com/douglasmakey) with 1 ⭐️
 * [douglasmakey/shelldon](https://github.com/douglasmakey/shelldon) from [@douglasmakey](https://github.com/douglasmakey) with 28 ⭐️
 * [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 322 ⭐️
-* [konstructio/gitops-template](https://github.com/konstructio/gitops-template) from [@konstructio](https://github.com/konstructio) with 76 ⭐️
+* [konstructio/gitops-template](https://github.com/konstructio/gitops-template) from [@konstructio](https://github.com/konstructio) with 77 ⭐️
 * [konstructio/console](https://github.com/konstructio/console) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 * [patrickdappollonio/gc-rust](https://github.com/patrickdappollonio/gc-rust) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 2 ⭐️
 * [konstructio/dropkick](https://github.com/konstructio/dropkick) from [@konstructio](https://github.com/konstructio) with 6 ⭐️
@@ -53,4 +53,4 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 * [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) from [@konstructio](https://github.com/konstructio) with 27 ⭐️
 * [ssotops/k1space](https://github.com/ssotops/k1space) from [@ssotops](https://github.com/ssotops) with 3 ⭐️
 
-<sup><sub>Last updated: December 28, 2024 at 23:20:55 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 29, 2024 at 03:21:14 EST. The content here updates twice daily or when manually triggered.</sup></sub>
