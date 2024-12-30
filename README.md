@@ -10,7 +10,8 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
-* [#2351 - remove vultr and google out of beta](https://github.com/konstructio/kubefirst/pull/2351) on `konstructio/kubefirst` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#528 - feat bottlerocket](https://github.com/konstructio/kubefirst-api/pull/528) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#2351 - remove vultr and google out of beta](https://github.com/konstructio/kubefirst/pull/2351) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#848 - feat: vultr physical support](https://github.com/konstructio/gitops-template/pull/848) on `konstructio/gitops-template` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#325 - feat: implement checksum ](https://github.com/kubernetes-sigs/blixt/pull/325) on `kubernetes-sigs/blixt` - <img src="images/github-draft.png" width="12px" height="12px"> in draft
 * [#1 - Goreleaser](https://github.com/jokestax/metrics-client/pull/1) on `jokestax/metrics-client` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -19,14 +20,13 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#845 - feat: support for bottlerocket provisioning](https://github.com/konstructio/gitops-template/pull/845) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#844 - fix: service account name](https://github.com/konstructio/gitops-template/pull/844) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#987 - deps: upgrade Kubefirst version](https://github.com/civo/kubernetes-marketplace/pull/987) on `civo/kubernetes-marketplace` - <img src="images/github-open.png" width="12px" height="12px"> open
-* [#3 - feat: upgrade version](https://github.com/konstructio/civo-marketplace/pull/3) on `konstructio/civo-marketplace` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubearmor](https://github.com/kubearmor),
 [@patrickdappollonio](https://github.com/patrickdappollonio),
 [@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs)
-and [@kubefirst](https://github.com/kubefirst).
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@kubefirst](https://github.com/kubefirst)
+and [@civo](https://github.com/civo).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@kubefirst](https://github.com/kubefirst).
 * [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) from [@konstructio](https://github.com/konstructio) with 27 ⭐️
 * [ssotops/k1space](https://github.com/ssotops/k1space) from [@ssotops](https://github.com/ssotops) with 3 ⭐️
 
-<sup><sub>Last updated: December 30, 2024 at 07:35:21 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 30, 2024 at 11:21:41 EST. The content here updates twice daily or when manually triggered.</sup></sub>
