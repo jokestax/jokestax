@@ -10,6 +10,8 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#2351 - remove vultr and google out of beta](https://github.com/konstructio/kubefirst/pull/2351) on `konstructio/kubefirst` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#848 - feat: vultr physical support](https://github.com/konstructio/gitops-template/pull/848) on `konstructio/gitops-template` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#325 - feat: implement checksum ](https://github.com/kubernetes-sigs/blixt/pull/325) on `kubernetes-sigs/blixt` - <img src="images/github-draft.png" width="12px" height="12px"> in draft
 * [#1 - Goreleaser](https://github.com/jokestax/metrics-client/pull/1) on `jokestax/metrics-client` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#16 - feat: add multi arch build using goreleaser](https://github.com/kubefirst/metrics-client/pull/16) on `kubefirst/metrics-client` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -18,15 +20,13 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#844 - fix: service account name](https://github.com/konstructio/gitops-template/pull/844) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#987 - deps: upgrade Kubefirst version](https://github.com/civo/kubernetes-marketplace/pull/987) on `civo/kubernetes-marketplace` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#3 - feat: upgrade version](https://github.com/konstructio/civo-marketplace/pull/3) on `konstructio/civo-marketplace` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#1 - rebase](https://github.com/jokestax/kubearmor-client/pull/1) on `jokestax/kubearmor-client` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#12 - feat: add goreleaser action to build and push container images](https://github.com/konstructio/kubernetes-toolkit/pull/12) on `konstructio/kubernetes-toolkit` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@kubefirst](https://github.com/kubefirst),
+[@kubearmor](https://github.com/kubearmor),
+[@patrickdappollonio](https://github.com/patrickdappollonio),
 [@konstructio](https://github.com/konstructio),
-[@civo](https://github.com/civo)
-and [@kubearmor](https://github.com/kubearmor).
+[@kubernetes-sigs](https://github.com/kubernetes-sigs)
+and [@kubefirst](https://github.com/kubefirst).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@kubearmor](https://github.com/kubearmor).
 * [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) from [@konstructio](https://github.com/konstructio) with 27 ⭐️
 * [ssotops/k1space](https://github.com/ssotops/k1space) from [@ssotops](https://github.com/ssotops) with 3 ⭐️
 
-<sup><sub>Last updated: December 30, 2024 at 03:23:24 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 30, 2024 at 07:35:21 EST. The content here updates twice daily or when manually triggered.</sup></sub>
