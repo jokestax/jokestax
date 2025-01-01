@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#845 - feat: support for bottlerocket provisioning](https://github.com/konstructio/gitops-template/pull/845) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@civo](https://github.com/civo),
 [@kubearmor](https://github.com/kubearmor),
 [@patrickdappollonio](https://github.com/patrickdappollonio),
-[@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs)
-and [@kubefirst](https://github.com/kubefirst).
+[@konstructio](https://github.com/konstructio)
+and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@kubefirst](https://github.com/kubefirst).
 * [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) from [@konstructio](https://github.com/konstructio) with 27 ⭐️
 * [ssotops/k1space](https://github.com/ssotops/k1space) from [@ssotops](https://github.com/ssotops) with 3 ⭐️
 
-<sup><sub>Last updated: January 01, 2025 at 03:22:45 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: January 01, 2025 at 07:34:35 EST. The content here updates twice daily or when manually triggered.</sup></sub>
