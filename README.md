@@ -10,6 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#849 - fix: pin gke and dependencies versions](https://github.com/konstructio/gitops-template/pull/849) on `konstructio/gitops-template` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#2352 - feat: add bottlerocket ami types](https://github.com/konstructio/kubefirst/pull/2352) on `konstructio/kubefirst` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#528 - feat bottlerocket](https://github.com/konstructio/kubefirst-api/pull/528) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#2351 - remove vultr and google out of beta](https://github.com/konstructio/kubefirst/pull/2351) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -19,14 +20,13 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#16 - feat: add multi arch build using goreleaser](https://github.com/kubefirst/metrics-client/pull/16) on `kubefirst/metrics-client` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#15 - feat: add multi arch build using goreleaser](https://github.com/kubefirst/metrics-client/pull/15) on `kubefirst/metrics-client` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 * [#845 - feat: support for bottlerocket provisioning](https://github.com/konstructio/gitops-template/pull/845) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#844 - fix: service account name](https://github.com/konstructio/gitops-template/pull/844) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@kubearmor](https://github.com/kubearmor),
+[@patrickdappollonio](https://github.com/patrickdappollonio),
 [@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@kubefirst](https://github.com/kubefirst),
-[@civo](https://github.com/civo)
-and [@kubearmor](https://github.com/kubearmor).
+[@kubernetes-sigs](https://github.com/kubernetes-sigs)
+and [@kubefirst](https://github.com/kubefirst).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@kubearmor](https://github.com/kubearmor).
 * [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) from [@konstructio](https://github.com/konstructio) with 27 ⭐️
 * [ssotops/k1space](https://github.com/ssotops/k1space) from [@ssotops](https://github.com/ssotops) with 3 ⭐️
 
-<sup><sub>Last updated: December 31, 2024 at 23:21:49 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: January 01, 2025 at 03:22:45 EST. The content here updates twice daily or when manually triggered.</sup></sub>
