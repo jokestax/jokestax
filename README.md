@@ -53,4 +53,4 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 * [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) from [@konstructio](https://github.com/konstructio) with 27 ⭐️
 * [ssotops/k1space](https://github.com/ssotops/k1space) from [@ssotops](https://github.com/ssotops) with 3 ⭐️
 
-<sup><sub>Last updated: January 02, 2025 at 07:35:11 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: January 02, 2025 at 11:22:05 EST. The content here updates twice daily or when manually triggered.</sup></sub>
