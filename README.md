@@ -11,7 +11,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 
 
 * [#849 - fix: pin gke and dependencies versions](https://github.com/konstructio/gitops-template/pull/849) on `konstructio/gitops-template` - <img src="images/github-open.png" width="12px" height="12px"> open
-* [#2352 - feat: add bottlerocket ami types](https://github.com/konstructio/kubefirst/pull/2352) on `konstructio/kubefirst` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#2352 - feat: add bottlerocket ami types](https://github.com/konstructio/kubefirst/pull/2352) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#528 - feat bottlerocket](https://github.com/konstructio/kubefirst-api/pull/528) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#2351 - remove vultr and google out of beta](https://github.com/konstructio/kubefirst/pull/2351) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#848 - feat: vultr physical support](https://github.com/konstructio/gitops-template/pull/848) on `konstructio/gitops-template` - <img src="images/github-open.png" width="12px" height="12px"> open
@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#845 - feat: support for bottlerocket provisioning](https://github.com/konstructio/gitops-template/pull/845) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@patrickdappollonio](https://github.com/patrickdappollonio),
 [@konstructio](https://github.com/konstructio),
 [@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@kubefirst](https://github.com/kubefirst)
-and [@civo](https://github.com/civo).
+[@kubefirst](https://github.com/kubefirst),
+[@civo](https://github.com/civo)
+and [@kubearmor](https://github.com/kubearmor).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@civo](https://github.com/civo).
 * [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) from [@konstructio](https://github.com/konstructio) with 27 ⭐️
 * [ssotops/k1space](https://github.com/ssotops/k1space) from [@ssotops](https://github.com/ssotops) with 3 ⭐️
 
-<sup><sub>Last updated: January 06, 2025 at 15:18:00 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: January 06, 2025 at 20:22:50 EST. The content here updates twice daily or when manually triggered.</sup></sub>
