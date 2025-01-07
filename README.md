@@ -10,7 +10,8 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
-* [#850 - fix: encode instead of decode](https://github.com/konstructio/gitops-template/pull/850) on `konstructio/gitops-template` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#2356 - fix: label for api](https://github.com/konstructio/kubefirst/pull/2356) on `konstructio/kubefirst` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#850 - fix: encode instead of decode](https://github.com/konstructio/gitops-template/pull/850) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#1 - feat: dev](https://github.com/sadaram-in/tb-products/pull/1) on `sadaram-in/tb-products` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#849 - fix: pin gke and dependencies versions](https://github.com/konstructio/gitops-template/pull/849) on `konstructio/gitops-template` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#2352 - feat: add bottlerocket ami types](https://github.com/konstructio/kubefirst/pull/2352) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -19,14 +20,13 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#848 - feat: vultr physical support](https://github.com/konstructio/gitops-template/pull/848) on `konstructio/gitops-template` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#325 - feat: implement checksum ](https://github.com/kubernetes-sigs/blixt/pull/325) on `kubernetes-sigs/blixt` - <img src="images/github-draft.png" width="12px" height="12px"> in draft
 * [#1 - Goreleaser](https://github.com/jokestax/metrics-client/pull/1) on `jokestax/metrics-client` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#16 - feat: add multi arch build using goreleaser](https://github.com/kubefirst/metrics-client/pull/16) on `kubefirst/metrics-client` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
-[@sadaram-in](https://github.com/sadaram-in),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@kubefirst](https://github.com/kubefirst)
-and [@civo](https://github.com/civo).
+[@civo](https://github.com/civo),
+[@kubearmor](https://github.com/kubearmor),
+[@patrickdappollonio](https://github.com/patrickdappollonio),
+[@konstructio](https://github.com/konstructio)
+and [@sadaram-in](https://github.com/sadaram-in).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@civo](https://github.com/civo).
 * [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) from [@konstructio](https://github.com/konstructio) with 27 ⭐️
 * [ssotops/k1space](https://github.com/ssotops/k1space) from [@ssotops](https://github.com/ssotops) with 3 ⭐️
 
-<sup><sub>Last updated: January 07, 2025 at 11:34:48 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: January 07, 2025 at 15:19:04 EST. The content here updates twice daily or when manually triggered.</sup></sub>
