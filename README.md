@@ -10,7 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
-* [#2356 - fix: label for api](https://github.com/konstructio/kubefirst/pull/2356) on `konstructio/kubefirst` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#2356 - fix: label for api](https://github.com/konstructio/kubefirst/pull/2356) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#850 - fix: encode instead of decode](https://github.com/konstructio/gitops-template/pull/850) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#1 - feat: dev](https://github.com/sadaram-in/tb-products/pull/1) on `sadaram-in/tb-products` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#849 - fix: pin gke and dependencies versions](https://github.com/konstructio/gitops-template/pull/849) on `konstructio/gitops-template` - <img src="images/github-open.png" width="12px" height="12px"> open
@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#1 - Goreleaser](https://github.com/jokestax/metrics-client/pull/1) on `jokestax/metrics-client` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@civo](https://github.com/civo),
 [@kubearmor](https://github.com/kubearmor),
 [@patrickdappollonio](https://github.com/patrickdappollonio),
-[@konstructio](https://github.com/konstructio)
-and [@sadaram-in](https://github.com/sadaram-in).
+[@konstructio](https://github.com/konstructio),
+[@sadaram-in](https://github.com/sadaram-in)
+and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -45,7 +45,7 @@ and [@sadaram-in](https://github.com/sadaram-in).
 * [konstructio/console](https://github.com/konstructio/console) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 * [patrickdappollonio/gc-rust](https://github.com/patrickdappollonio/gc-rust) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 2 ⭐️
 * [konstructio/dropkick](https://github.com/konstructio/dropkick) from [@konstructio](https://github.com/konstructio) with 6 ⭐️
-* [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) from [@konstructio](https://github.com/konstructio) with 15 ⭐️
+* [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) from [@konstructio](https://github.com/konstructio) with 16 ⭐️
 * [patrickdappollonio/patrickdappollonio](https://github.com/patrickdappollonio/patrickdappollonio) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 3 ⭐️
 * [patrickdappollonio/dotfiles](https://github.com/patrickdappollonio/dotfiles) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 1 ⭐️
 * [charmbracelet/gum](https://github.com/charmbracelet/gum) from [@charmbracelet](https://github.com/charmbracelet) with 18.6K ⭐️
@@ -53,4 +53,4 @@ and [@sadaram-in](https://github.com/sadaram-in).
 * [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) from [@konstructio](https://github.com/konstructio) with 27 ⭐️
 * [ssotops/k1space](https://github.com/ssotops/k1space) from [@ssotops](https://github.com/ssotops) with 3 ⭐️
 
-<sup><sub>Last updated: January 07, 2025 at 15:19:04 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: January 07, 2025 at 20:22:17 EST. The content here updates twice daily or when manually triggered.</sup></sub>
