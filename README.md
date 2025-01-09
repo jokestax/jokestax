@@ -10,7 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
-* [#852 - fix: add unique policy name](https://github.com/konstructio/gitops-template/pull/852) on `konstructio/gitops-template` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#852 - fix: add unique policy name](https://github.com/konstructio/gitops-template/pull/852) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#2356 - fix: label for api](https://github.com/konstructio/kubefirst/pull/2356) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#850 - fix: encode instead of decode](https://github.com/konstructio/gitops-template/pull/850) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#1 - feat: dev](https://github.com/sadaram-in/tb-products/pull/1) on `sadaram-in/tb-products` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#325 - feat: implement checksum ](https://github.com/kubernetes-sigs/blixt/pull/325) on `kubernetes-sigs/blixt` - <img src="images/github-draft.png" width="12px" height="12px"> in draft
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@konstructio](https://github.com/konstructio),
 [@sadaram-in](https://github.com/sadaram-in),
 [@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@kubefirst](https://github.com/kubefirst),
-[@civo](https://github.com/civo)
-and [@kubearmor](https://github.com/kubearmor).
+[@kubefirst](https://github.com/kubefirst)
+and [@civo](https://github.com/civo).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@kubearmor](https://github.com/kubearmor).
 * [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) from [@konstructio](https://github.com/konstructio) with 27 ⭐️
 * [ssotops/k1space](https://github.com/ssotops/k1space) from [@ssotops](https://github.com/ssotops) with 3 ⭐️
 
-<sup><sub>Last updated: January 09, 2025 at 07:36:16 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: January 09, 2025 at 11:23:08 EST. The content here updates twice daily or when manually triggered.</sup></sub>
