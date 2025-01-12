@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#325 - feat: implement checksum ](https://github.com/kubernetes-sigs/blixt/pull/325) on `kubernetes-sigs/blixt` - <img src="images/github-draft.png" width="12px" height="12px"> in draft
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@patrickdappollonio](https://github.com/patrickdappollonio),
-[@konstructio](https://github.com/konstructio),
-[@sadaram-in](https://github.com/sadaram-in),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs)
-and [@kubefirst](https://github.com/kubefirst).
+[@kubefirst](https://github.com/kubefirst),
+[@civo](https://github.com/civo),
+[@kubearmor](https://github.com/kubearmor),
+[@patrickdappollonio](https://github.com/patrickdappollonio)
+and [@konstructio](https://github.com/konstructio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@kubefirst](https://github.com/kubefirst).
 * [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) from [@konstructio](https://github.com/konstructio) with 27 ⭐️
 * [ssotops/k1space](https://github.com/ssotops/k1space) from [@ssotops](https://github.com/ssotops) with 3 ⭐️
 
-<sup><sub>Last updated: January 11, 2025 at 15:18:02 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: January 11, 2025 at 20:36:47 EST. The content here updates twice daily or when manually triggered.</sup></sub>
