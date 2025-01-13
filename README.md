@@ -18,7 +18,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#2352 - feat: add bottlerocket ami types](https://github.com/konstructio/kubefirst/pull/2352) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#528 - feat bottlerocket](https://github.com/konstructio/kubefirst-api/pull/528) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#2351 - remove vultr and google out of beta](https://github.com/konstructio/kubefirst/pull/2351) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#848 - feat: vultr physical support](https://github.com/konstructio/gitops-template/pull/848) on `konstructio/gitops-template` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#848 - feat: vultr physical support](https://github.com/konstructio/gitops-template/pull/848) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#325 - feat: implement checksum ](https://github.com/kubernetes-sigs/blixt/pull/325) on `kubernetes-sigs/blixt` - <img src="images/github-draft.png" width="12px" height="12px"> in draft
 
 Overall, my most recent contributions (besides my own repos) have gone to 
@@ -53,4 +53,4 @@ and [@civo](https://github.com/civo).
 * [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) from [@konstructio](https://github.com/konstructio) with 28 ⭐️
 * [ssotops/k1space](https://github.com/ssotops/k1space) from [@ssotops](https://github.com/ssotops) with 3 ⭐️
 
-<sup><sub>Last updated: January 13, 2025 at 07:37:23 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: January 13, 2025 at 11:24:14 EST. The content here updates twice daily or when manually triggered.</sup></sub>
