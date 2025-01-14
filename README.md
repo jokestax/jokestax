@@ -53,4 +53,4 @@ and [@civo](https://github.com/civo).
 * [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) from [@konstructio](https://github.com/konstructio) with 28 ⭐️
 * [ssotops/k1space](https://github.com/ssotops/k1space) from [@ssotops](https://github.com/ssotops) with 3 ⭐️
 
-<sup><sub>Last updated: January 13, 2025 at 20:18:46 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: January 13, 2025 at 23:20:26 EST. The content here updates twice daily or when manually triggered.</sup></sub>
