@@ -40,7 +40,7 @@ and [@civo](https://github.com/civo).
 * [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) from [@kubearmor](https://github.com/kubearmor) with 1.6K ⭐️
 * [douglasmakey/tipsandtricks](https://github.com/douglasmakey/tipsandtricks) from [@douglasmakey](https://github.com/douglasmakey) with 1 ⭐️
 * [douglasmakey/shelldon](https://github.com/douglasmakey/shelldon) from [@douglasmakey](https://github.com/douglasmakey) with 31 ⭐️
-* [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 324 ⭐️
+* [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 325 ⭐️
 * [konstructio/gitops-template](https://github.com/konstructio/gitops-template) from [@konstructio](https://github.com/konstructio) with 80 ⭐️
 * [konstructio/console](https://github.com/konstructio/console) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 * [patrickdappollonio/gc-rust](https://github.com/patrickdappollonio/gc-rust) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 2 ⭐️
@@ -53,4 +53,4 @@ and [@civo](https://github.com/civo).
 * [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) from [@konstructio](https://github.com/konstructio) with 28 ⭐️
 * [ssotops/k1space](https://github.com/ssotops/k1space) from [@ssotops](https://github.com/ssotops) with 3 ⭐️
 
-<sup><sub>Last updated: January 14, 2025 at 03:22:28 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: January 14, 2025 at 07:34:45 EST. The content here updates twice daily or when manually triggered.</sup></sub>
