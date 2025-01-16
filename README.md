@@ -53,4 +53,4 @@ and [@kubefirst](https://github.com/kubefirst).
 * [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) from [@konstructio](https://github.com/konstructio) with 28 ⭐️
 * [ssotops/k1space](https://github.com/ssotops/k1space) from [@ssotops](https://github.com/ssotops) with 3 ⭐️
 
-<sup><sub>Last updated: January 16, 2025 at 03:21:52 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: January 16, 2025 at 07:34:36 EST. The content here updates twice daily or when manually triggered.</sup></sub>
