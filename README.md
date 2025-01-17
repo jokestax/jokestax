@@ -32,6 +32,7 @@ and [@civo](https://github.com/civo).
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
+* [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.3K ⭐️
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.3K ⭐️
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.2K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 11 ⭐️
@@ -51,6 +52,5 @@ and [@civo](https://github.com/civo).
 * [patrickdappollonio/dotfiles](https://github.com/patrickdappollonio/dotfiles) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 1 ⭐️
 * [charmbracelet/gum](https://github.com/charmbracelet/gum) from [@charmbracelet](https://github.com/charmbracelet) with 18.6K ⭐️
 * [charmbracelet/huh](https://github.com/charmbracelet/huh) from [@charmbracelet](https://github.com/charmbracelet) with 4.9K ⭐️
-* [konstructio/gitops-catalog](https://github.com/konstructio/gitops-catalog) from [@konstructio](https://github.com/konstructio) with 28 ⭐️
 
-<sup><sub>Last updated: January 16, 2025 at 23:21:23 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: January 17, 2025 at 03:21:32 EST. The content here updates twice daily or when manually triggered.</sup></sub>
