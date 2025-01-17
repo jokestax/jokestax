@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#2352 - feat: add bottlerocket ami types](https://github.com/konstructio/kubefirst/pull/2352) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@aquasecurity](https://github.com/aquasecurity),
 [@konstructio](https://github.com/konstructio),
 [@sadaram-in](https://github.com/sadaram-in),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs)
-and [@kubefirst](https://github.com/kubefirst).
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@kubefirst](https://github.com/kubefirst)
+and [@civo](https://github.com/civo).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -38,7 +38,7 @@ and [@kubefirst](https://github.com/kubefirst).
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 11 ⭐️
 * [patrickdappollonio/dotenv](https://github.com/patrickdappollonio/dotenv) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 5 ⭐️
 * [kubernetes-sigs/blixt](https://github.com/kubernetes-sigs/blixt) from [@kubernetes-sigs](https://github.com/kubernetes-sigs) with 372 ⭐️
-* [open-cluster-management-io/ocm](https://github.com/open-cluster-management-io/ocm) from [@open-cluster-management-io](https://github.com/open-cluster-management-io) with 814 ⭐️
+* [open-cluster-management-io/ocm](https://github.com/open-cluster-management-io/ocm) from [@open-cluster-management-io](https://github.com/open-cluster-management-io) with 813 ⭐️
 * [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) from [@kubearmor](https://github.com/kubearmor) with 1.6K ⭐️
 * [douglasmakey/tipsandtricks](https://github.com/douglasmakey/tipsandtricks) from [@douglasmakey](https://github.com/douglasmakey) with 1 ⭐️
 * [douglasmakey/shelldon](https://github.com/douglasmakey/shelldon) from [@douglasmakey](https://github.com/douglasmakey) with 31 ⭐️
@@ -53,4 +53,4 @@ and [@kubefirst](https://github.com/kubefirst).
 * [charmbracelet/gum](https://github.com/charmbracelet/gum) from [@charmbracelet](https://github.com/charmbracelet) with 18.6K ⭐️
 * [charmbracelet/huh](https://github.com/charmbracelet/huh) from [@charmbracelet](https://github.com/charmbracelet) with 4.9K ⭐️
 
-<sup><sub>Last updated: January 17, 2025 at 07:34:10 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: January 17, 2025 at 11:21:06 EST. The content here updates twice daily or when manually triggered.</sup></sub>
