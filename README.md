@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#849 - fix: pin gke and dependencies versions](https://github.com/konstructio/gitops-template/pull/849) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubearmor](https://github.com/kubearmor),
-[@patrickdappollonio](https://github.com/patrickdappollonio),
 [@konstructio](https://github.com/konstructio),
-[@aquasecurity](https://github.com/aquasecurity)
-and [@sadaram-in](https://github.com/sadaram-in).
+[@aquasecurity](https://github.com/aquasecurity),
+[@sadaram-in](https://github.com/sadaram-in),
+[@kubernetes-sigs](https://github.com/kubernetes-sigs)
+and [@kubefirst](https://github.com/kubefirst).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@sadaram-in](https://github.com/sadaram-in).
 * [charmbracelet/gum](https://github.com/charmbracelet/gum) from [@charmbracelet](https://github.com/charmbracelet) with 18.6K ⭐️
 * [charmbracelet/huh](https://github.com/charmbracelet/huh) from [@charmbracelet](https://github.com/charmbracelet) with 4.9K ⭐️
 
-<sup><sub>Last updated: January 17, 2025 at 23:19:44 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: January 18, 2025 at 03:19:40 EST. The content here updates twice daily or when manually triggered.</sup></sub>
