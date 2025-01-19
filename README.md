@@ -10,6 +10,8 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#342 - feat: parallelise image build process](https://github.com/kubernetes-sigs/blixt/pull/342) on `kubernetes-sigs/blixt` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#1 - Fix image builder](https://github.com/jokestax/blixt/pull/1) on `jokestax/blixt` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#855 - fix: add correct environment for detokenising](https://github.com/konstructio/gitops-template/pull/855) on `konstructio/gitops-template` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#2380 - feat: apply gofumpt formatting](https://github.com/aquasecurity/trivy-operator/pull/2380) on `aquasecurity/trivy-operator` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#2366 - feat: remove beta](https://github.com/konstructio/kubefirst/pull/2366) on `konstructio/kubefirst` - <img src="images/github-open.png" width="12px" height="12px"> open
@@ -18,15 +20,13 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#852 - fix: add unique policy name](https://github.com/konstructio/gitops-template/pull/852) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#2356 - fix: label for api](https://github.com/konstructio/kubefirst/pull/2356) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#850 - fix: encode instead of decode](https://github.com/konstructio/gitops-template/pull/850) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#1 - feat: dev](https://github.com/sadaram-in/tb-products/pull/1) on `sadaram-in/tb-products` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#849 - fix: pin gke and dependencies versions](https://github.com/konstructio/gitops-template/pull/849) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@patrickdappollonio](https://github.com/patrickdappollonio),
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
 [@konstructio](https://github.com/konstructio),
-[@aquasecurity](https://github.com/aquasecurity),
-[@sadaram-in](https://github.com/sadaram-in)
-and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
+[@aquasecurity](https://github.com/aquasecurity)
+and [@sadaram-in](https://github.com/sadaram-in).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 * [charmbracelet/gum](https://github.com/charmbracelet/gum) from [@charmbracelet](https://github.com/charmbracelet) with 18.6K ⭐️
 * [charmbracelet/huh](https://github.com/charmbracelet/huh) from [@charmbracelet](https://github.com/charmbracelet) with 4.9K ⭐️
 
-<sup><sub>Last updated: January 18, 2025 at 23:19:47 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: January 19, 2025 at 03:19:33 EST. The content here updates twice daily or when manually triggered.</sup></sub>
