@@ -37,7 +37,7 @@ and [@sadaram-in](https://github.com/sadaram-in).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.2K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 11 ⭐️
 * [patrickdappollonio/dotenv](https://github.com/patrickdappollonio/dotenv) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 5 ⭐️
-* [kubernetes-sigs/blixt](https://github.com/kubernetes-sigs/blixt) from [@kubernetes-sigs](https://github.com/kubernetes-sigs) with 372 ⭐️
+* [kubernetes-sigs/blixt](https://github.com/kubernetes-sigs/blixt) from [@kubernetes-sigs](https://github.com/kubernetes-sigs) with 373 ⭐️
 * [open-cluster-management-io/ocm](https://github.com/open-cluster-management-io/ocm) from [@open-cluster-management-io](https://github.com/open-cluster-management-io) with 813 ⭐️
 * [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) from [@kubearmor](https://github.com/kubearmor) with 1.6K ⭐️
 * [douglasmakey/tipsandtricks](https://github.com/douglasmakey/tipsandtricks) from [@douglasmakey](https://github.com/douglasmakey) with 1 ⭐️
@@ -53,4 +53,4 @@ and [@sadaram-in](https://github.com/sadaram-in).
 * [charmbracelet/gum](https://github.com/charmbracelet/gum) from [@charmbracelet](https://github.com/charmbracelet) with 18.6K ⭐️
 * [charmbracelet/huh](https://github.com/charmbracelet/huh) from [@charmbracelet](https://github.com/charmbracelet) with 4.9K ⭐️
 
-<sup><sub>Last updated: January 19, 2025 at 11:19:06 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: January 19, 2025 at 15:17:08 EST. The content here updates twice daily or when manually triggered.</sup></sub>
