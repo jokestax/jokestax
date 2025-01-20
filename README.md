@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#850 - fix: encode instead of decode](https://github.com/konstructio/gitops-template/pull/850) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@patrickdappollonio](https://github.com/patrickdappollonio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs),
 [@konstructio](https://github.com/konstructio),
-[@aquasecurity](https://github.com/aquasecurity)
-and [@sadaram-in](https://github.com/sadaram-in).
+[@aquasecurity](https://github.com/aquasecurity),
+[@sadaram-in](https://github.com/sadaram-in),
+[@kubefirst](https://github.com/kubefirst)
+and [@civo](https://github.com/civo).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@sadaram-in](https://github.com/sadaram-in).
 * [charmbracelet/gum](https://github.com/charmbracelet/gum) from [@charmbracelet](https://github.com/charmbracelet) with 18.6K ⭐️
 * [charmbracelet/huh](https://github.com/charmbracelet/huh) from [@charmbracelet](https://github.com/charmbracelet) with 4.9K ⭐️
 
-<sup><sub>Last updated: January 19, 2025 at 15:17:08 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: January 19, 2025 at 20:21:05 EST. The content here updates twice daily or when manually triggered.</sup></sub>
