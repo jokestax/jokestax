@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#850 - fix: encode instead of decode](https://github.com/konstructio/gitops-template/pull/850) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@patrickdappollonio](https://github.com/patrickdappollonio),
 [@kubernetes-sigs](https://github.com/kubernetes-sigs),
 [@konstructio](https://github.com/konstructio),
-[@sadaram-in](https://github.com/sadaram-in),
-[@kubefirst](https://github.com/kubefirst)
-and [@civo](https://github.com/civo).
+[@sadaram-in](https://github.com/sadaram-in)
+and [@kubefirst](https://github.com/kubefirst).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -40,7 +40,7 @@ and [@civo](https://github.com/civo).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.2K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 11 ⭐️
 * [patrickdappollonio/dotenv](https://github.com/patrickdappollonio/dotenv) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 5 ⭐️
-* [kubernetes-sigs/blixt](https://github.com/kubernetes-sigs/blixt) from [@kubernetes-sigs](https://github.com/kubernetes-sigs) with 376 ⭐️
+* [kubernetes-sigs/blixt](https://github.com/kubernetes-sigs/blixt) from [@kubernetes-sigs](https://github.com/kubernetes-sigs) with 377 ⭐️
 * [open-cluster-management-io/ocm](https://github.com/open-cluster-management-io/ocm) from [@open-cluster-management-io](https://github.com/open-cluster-management-io) with 816 ⭐️
 * [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) from [@kubearmor](https://github.com/kubearmor) with 1.6K ⭐️
 * [douglasmakey/tipsandtricks](https://github.com/douglasmakey/tipsandtricks) from [@douglasmakey](https://github.com/douglasmakey) with 1 ⭐️
@@ -53,4 +53,4 @@ and [@civo](https://github.com/civo).
 * [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) from [@konstructio](https://github.com/konstructio) with 16 ⭐️
 * [patrickdappollonio/patrickdappollonio](https://github.com/patrickdappollonio/patrickdappollonio) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 3 ⭐️
 
-<sup><sub>Last updated: January 27, 2025 at 03:23:52 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: January 27, 2025 at 07:35:28 EST. The content here updates twice daily or when manually triggered.</sup></sub>
