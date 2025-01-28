@@ -10,7 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
-* [#2398 - fix: kubeconfigfile creation](https://github.com/konstructio/kubefirst/pull/2398) on `konstructio/kubefirst` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#2398 - fix: kubeconfigfile creation](https://github.com/konstructio/kubefirst/pull/2398) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#2397 - fix: kubeconfigfile path](https://github.com/konstructio/kubefirst/pull/2397) on `konstructio/kubefirst` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 * [#342 - feat: parallelise image build process](https://github.com/kubernetes-sigs/blixt/pull/342) on `kubernetes-sigs/blixt` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#1 - Fix image builder](https://github.com/jokestax/blixt/pull/1) on `jokestax/blixt` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#852 - fix: add unique policy name](https://github.com/konstructio/gitops-template/pull/852) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@sadaram-in](https://github.com/sadaram-in),
-[@kubefirst](https://github.com/kubefirst)
-and [@civo](https://github.com/civo).
+[@kubefirst](https://github.com/kubefirst),
+[@civo](https://github.com/civo),
+[@kubearmor](https://github.com/kubearmor),
+[@patrickdappollonio](https://github.com/patrickdappollonio)
+and [@konstructio](https://github.com/konstructio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -34,7 +34,7 @@ and [@civo](https://github.com/civo).
 
 * [douglasmakey/admissioncontroller](https://github.com/douglasmakey/admissioncontroller) from [@douglasmakey](https://github.com/douglasmakey) with 26 ⭐️
 * [konstructio/workpool](https://github.com/konstructio/workpool) from [@konstructio](https://github.com/konstructio) with 1 ⭐️
-* [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 976 ⭐️
+* [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 978 ⭐️
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.4K ⭐️
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.3K ⭐️
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.2K ⭐️
@@ -53,4 +53,4 @@ and [@civo](https://github.com/civo).
 * [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) from [@konstructio](https://github.com/konstructio) with 17 ⭐️
 * [patrickdappollonio/patrickdappollonio](https://github.com/patrickdappollonio/patrickdappollonio) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 3 ⭐️
 
-<sup><sub>Last updated: January 27, 2025 at 15:19:08 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: January 27, 2025 at 20:23:14 EST. The content here updates twice daily or when manually triggered.</sup></sub>
