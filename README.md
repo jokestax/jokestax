@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#852 - fix: add unique policy name](https://github.com/konstructio/gitops-template/pull/852) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@sadaram-in](https://github.com/sadaram-in),
 [@kubefirst](https://github.com/kubefirst),
 [@civo](https://github.com/civo),
-[@kubearmor](https://github.com/kubearmor),
-[@patrickdappollonio](https://github.com/patrickdappollonio)
-and [@konstructio](https://github.com/konstructio).
+[@kubearmor](https://github.com/kubearmor)
+and [@patrickdappollonio](https://github.com/patrickdappollonio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@konstructio](https://github.com/konstructio).
 * [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) from [@konstructio](https://github.com/konstructio) with 17 ⭐️
 * [patrickdappollonio/patrickdappollonio](https://github.com/patrickdappollonio/patrickdappollonio) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 3 ⭐️
 
-<sup><sub>Last updated: January 27, 2025 at 20:23:14 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: January 27, 2025 at 23:20:54 EST. The content here updates twice daily or when manually triggered.</sup></sub>
