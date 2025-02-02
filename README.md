@@ -22,16 +22,17 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#854 - feat:akamai physical](https://github.com/konstructio/gitops-template/pull/854) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@sadaram-in](https://github.com/sadaram-in),
-[@kubefirst](https://github.com/kubefirst)
-and [@civo](https://github.com/civo).
+[@civo](https://github.com/civo),
+[@kubearmor](https://github.com/kubearmor),
+[@patrickdappollonio](https://github.com/patrickdappollonio),
+[@konstructio](https://github.com/konstructio)
+and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
+* [SubhasmitaSw/cluster-api-provider-civo](https://github.com/SubhasmitaSw/cluster-api-provider-civo) from [@SubhasmitaSw](https://github.com/SubhasmitaSw) with 1 ⭐️
 * [douglasmakey/admissioncontroller](https://github.com/douglasmakey/admissioncontroller) from [@douglasmakey](https://github.com/douglasmakey) with 26 ⭐️
 * [konstructio/workpool](https://github.com/konstructio/workpool) from [@konstructio](https://github.com/konstructio) with 1 ⭐️
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 1K ⭐️
@@ -51,6 +52,5 @@ and [@civo](https://github.com/civo).
 * [patrickdappollonio/gc-rust](https://github.com/patrickdappollonio/gc-rust) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 2 ⭐️
 * [konstructio/dropkick](https://github.com/konstructio/dropkick) from [@konstructio](https://github.com/konstructio) with 6 ⭐️
 * [konstructio/colony-vagrant](https://github.com/konstructio/colony-vagrant) from [@konstructio](https://github.com/konstructio) with 17 ⭐️
-* [patrickdappollonio/patrickdappollonio](https://github.com/patrickdappollonio/patrickdappollonio) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 3 ⭐️
 
-<sup><sub>Last updated: February 01, 2025 at 15:18:49 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: February 01, 2025 at 20:24:03 EST. The content here updates twice daily or when manually triggered.</sup></sub>
