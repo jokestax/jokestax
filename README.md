@@ -37,7 +37,7 @@ and [@patrickdappollonio](https://github.com/patrickdappollonio).
 * [SubhasmitaSw/cluster-api-provider-civo](https://github.com/SubhasmitaSw/cluster-api-provider-civo) from [@SubhasmitaSw](https://github.com/SubhasmitaSw) with 1 ⭐️
 * [douglasmakey/admissioncontroller](https://github.com/douglasmakey/admissioncontroller) from [@douglasmakey](https://github.com/douglasmakey) with 26 ⭐️
 * [konstructio/workpool](https://github.com/konstructio/workpool) from [@konstructio](https://github.com/konstructio) with 1 ⭐️
-* [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 1K ⭐️
+* [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 1.1K ⭐️
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.4K ⭐️
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.3K ⭐️
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.2K ⭐️
@@ -53,4 +53,4 @@ and [@patrickdappollonio](https://github.com/patrickdappollonio).
 * [konstructio/console](https://github.com/konstructio/console) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 * [patrickdappollonio/gc-rust](https://github.com/patrickdappollonio/gc-rust) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 2 ⭐️
 
-<sup><sub>Last updated: February 06, 2025 at 03:23:04 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: February 06, 2025 at 07:35:49 EST. The content here updates twice daily or when manually triggered.</sup></sub>
