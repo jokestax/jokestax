@@ -10,6 +10,8 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#2414 - Fix display msg](https://github.com/konstructio/kubefirst/pull/2414) on `konstructio/kubefirst` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#576 - Fix steps](https://github.com/konstructio/kubefirst-api/pull/576) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#2413 - fix: add missing flags](https://github.com/konstructio/kubefirst/pull/2413) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#575 - fix: add instancetracker if nill](https://github.com/konstructio/kubefirst-api/pull/575) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#2408 - fix: remove flags not required by k3d](https://github.com/konstructio/kubefirst/pull/2408) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -18,15 +20,13 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#2397 - fix: kubeconfigfile path](https://github.com/konstructio/kubefirst/pull/2397) on `konstructio/kubefirst` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 * [#342 - feat: parallelise image build process](https://github.com/kubernetes-sigs/blixt/pull/342) on `kubernetes-sigs/blixt` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#1 - Fix image builder](https://github.com/jokestax/blixt/pull/1) on `jokestax/blixt` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#855 - fix: add correct environment for detokenising](https://github.com/konstructio/gitops-template/pull/855) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#2380 - feat: apply gofumpt formatting](https://github.com/aquasecurity/trivy-operator/pull/2380) on `aquasecurity/trivy-operator` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@sadaram-in](https://github.com/sadaram-in),
 [@kubefirst](https://github.com/kubefirst),
 [@civo](https://github.com/civo),
-[@kubearmor](https://github.com/kubearmor)
-and [@patrickdappollonio](https://github.com/patrickdappollonio).
+[@kubearmor](https://github.com/kubearmor),
+[@patrickdappollonio](https://github.com/patrickdappollonio)
+and [@konstructio](https://github.com/konstructio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@patrickdappollonio](https://github.com/patrickdappollonio).
 * [konstructio/console](https://github.com/konstructio/console) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 * [patrickdappollonio/gc-rust](https://github.com/patrickdappollonio/gc-rust) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 2 ⭐️
 
-<sup><sub>Last updated: February 09, 2025 at 15:17:01 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: February 09, 2025 at 20:22:29 EST. The content here updates twice daily or when manually triggered.</sup></sub>
