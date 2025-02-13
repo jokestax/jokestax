@@ -10,8 +10,9 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
-* [#531 - fix: send api calls with ami type](https://github.com/konstructio/console/pull/531) on `konstructio/console` - <img src="images/github-open.png" width="12px" height="12px"> open
-* [#578 - feat: edit list instances for aws based on ami type](https://github.com/konstructio/kubefirst-api/pull/578) on `konstructio/kubefirst-api` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#532 - Update package.json](https://github.com/konstructio/console/pull/532) on `konstructio/console` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#531 - fix: send api calls with ami type](https://github.com/konstructio/console/pull/531) on `konstructio/console` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#578 - feat: edit list instances for aws based on ami type](https://github.com/konstructio/kubefirst-api/pull/578) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#2417 - feat: remove assume role](https://github.com/konstructio/kubefirst/pull/2417) on `konstructio/kubefirst` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#860 - feat: add ami support for gitlab](https://github.com/konstructio/gitops-template/pull/860) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#2415 - feat: tag latest api](https://github.com/konstructio/kubefirst/pull/2415) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -19,14 +20,13 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#2414 - Fix display msg](https://github.com/konstructio/kubefirst/pull/2414) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#576 - Fix steps](https://github.com/konstructio/kubefirst-api/pull/576) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#2413 - fix: add missing flags](https://github.com/konstructio/kubefirst/pull/2413) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#575 - fix: add instancetracker if nill](https://github.com/konstructio/kubefirst-api/pull/575) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubearmor](https://github.com/kubearmor),
-[@patrickdappollonio](https://github.com/patrickdappollonio),
 [@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs)
-and [@sadaram-in](https://github.com/sadaram-in).
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@sadaram-in](https://github.com/sadaram-in),
+[@kubefirst](https://github.com/kubefirst)
+and [@civo](https://github.com/civo).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -49,8 +49,8 @@ and [@sadaram-in](https://github.com/sadaram-in).
 * [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) from [@kubearmor](https://github.com/kubearmor) with 1.7K ⭐️
 * [douglasmakey/tipsandtricks](https://github.com/douglasmakey/tipsandtricks) from [@douglasmakey](https://github.com/douglasmakey) with 1 ⭐️
 * [douglasmakey/shelldon](https://github.com/douglasmakey/shelldon) from [@douglasmakey](https://github.com/douglasmakey) with 31 ⭐️
-* [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 326 ⭐️
+* [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 327 ⭐️
 * [konstructio/gitops-template](https://github.com/konstructio/gitops-template) from [@konstructio](https://github.com/konstructio) with 91 ⭐️
 * [konstructio/console](https://github.com/konstructio/console) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: February 13, 2025 at 07:35:54 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: February 13, 2025 at 11:23:34 EST. The content here updates twice daily or when manually triggered.</sup></sub>
