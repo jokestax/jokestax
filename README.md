@@ -10,6 +10,8 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#861 - feat: add physical gitlab support in gcp and vultr](https://github.com/konstructio/gitops-template/pull/861) on `konstructio/gitops-template` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#5 - fix: add ssm and change sa name](https://github.com/konstructio/aws-arn/pull/5) on `konstructio/aws-arn` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#532 - Update package.json](https://github.com/konstructio/console/pull/532) on `konstructio/console` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#531 - fix: send api calls with ami type](https://github.com/konstructio/console/pull/531) on `konstructio/console` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#578 - feat: edit list instances for aws based on ami type](https://github.com/konstructio/kubefirst-api/pull/578) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -18,8 +20,6 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#2415 - feat: tag latest api](https://github.com/konstructio/kubefirst/pull/2415) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#577 - fix: final check](https://github.com/konstructio/kubefirst-api/pull/577) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#2414 - Fix display msg](https://github.com/konstructio/kubefirst/pull/2414) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#576 - Fix steps](https://github.com/konstructio/kubefirst-api/pull/576) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#2413 - fix: add missing flags](https://github.com/konstructio/kubefirst/pull/2413) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@konstructio](https://github.com/konstructio),
@@ -45,7 +45,7 @@ and [@civo](https://github.com/civo).
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 11 ⭐️
 * [patrickdappollonio/dotenv](https://github.com/patrickdappollonio/dotenv) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 5 ⭐️
 * [kubernetes-sigs/blixt](https://github.com/kubernetes-sigs/blixt) from [@kubernetes-sigs](https://github.com/kubernetes-sigs) with 382 ⭐️
-* [open-cluster-management-io/ocm](https://github.com/open-cluster-management-io/ocm) from [@open-cluster-management-io](https://github.com/open-cluster-management-io) with 825 ⭐️
+* [open-cluster-management-io/ocm](https://github.com/open-cluster-management-io/ocm) from [@open-cluster-management-io](https://github.com/open-cluster-management-io) with 826 ⭐️
 * [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) from [@kubearmor](https://github.com/kubearmor) with 1.7K ⭐️
 * [douglasmakey/tipsandtricks](https://github.com/douglasmakey/tipsandtricks) from [@douglasmakey](https://github.com/douglasmakey) with 1 ⭐️
 * [douglasmakey/shelldon](https://github.com/douglasmakey/shelldon) from [@douglasmakey](https://github.com/douglasmakey) with 31 ⭐️
@@ -53,4 +53,4 @@ and [@civo](https://github.com/civo).
 * [konstructio/gitops-template](https://github.com/konstructio/gitops-template) from [@konstructio](https://github.com/konstructio) with 91 ⭐️
 * [konstructio/console](https://github.com/konstructio/console) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: February 13, 2025 at 11:23:34 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: February 13, 2025 at 15:19:11 EST. The content here updates twice daily or when manually triggered.</sup></sub>
