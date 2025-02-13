@@ -10,6 +10,8 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#531 - fix: send api calls with ami type](https://github.com/konstructio/console/pull/531) on `konstructio/console` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#578 - feat: edit list instances for aws based on ami type](https://github.com/konstructio/kubefirst-api/pull/578) on `konstructio/kubefirst-api` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#2417 - feat: remove assume role](https://github.com/konstructio/kubefirst/pull/2417) on `konstructio/kubefirst` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#860 - feat: add ami support for gitlab](https://github.com/konstructio/gitops-template/pull/860) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#2415 - feat: tag latest api](https://github.com/konstructio/kubefirst/pull/2415) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -18,15 +20,13 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#576 - Fix steps](https://github.com/konstructio/kubefirst-api/pull/576) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#2413 - fix: add missing flags](https://github.com/konstructio/kubefirst/pull/2413) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#575 - fix: add instancetracker if nill](https://github.com/konstructio/kubefirst-api/pull/575) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#2408 - fix: remove flags not required by k3d](https://github.com/konstructio/kubefirst/pull/2408) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#2407 - fix: k3d create](https://github.com/konstructio/kubefirst/pull/2407) on `konstructio/kubefirst` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubefirst](https://github.com/kubefirst),
-[@civo](https://github.com/civo),
 [@kubearmor](https://github.com/kubearmor),
-[@patrickdappollonio](https://github.com/patrickdappollonio)
-and [@konstructio](https://github.com/konstructio).
+[@patrickdappollonio](https://github.com/patrickdappollonio),
+[@konstructio](https://github.com/konstructio),
+[@kubernetes-sigs](https://github.com/kubernetes-sigs)
+and [@sadaram-in](https://github.com/sadaram-in).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@konstructio](https://github.com/konstructio).
 * [konstructio/gitops-template](https://github.com/konstructio/gitops-template) from [@konstructio](https://github.com/konstructio) with 91 ⭐️
 * [konstructio/console](https://github.com/konstructio/console) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: February 13, 2025 at 03:23:00 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: February 13, 2025 at 07:35:54 EST. The content here updates twice daily or when manually triggered.</sup></sub>
