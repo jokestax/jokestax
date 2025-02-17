@@ -10,23 +10,23 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#5 - Revert "feat: add machine"](https://github.com/jokestax/cluster-api-provider-civo/pull/5) on `jokestax/cluster-api-provider-civo` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#4 - Revert "Merge pull request #2 from jokestax/main"](https://github.com/jokestax/cluster-api-provider-civo/pull/4) on `jokestax/cluster-api-provider-civo` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#3 - Merge pull request #2 from jokestax/main](https://github.com/jokestax/cluster-api-provider-civo/pull/3) on `jokestax/cluster-api-provider-civo` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#2 - feat: add machine](https://github.com/jokestax/cluster-api-provider-civo/pull/2) on `jokestax/cluster-api-provider-civo` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#1 - feat: add CivoMachine](https://github.com/jokestax/cluster-api-provider-civo/pull/1) on `jokestax/cluster-api-provider-civo` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#861 - feat: add physical gitlab support in gcp and vultr](https://github.com/konstructio/gitops-template/pull/861) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#5 - fix: add ssm and change sa name](https://github.com/konstructio/aws-arn/pull/5) on `konstructio/aws-arn` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#532 - Update package.json](https://github.com/konstructio/console/pull/532) on `konstructio/console` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#531 - fix: send api calls with ami type](https://github.com/konstructio/console/pull/531) on `konstructio/console` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#578 - feat: edit list instances for aws based on ami type](https://github.com/konstructio/kubefirst-api/pull/578) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#2417 - feat: remove assume role](https://github.com/konstructio/kubefirst/pull/2417) on `konstructio/kubefirst` - <img src="images/github-open.png" width="12px" height="12px"> open
-* [#860 - feat: add ami support for gitlab](https://github.com/konstructio/gitops-template/pull/860) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#2415 - feat: tag latest api](https://github.com/konstructio/kubefirst/pull/2415) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#577 - fix: final check](https://github.com/konstructio/kubefirst-api/pull/577) on `konstructio/kubefirst-api` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@kubearmor](https://github.com/kubearmor),
+[@patrickdappollonio](https://github.com/patrickdappollonio),
 [@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@sadaram-in](https://github.com/sadaram-in),
-[@kubefirst](https://github.com/kubefirst)
-and [@civo](https://github.com/civo).
+[@kubernetes-sigs](https://github.com/kubernetes-sigs)
+and [@sadaram-in](https://github.com/sadaram-in).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@civo](https://github.com/civo).
 * [konstructio/gitops-template](https://github.com/konstructio/gitops-template) from [@konstructio](https://github.com/konstructio) with 91 ⭐️
 * [konstructio/console](https://github.com/konstructio/console) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: February 17, 2025 at 07:36:51 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: February 17, 2025 at 11:22:21 EST. The content here updates twice daily or when manually triggered.</sup></sub>
