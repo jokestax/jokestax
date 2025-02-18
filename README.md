@@ -10,7 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
-* [#2418 - fix: display error messages](https://github.com/konstructio/kubefirst/pull/2418) on `konstructio/kubefirst` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#2418 - fix: display error messages](https://github.com/konstructio/kubefirst/pull/2418) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#5 - Revert "feat: add machine"](https://github.com/jokestax/cluster-api-provider-civo/pull/5) on `jokestax/cluster-api-provider-civo` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#4 - Revert "Merge pull request #2 from jokestax/main"](https://github.com/jokestax/cluster-api-provider-civo/pull/4) on `jokestax/cluster-api-provider-civo` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#3 - Merge pull request #2 from jokestax/main](https://github.com/jokestax/cluster-api-provider-civo/pull/3) on `jokestax/cluster-api-provider-civo` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#531 - fix: send api calls with ami type](https://github.com/konstructio/console/pull/531) on `konstructio/console` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@civo](https://github.com/civo),
 [@kubearmor](https://github.com/kubearmor),
 [@patrickdappollonio](https://github.com/patrickdappollonio),
-[@konstructio](https://github.com/konstructio)
-and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
+[@konstructio](https://github.com/konstructio),
+[@kubernetes-sigs](https://github.com/kubernetes-sigs)
+and [@sadaram-in](https://github.com/sadaram-in).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 * [konstructio/gitops-template](https://github.com/konstructio/gitops-template) from [@konstructio](https://github.com/konstructio) with 91 ⭐️
 * [konstructio/console](https://github.com/konstructio/console) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: February 18, 2025 at 07:34:46 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: February 18, 2025 at 11:23:42 EST. The content here updates twice daily or when manually triggered.</sup></sub>
