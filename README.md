@@ -22,17 +22,17 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#5 - fix: add ssm and change sa name](https://github.com/konstructio/aws-arn/pull/5) on `konstructio/aws-arn` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubefirst](https://github.com/kubefirst),
 [@civo](https://github.com/civo),
 [@kubearmor](https://github.com/kubearmor),
-[@patrickdappollonio](https://github.com/patrickdappollonio)
-and [@konstructio](https://github.com/konstructio).
+[@patrickdappollonio](https://github.com/patrickdappollonio),
+[@konstructio](https://github.com/konstructio)
+and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
-* [juanfont/headscale](https://github.com/juanfont/headscale) from [@juanfont](https://github.com/juanfont) with 25.5K ⭐️
+* [juanfont/headscale](https://github.com/juanfont/headscale) from [@juanfont](https://github.com/juanfont) with 25.6K ⭐️
 * [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 86 ⭐️
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 9 ⭐️
 * [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) from [@mrsimonemms](https://github.com/mrsimonemms) with 2 ⭐️
@@ -53,4 +53,4 @@ and [@konstructio](https://github.com/konstructio).
 * [konstructio/gitops-template](https://github.com/konstructio/gitops-template) from [@konstructio](https://github.com/konstructio) with 91 ⭐️
 * [konstructio/console](https://github.com/konstructio/console) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: February 22, 2025 at 20:34:33 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: February 22, 2025 at 23:20:35 EST. The content here updates twice daily or when manually triggered.</sup></sub>
