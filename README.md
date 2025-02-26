@@ -10,7 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
-* [#236 - feat: break loop when necessary](https://github.com/civo/civogo/pull/236) on `civo/civogo` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#236 - feat: break loop when necessary](https://github.com/civo/civogo/pull/236) on `civo/civogo` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#862 - fix: gpu versioning](https://github.com/konstructio/gitops-template/pull/862) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#63 - feat: enforce api key](https://github.com/vultr/cluster-api-provider-vultr/pull/63) on `vultr/cluster-api-provider-vultr` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 * [#2418 - fix: display error messages](https://github.com/konstructio/kubefirst/pull/2418) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#861 - feat: add physical gitlab support in gcp and vultr](https://github.com/konstructio/gitops-template/pull/861) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@sadaram-in](https://github.com/sadaram-in),
-[@kubefirst](https://github.com/kubefirst)
-and [@kubearmor](https://github.com/kubearmor).
+[@kubefirst](https://github.com/kubefirst),
+[@kubearmor](https://github.com/kubearmor),
+[@patrickdappollonio](https://github.com/patrickdappollonio),
+[@civo](https://github.com/civo)
+and [@konstructio](https://github.com/konstructio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@kubearmor](https://github.com/kubearmor).
 * [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 329 ⭐️
 * [konstructio/gitops-template](https://github.com/konstructio/gitops-template) from [@konstructio](https://github.com/konstructio) with 91 ⭐️
 
-<sup><sub>Last updated: February 26, 2025 at 03:24:27 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: February 26, 2025 at 07:36:45 EST. The content here updates twice daily or when manually triggered.</sup></sub>
