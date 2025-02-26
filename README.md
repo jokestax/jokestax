@@ -10,6 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#236 - feat: break loop when necessary](https://github.com/civo/civogo/pull/236) on `civo/civogo` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#862 - fix: gpu versioning](https://github.com/konstructio/gitops-template/pull/862) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#63 - feat: enforce api key](https://github.com/vultr/cluster-api-provider-vultr/pull/63) on `vultr/cluster-api-provider-vultr` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 * [#2418 - fix: display error messages](https://github.com/konstructio/kubefirst/pull/2418) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -19,19 +20,19 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#2 - feat: add machine](https://github.com/jokestax/cluster-api-provider-civo/pull/2) on `jokestax/cluster-api-provider-civo` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#1 - feat: add CivoMachine](https://github.com/jokestax/cluster-api-provider-civo/pull/1) on `jokestax/cluster-api-provider-civo` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#861 - feat: add physical gitlab support in gcp and vultr](https://github.com/konstructio/gitops-template/pull/861) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#5 - fix: add ssm and change sa name](https://github.com/konstructio/aws-arn/pull/5) on `konstructio/aws-arn` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubearmor](https://github.com/kubearmor),
-[@patrickdappollonio](https://github.com/patrickdappollonio),
 [@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs)
-and [@sadaram-in](https://github.com/sadaram-in).
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@sadaram-in](https://github.com/sadaram-in),
+[@kubefirst](https://github.com/kubefirst)
+and [@kubearmor](https://github.com/kubearmor).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
+* [civo/civogo](https://github.com/civo/civogo) from [@civo](https://github.com/civo) with 39 ⭐️
 * [juanfont/headscale](https://github.com/juanfont/headscale) from [@juanfont](https://github.com/juanfont) with 25.6K ⭐️
 * [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 86 ⭐️
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 9 ⭐️
@@ -51,6 +52,5 @@ and [@sadaram-in](https://github.com/sadaram-in).
 * [douglasmakey/shelldon](https://github.com/douglasmakey/shelldon) from [@douglasmakey](https://github.com/douglasmakey) with 31 ⭐️
 * [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 329 ⭐️
 * [konstructio/gitops-template](https://github.com/konstructio/gitops-template) from [@konstructio](https://github.com/konstructio) with 91 ⭐️
-* [konstructio/console](https://github.com/konstructio/console) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: February 25, 2025 at 23:22:32 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: February 26, 2025 at 03:24:27 EST. The content here updates twice daily or when manually triggered.</sup></sub>
