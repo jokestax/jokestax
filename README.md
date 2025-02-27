@@ -10,6 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#4 - feat: add dockerfile](https://github.com/civo/node-agent/pull/4) on `civo/node-agent` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#2 - feat: reboot](https://github.com/civo/node-agent/pull/2) on `civo/node-agent` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#236 - feat: break loop when necessary](https://github.com/civo/civogo/pull/236) on `civo/civogo` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#862 - fix: gpu versioning](https://github.com/konstructio/gitops-template/pull/862) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -19,14 +20,13 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#4 - Revert "Merge pull request #2 from jokestax/main"](https://github.com/jokestax/cluster-api-provider-civo/pull/4) on `jokestax/cluster-api-provider-civo` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#3 - Merge pull request #2 from jokestax/main](https://github.com/jokestax/cluster-api-provider-civo/pull/3) on `jokestax/cluster-api-provider-civo` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#2 - feat: add machine](https://github.com/jokestax/cluster-api-provider-civo/pull/2) on `jokestax/cluster-api-provider-civo` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#1 - feat: add CivoMachine](https://github.com/jokestax/cluster-api-provider-civo/pull/1) on `jokestax/cluster-api-provider-civo` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@konstructio](https://github.com/konstructio),
 [@kubernetes-sigs](https://github.com/kubernetes-sigs),
 [@sadaram-in](https://github.com/sadaram-in),
-[@kubefirst](https://github.com/kubefirst),
-[@kubearmor](https://github.com/kubearmor)
-and [@patrickdappollonio](https://github.com/patrickdappollonio).
+[@kubefirst](https://github.com/kubefirst)
+and [@kubearmor](https://github.com/kubearmor).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@patrickdappollonio](https://github.com/patrickdappollonio).
 * [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 329 ⭐️
 * [konstructio/gitops-template](https://github.com/konstructio/gitops-template) from [@konstructio](https://github.com/konstructio) with 91 ⭐️
 
-<sup><sub>Last updated: February 27, 2025 at 07:36:48 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: February 27, 2025 at 11:24:37 EST. The content here updates twice daily or when manually triggered.</sup></sub>
