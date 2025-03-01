@@ -53,4 +53,4 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 * [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 329 ⭐️
 * [konstructio/gitops-template](https://github.com/konstructio/gitops-template) from [@konstructio](https://github.com/konstructio) with 91 ⭐️
 
-<sup><sub>Last updated: February 28, 2025 at 15:19:45 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: February 28, 2025 at 20:36:50 EST. The content here updates twice daily or when manually triggered.</sup></sub>
