@@ -10,6 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#12 - feat: change gpu count logic](https://github.com/civo/node-agent/pull/12) on `civo/node-agent` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#10 - fix chart](https://github.com/civo/node-agent/pull/10) on `civo/node-agent` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#6 - fix: add workflow folder](https://github.com/civo/node-agent/pull/6) on `civo/node-agent` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#47 - feat: handle formatting](https://github.com/civo/civo-csi/pull/47) on `civo/civo-csi` - <img src="images/github-draft.png" width="12px" height="12px"> in draft
@@ -19,7 +20,6 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#236 - feat: break loop when necessary](https://github.com/civo/civogo/pull/236) on `civo/civogo` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#862 - fix: gpu versioning](https://github.com/konstructio/gitops-template/pull/862) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#63 - feat: enforce api key](https://github.com/vultr/cluster-api-provider-vultr/pull/63) on `vultr/cluster-api-provider-vultr` - <img src="images/github-closed.png" width="12px" height="12px"> closed
-* [#2418 - fix: display error messages](https://github.com/konstructio/kubefirst/pull/2418) on `konstructio/kubefirst` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@civo](https://github.com/civo),
@@ -39,7 +39,7 @@ and [@kubefirst](https://github.com/kubefirst).
 * [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) from [@mrsimonemms](https://github.com/mrsimonemms) with 2 ⭐️
 * [douglasmakey/admissioncontroller](https://github.com/douglasmakey/admissioncontroller) from [@douglasmakey](https://github.com/douglasmakey) with 26 ⭐️
 * [konstructio/workpool](https://github.com/konstructio/workpool) from [@konstructio](https://github.com/konstructio) with 1 ⭐️
-* [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 1.2K ⭐️
+* [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 1.3K ⭐️
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.4K ⭐️
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.3K ⭐️
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.3K ⭐️
@@ -53,4 +53,4 @@ and [@kubefirst](https://github.com/kubefirst).
 * [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 329 ⭐️
 * [konstructio/gitops-template](https://github.com/konstructio/gitops-template) from [@konstructio](https://github.com/konstructio) with 91 ⭐️
 
-<sup><sub>Last updated: March 03, 2025 at 07:37:23 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: March 03, 2025 at 11:22:39 EST. The content here updates twice daily or when manually triggered.</sup></sub>
