@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#63 - feat: enforce api key](https://github.com/vultr/cluster-api-provider-vultr/pull/63) on `vultr/cluster-api-provider-vultr` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@sadaram-in](https://github.com/sadaram-in),
 [@kubefirst](https://github.com/kubefirst),
-[@kubearmor](https://github.com/kubearmor)
-and [@patrickdappollonio](https://github.com/patrickdappollonio).
+[@kubearmor](https://github.com/kubearmor),
+[@patrickdappollonio](https://github.com/patrickdappollonio),
+[@civo](https://github.com/civo)
+and [@konstructio](https://github.com/konstructio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -46,11 +46,11 @@ and [@patrickdappollonio](https://github.com/patrickdappollonio).
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 11 ⭐️
 * [patrickdappollonio/dotenv](https://github.com/patrickdappollonio/dotenv) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 5 ⭐️
 * [kubernetes-sigs/blixt](https://github.com/kubernetes-sigs/blixt) from [@kubernetes-sigs](https://github.com/kubernetes-sigs) with 391 ⭐️
-* [open-cluster-management-io/ocm](https://github.com/open-cluster-management-io/ocm) from [@open-cluster-management-io](https://github.com/open-cluster-management-io) with 835 ⭐️
+* [open-cluster-management-io/ocm](https://github.com/open-cluster-management-io/ocm) from [@open-cluster-management-io](https://github.com/open-cluster-management-io) with 836 ⭐️
 * [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) from [@kubearmor](https://github.com/kubearmor) with 1.7K ⭐️
 * [douglasmakey/tipsandtricks](https://github.com/douglasmakey/tipsandtricks) from [@douglasmakey](https://github.com/douglasmakey) with 1 ⭐️
 * [douglasmakey/shelldon](https://github.com/douglasmakey/shelldon) from [@douglasmakey](https://github.com/douglasmakey) with 32 ⭐️
 * [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 329 ⭐️
 * [konstructio/gitops-template](https://github.com/konstructio/gitops-template) from [@konstructio](https://github.com/konstructio) with 91 ⭐️
 
-<sup><sub>Last updated: March 03, 2025 at 15:20:06 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: March 03, 2025 at 20:25:16 EST. The content here updates twice daily or when manually triggered.</sup></sub>
