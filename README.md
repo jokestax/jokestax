@@ -33,7 +33,7 @@ and [@kubefirst](https://github.com/kubefirst).
 
 
 * [civo/civogo](https://github.com/civo/civogo) from [@civo](https://github.com/civo) with 39 ⭐️
-* [juanfont/headscale](https://github.com/juanfont/headscale) from [@juanfont](https://github.com/juanfont) with 25.7K ⭐️
+* [juanfont/headscale](https://github.com/juanfont/headscale) from [@juanfont](https://github.com/juanfont) with 25.8K ⭐️
 * [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 86 ⭐️
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 9 ⭐️
 * [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) from [@mrsimonemms](https://github.com/mrsimonemms) with 2 ⭐️
@@ -53,4 +53,4 @@ and [@kubefirst](https://github.com/kubefirst).
 * [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 329 ⭐️
 * [konstructio/gitops-template](https://github.com/konstructio/gitops-template) from [@konstructio](https://github.com/konstructio) with 91 ⭐️
 
-<sup><sub>Last updated: March 05, 2025 at 07:37:13 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: March 05, 2025 at 11:29:51 EST. The content here updates twice daily or when manually triggered.</sup></sub>
