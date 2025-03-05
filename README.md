@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#862 - fix: gpu versioning](https://github.com/konstructio/gitops-template/pull/862) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@kubearmor](https://github.com/kubearmor),
 [@patrickdappollonio](https://github.com/patrickdappollonio),
 [@civo](https://github.com/civo),
-[@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs)
-and [@sadaram-in](https://github.com/sadaram-in).
+[@konstructio](https://github.com/konstructio)
+and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@sadaram-in](https://github.com/sadaram-in).
 * [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 329 ⭐️
 * [konstructio/gitops-template](https://github.com/konstructio/gitops-template) from [@konstructio](https://github.com/konstructio) with 91 ⭐️
 
-<sup><sub>Last updated: March 04, 2025 at 20:25:15 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: March 04, 2025 at 23:22:25 EST. The content here updates twice daily or when manually triggered.</sup></sub>
