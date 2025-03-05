@@ -10,6 +10,8 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#18 - feat: add additional steps](https://github.com/civo/node-agent/pull/18) on `civo/node-agent` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#16 - feat: time window env](https://github.com/civo/node-agent/pull/16) on `civo/node-agent` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#14 - feat: push to dockerhub](https://github.com/civo/node-agent/pull/14) on `civo/node-agent` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#12 - feat: change gpu count logic](https://github.com/civo/node-agent/pull/12) on `civo/node-agent` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 * [#10 - fix chart](https://github.com/civo/node-agent/pull/10) on `civo/node-agent` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -18,15 +20,13 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#5 - feat: add goreleaser](https://github.com/civo/node-agent/pull/5) on `civo/node-agent` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#4 - feat: add dockerfile](https://github.com/civo/node-agent/pull/4) on `civo/node-agent` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 * [#2 - feat: reboot](https://github.com/civo/node-agent/pull/2) on `civo/node-agent` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#236 - feat: break loop when necessary](https://github.com/civo/civogo/pull/236) on `civo/civogo` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#862 - fix: gpu versioning](https://github.com/konstructio/gitops-template/pull/862) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubefirst](https://github.com/kubefirst),
-[@kubearmor](https://github.com/kubearmor),
-[@patrickdappollonio](https://github.com/patrickdappollonio),
-[@civo](https://github.com/civo)
-and [@konstructio](https://github.com/konstructio).
+[@civo](https://github.com/civo),
+[@konstructio](https://github.com/konstructio),
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@sadaram-in](https://github.com/sadaram-in)
+and [@kubefirst](https://github.com/kubefirst).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@konstructio](https://github.com/konstructio).
 * [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 329 ⭐️
 * [konstructio/gitops-template](https://github.com/konstructio/gitops-template) from [@konstructio](https://github.com/konstructio) with 91 ⭐️
 
-<sup><sub>Last updated: March 05, 2025 at 03:24:50 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: March 05, 2025 at 07:37:13 EST. The content here updates twice daily or when manually triggered.</sup></sub>
