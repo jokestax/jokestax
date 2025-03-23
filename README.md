@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#4 - feat: add dockerfile](https://github.com/civo/node-agent/pull/4) on `civo/node-agent` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@civo](https://github.com/civo),
 [@konstructio](https://github.com/konstructio),
 [@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@sadaram-in](https://github.com/sadaram-in)
-and [@kubefirst](https://github.com/kubefirst).
+[@sadaram-in](https://github.com/sadaram-in),
+[@kubefirst](https://github.com/kubefirst)
+and [@kubearmor](https://github.com/kubearmor).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -43,7 +43,7 @@ and [@kubefirst](https://github.com/kubefirst).
 * [konstructio/workpool](https://github.com/konstructio/workpool) from [@konstructio](https://github.com/konstructio) with 1 ⭐️
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 1.4K ⭐️
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.4K ⭐️
-* [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.3K ⭐️
+* [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.4K ⭐️
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.3K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 11 ⭐️
 * [patrickdappollonio/dotenv](https://github.com/patrickdappollonio/dotenv) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 5 ⭐️
@@ -53,4 +53,4 @@ and [@kubefirst](https://github.com/kubefirst).
 * [douglasmakey/tipsandtricks](https://github.com/douglasmakey/tipsandtricks) from [@douglasmakey](https://github.com/douglasmakey) with 1 ⭐️
 * [douglasmakey/shelldon](https://github.com/douglasmakey/shelldon) from [@douglasmakey](https://github.com/douglasmakey) with 32 ⭐️
 
-<sup><sub>Last updated: March 23, 2025 at 08:34:37 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: March 23, 2025 at 12:21:08 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
