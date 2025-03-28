@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#47 - feat: handle formatting](https://github.com/civo/civo-csi/pull/47) on `civo/civo-csi` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@kubevirt](https://github.com/kubevirt),
+[@civo](https://github.com/civo),
 [@sadaram-in](https://github.com/sadaram-in),
-[@kubefirst](https://github.com/kubefirst),
-[@konstructio](https://github.com/konstructio)
-and [@kubearmor](https://github.com/kubearmor).
+[@patrickdappollonio](https://github.com/patrickdappollonio)
+and [@vmware-tanzu](https://github.com/vmware-tanzu).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@kubearmor](https://github.com/kubearmor).
 * [douglasmakey/tipsandtricks](https://github.com/douglasmakey/tipsandtricks) from [@douglasmakey](https://github.com/douglasmakey) with 1 ⭐️
 * [douglasmakey/shelldon](https://github.com/douglasmakey/shelldon) from [@douglasmakey](https://github.com/douglasmakey) with 32 ⭐️
 
-<sup><sub>Last updated: March 28, 2025 at 00:23:08 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: March 28, 2025 at 04:25:29 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
