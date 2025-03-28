@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#47 - feat: handle formatting](https://github.com/civo/civo-csi/pull/47) on `civo/civo-csi` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubevirt](https://github.com/kubevirt),
 [@vmware-tanzu](https://github.com/vmware-tanzu),
-[@civo](https://github.com/civo),
-[@konstructio](https://github.com/konstructio)
-and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@sadaram-in](https://github.com/sadaram-in),
+[@patrickdappollonio](https://github.com/patrickdappollonio)
+and [@kubevirt](https://github.com/kubevirt).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -47,10 +47,10 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.3K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 11 ⭐️
 * [patrickdappollonio/dotenv](https://github.com/patrickdappollonio/dotenv) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 5 ⭐️
-* [kubernetes-sigs/blixt](https://github.com/kubernetes-sigs/blixt) from [@kubernetes-sigs](https://github.com/kubernetes-sigs) with 397 ⭐️
+* [kubernetes-sigs/blixt](https://github.com/kubernetes-sigs/blixt) from [@kubernetes-sigs](https://github.com/kubernetes-sigs) with 398 ⭐️
 * [open-cluster-management-io/ocm](https://github.com/open-cluster-management-io/ocm) from [@open-cluster-management-io](https://github.com/open-cluster-management-io) with 867 ⭐️
 * [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) from [@kubearmor](https://github.com/kubearmor) with 1.7K ⭐️
 * [douglasmakey/tipsandtricks](https://github.com/douglasmakey/tipsandtricks) from [@douglasmakey](https://github.com/douglasmakey) with 1 ⭐️
 * [douglasmakey/shelldon](https://github.com/douglasmakey/shelldon) from [@douglasmakey](https://github.com/douglasmakey) with 32 ⭐️
 
-<sup><sub>Last updated: March 28, 2025 at 08:37:40 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: March 28, 2025 at 12:23:54 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
