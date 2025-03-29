@@ -23,10 +23,10 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@vmware-tanzu](https://github.com/vmware-tanzu),
+[@civo](https://github.com/civo),
 [@konstructio](https://github.com/konstructio),
-[@kubefirst](https://github.com/kubefirst),
-[@kubevirt](https://github.com/kubevirt)
-and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
+[@patrickdappollonio](https://github.com/patrickdappollonio)
+and [@kubearmor](https://github.com/kubearmor).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -41,7 +41,7 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 * [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) from [@mrsimonemms](https://github.com/mrsimonemms) with 2 ⭐️
 * [douglasmakey/admissioncontroller](https://github.com/douglasmakey/admissioncontroller) from [@douglasmakey](https://github.com/douglasmakey) with 26 ⭐️
 * [konstructio/workpool](https://github.com/konstructio/workpool) from [@konstructio](https://github.com/konstructio) with 1 ⭐️
-* [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 1.4K ⭐️
+* [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 1.5K ⭐️
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.4K ⭐️
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.4K ⭐️
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.3K ⭐️
@@ -53,4 +53,4 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 * [douglasmakey/tipsandtricks](https://github.com/douglasmakey/tipsandtricks) from [@douglasmakey](https://github.com/douglasmakey) with 1 ⭐️
 * [douglasmakey/shelldon](https://github.com/douglasmakey/shelldon) from [@douglasmakey](https://github.com/douglasmakey) with 32 ⭐️
 
-<sup><sub>Last updated: March 29, 2025 at 00:23:37 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: March 29, 2025 at 04:22:42 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
