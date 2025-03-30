@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#6 - fix: add workflow folder](https://github.com/civo/node-agent/pull/6) on `civo/node-agent` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubefirst](https://github.com/kubefirst),
+[@uyuni-project](https://github.com/uyuni-project),
 [@vmware-tanzu](https://github.com/vmware-tanzu),
-[@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs)
-and [@sadaram-in](https://github.com/sadaram-in).
+[@civo](https://github.com/civo),
+[@sadaram-in](https://github.com/sadaram-in)
+and [@kubearmor](https://github.com/kubearmor).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -35,7 +35,7 @@ and [@sadaram-in](https://github.com/sadaram-in).
 * [patrickdappollonio/helm-list-charts](https://github.com/patrickdappollonio/helm-list-charts) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 1 ⭐️
 * [flatcar/mantle](https://github.com/flatcar/mantle) from [@flatcar](https://github.com/flatcar) with 38 ⭐️
 * [civo/civogo](https://github.com/civo/civogo) from [@civo](https://github.com/civo) with 40 ⭐️
-* [juanfont/headscale](https://github.com/juanfont/headscale) from [@juanfont](https://github.com/juanfont) with 26.3K ⭐️
+* [juanfont/headscale](https://github.com/juanfont/headscale) from [@juanfont](https://github.com/juanfont) with 26.4K ⭐️
 * [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 87 ⭐️
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 9 ⭐️
 * [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) from [@mrsimonemms](https://github.com/mrsimonemms) with 2 ⭐️
@@ -53,4 +53,4 @@ and [@sadaram-in](https://github.com/sadaram-in).
 * [douglasmakey/tipsandtricks](https://github.com/douglasmakey/tipsandtricks) from [@douglasmakey](https://github.com/douglasmakey) with 1 ⭐️
 * [douglasmakey/shelldon](https://github.com/douglasmakey/shelldon) from [@douglasmakey](https://github.com/douglasmakey) with 32 ⭐️
 
-<sup><sub>Last updated: March 30, 2025 at 12:21:53 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: March 30, 2025 at 16:19:52 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
