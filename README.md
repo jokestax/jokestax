@@ -10,6 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#551 - fix: lint and format](https://github.com/uyuni-project/uyuni-tools/pull/551) on `uyuni-project/uyuni-tools` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#14364 - fix/format-lint](https://github.com/kubevirt/kubevirt/pull/14364) on `kubevirt/kubevirt` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#2013 - fix: format and lint error](https://github.com/vmware-tanzu/sonobuoy/pull/2013) on `vmware-tanzu/sonobuoy` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#1036 - fix: patch long-horn uninstall](https://github.com/civo/kubernetes-marketplace/pull/1036) on `civo/kubernetes-marketplace` - <img src="images/github-open.png" width="12px" height="12px"> open
@@ -19,10 +20,9 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#12 - feat: change gpu count logic](https://github.com/civo/node-agent/pull/12) on `civo/node-agent` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 * [#10 - fix chart](https://github.com/civo/node-agent/pull/10) on `civo/node-agent` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#6 - fix: add workflow folder](https://github.com/civo/node-agent/pull/6) on `civo/node-agent` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#47 - feat: handle formatting](https://github.com/civo/civo-csi/pull/47) on `civo/civo-csi` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@patrickdappollonio](https://github.com/patrickdappollonio),
+[@kubefirst](https://github.com/kubefirst),
 [@vmware-tanzu](https://github.com/vmware-tanzu),
 [@konstructio](https://github.com/konstructio),
 [@kubernetes-sigs](https://github.com/kubernetes-sigs)
@@ -53,4 +53,4 @@ and [@sadaram-in](https://github.com/sadaram-in).
 * [douglasmakey/tipsandtricks](https://github.com/douglasmakey/tipsandtricks) from [@douglasmakey](https://github.com/douglasmakey) with 1 ⭐️
 * [douglasmakey/shelldon](https://github.com/douglasmakey/shelldon) from [@douglasmakey](https://github.com/douglasmakey) with 32 ⭐️
 
-<sup><sub>Last updated: March 30, 2025 at 08:35:12 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: March 30, 2025 at 12:21:53 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
