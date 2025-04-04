@@ -10,7 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
-* [#551 - fix: lint and format](https://github.com/uyuni-project/uyuni-tools/pull/551) on `uyuni-project/uyuni-tools` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#551 - fix: lint and format](https://github.com/uyuni-project/uyuni-tools/pull/551) on `uyuni-project/uyuni-tools` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 * [#14364 - fix/format-lint](https://github.com/kubevirt/kubevirt/pull/14364) on `kubevirt/kubevirt` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#2013 - fix: format and lint error](https://github.com/vmware-tanzu/sonobuoy/pull/2013) on `vmware-tanzu/sonobuoy` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#1036 - fix: patch long-horn uninstall](https://github.com/civo/kubernetes-marketplace/pull/1036) on `civo/kubernetes-marketplace` - <img src="images/github-open.png" width="12px" height="12px"> open
@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#6 - fix: add workflow folder](https://github.com/civo/node-agent/pull/6) on `civo/node-agent` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@uyuni-project](https://github.com/uyuni-project),
 [@vmware-tanzu](https://github.com/vmware-tanzu),
 [@konstructio](https://github.com/konstructio),
-[@patrickdappollonio](https://github.com/patrickdappollonio)
-and [@kubefirst](https://github.com/kubefirst).
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@kubefirst](https://github.com/kubefirst)
+and [@kubevirt](https://github.com/kubevirt).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@kubefirst](https://github.com/kubefirst).
 * [douglasmakey/tipsandtricks](https://github.com/douglasmakey/tipsandtricks) from [@douglasmakey](https://github.com/douglasmakey) with 1 ⭐️
 * [douglasmakey/shelldon](https://github.com/douglasmakey/shelldon) from [@douglasmakey](https://github.com/douglasmakey) with 32 ⭐️
 
-<sup><sub>Last updated: April 03, 2025 at 16:21:34 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: April 03, 2025 at 21:36:01 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
