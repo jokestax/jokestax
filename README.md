@@ -25,8 +25,8 @@ Overall, my most recent contributions (besides my own repos) have gone to
 [@vmware-tanzu](https://github.com/vmware-tanzu),
 [@kubernetes-sigs](https://github.com/kubernetes-sigs),
 [@sadaram-in](https://github.com/sadaram-in),
-[@kubevirt](https://github.com/kubevirt)
-and [@civo](https://github.com/civo).
+[@kubefirst](https://github.com/kubefirst)
+and [@kubearmor](https://github.com/kubearmor).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@civo](https://github.com/civo).
 * [douglasmakey/tipsandtricks](https://github.com/douglasmakey/tipsandtricks) from [@douglasmakey](https://github.com/douglasmakey) with 1 ⭐️
 * [douglasmakey/shelldon](https://github.com/douglasmakey/shelldon) from [@douglasmakey](https://github.com/douglasmakey) with 32 ⭐️
 
-<sup><sub>Last updated: April 11, 2025 at 21:27:09 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: April 12, 2025 at 00:22:32 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
