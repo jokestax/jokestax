@@ -22,10 +22,10 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#6 - fix: add workflow folder](https://github.com/civo/node-agent/pull/6) on `civo/node-agent` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@sadaram-in](https://github.com/sadaram-in),
-[@kubearmor](https://github.com/kubearmor),
-[@kubevirt](https://github.com/kubevirt),
-[@vmware-tanzu](https://github.com/vmware-tanzu)
+[@vmware-tanzu](https://github.com/vmware-tanzu),
+[@civo](https://github.com/civo),
+[@kubefirst](https://github.com/kubefirst),
+[@kubevirt](https://github.com/kubevirt)
 and [@konstructio](https://github.com/konstructio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
@@ -53,4 +53,4 @@ and [@konstructio](https://github.com/konstructio).
 * [douglasmakey/tipsandtricks](https://github.com/douglasmakey/tipsandtricks) from [@douglasmakey](https://github.com/douglasmakey) with 1 ⭐️
 * [douglasmakey/shelldon](https://github.com/douglasmakey/shelldon) from [@douglasmakey](https://github.com/douglasmakey) with 32 ⭐️
 
-<sup><sub>Last updated: April 17, 2025 at 04:26:31 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: April 17, 2025 at 08:39:10 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
