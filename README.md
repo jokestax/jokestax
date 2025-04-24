@@ -25,7 +25,7 @@ Overall, my most recent contributions (besides my own repos) have gone to
 [@civo](https://github.com/civo),
 [@kubevirt](https://github.com/kubevirt),
 [@konstructio](https://github.com/konstructio),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs)
+[@sadaram-in](https://github.com/sadaram-in)
 and [@kubearmor](https://github.com/kubearmor).
 ### ⭐ New third-party projects I'm keeping an eye on
 
@@ -53,4 +53,4 @@ and [@kubearmor](https://github.com/kubearmor).
 * [open-cluster-management-io/ocm](https://github.com/open-cluster-management-io/ocm) from [@open-cluster-management-io](https://github.com/open-cluster-management-io) with 885 ⭐️
 * [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) from [@kubearmor](https://github.com/kubearmor) with 1.7K ⭐️
 
-<sup><sub>Last updated: April 24, 2025 at 00:23:35 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: April 24, 2025 at 04:26:52 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
