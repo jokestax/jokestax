@@ -23,9 +23,9 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@kubevirt](https://github.com/kubevirt),
+[@konstructio](https://github.com/konstructio),
 [@sadaram-in](https://github.com/sadaram-in),
-[@kubefirst](https://github.com/kubefirst),
-[@kubearmor](https://github.com/kubearmor)
+[@kubefirst](https://github.com/kubefirst)
 and [@patrickdappollonio](https://github.com/patrickdappollonio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
@@ -33,7 +33,7 @@ and [@patrickdappollonio](https://github.com/patrickdappollonio).
 
 
 * [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) from [@TeamNewPipe](https://github.com/TeamNewPipe) with 33.6K ⭐️
-* [isotope-rs/isotope](https://github.com/isotope-rs/isotope) from [@isotope-rs](https://github.com/isotope-rs) with 84 ⭐️
+* [isotope-rs/isotope](https://github.com/isotope-rs/isotope) from [@isotope-rs](https://github.com/isotope-rs) with 85 ⭐️
 * [patrickdappollonio/helm-list-charts](https://github.com/patrickdappollonio/helm-list-charts) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 1 ⭐️
 * [flatcar/mantle](https://github.com/flatcar/mantle) from [@flatcar](https://github.com/flatcar) with 38 ⭐️
 * [civo/civogo](https://github.com/civo/civogo) from [@civo](https://github.com/civo) with 40 ⭐️
@@ -53,4 +53,4 @@ and [@patrickdappollonio](https://github.com/patrickdappollonio).
 * [open-cluster-management-io/ocm](https://github.com/open-cluster-management-io/ocm) from [@open-cluster-management-io](https://github.com/open-cluster-management-io) with 888 ⭐️
 * [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) from [@kubearmor](https://github.com/kubearmor) with 1.7K ⭐️
 
-<sup><sub>Last updated: April 27, 2025 at 16:20:12 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: April 27, 2025 at 21:42:22 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
