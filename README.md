@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#10 - fix chart](https://github.com/civo/node-agent/pull/10) on `civo/node-agent` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
+[@sadaram-in](https://github.com/sadaram-in),
 [@kubearmor](https://github.com/kubearmor),
-[@patrickdappollonio](https://github.com/patrickdappollonio),
-[@vmware-tanzu](https://github.com/vmware-tanzu),
-[@konstructio](https://github.com/konstructio)
-and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
+[@civo](https://github.com/civo)
+and [@vmware-tanzu](https://github.com/vmware-tanzu).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 * [open-cluster-management-io/ocm](https://github.com/open-cluster-management-io/ocm) from [@open-cluster-management-io](https://github.com/open-cluster-management-io) with 890 ⭐️
 * [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) from [@kubearmor](https://github.com/kubearmor) with 1.7K ⭐️
 
-<sup><sub>Last updated: May 01, 2025 at 00:25:35 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: May 01, 2025 at 04:26:25 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
