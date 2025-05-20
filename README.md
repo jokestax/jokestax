@@ -22,10 +22,10 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#10 - fix chart](https://github.com/civo/node-agent/pull/10) on `civo/node-agent` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubefirst](https://github.com/kubefirst),
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
 [@kubearmor](https://github.com/kubearmor),
-[@civo](https://github.com/civo),
-[@vmware-tanzu](https://github.com/vmware-tanzu)
+[@patrickdappollonio](https://github.com/patrickdappollonio),
+[@civo](https://github.com/civo)
 and [@konstructio](https://github.com/konstructio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
@@ -41,7 +41,7 @@ and [@konstructio](https://github.com/konstructio).
 * [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 90 ⭐️
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 9 ⭐️
 * [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) from [@mrsimonemms](https://github.com/mrsimonemms) with 2 ⭐️
-* [douglasmakey/admissioncontroller](https://github.com/douglasmakey/admissioncontroller) from [@douglasmakey](https://github.com/douglasmakey) with 26 ⭐️
+* [douglasmakey/admissioncontroller](https://github.com/douglasmakey/admissioncontroller) from [@douglasmakey](https://github.com/douglasmakey) with 27 ⭐️
 * [konstructio/workpool](https://github.com/konstructio/workpool) from [@konstructio](https://github.com/konstructio) with 1 ⭐️
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 1.8K ⭐️
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.5K ⭐️
@@ -53,4 +53,4 @@ and [@konstructio](https://github.com/konstructio).
 * [open-cluster-management-io/ocm](https://github.com/open-cluster-management-io/ocm) from [@open-cluster-management-io](https://github.com/open-cluster-management-io) with 894 ⭐️
 * [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) from [@kubearmor](https://github.com/kubearmor) with 1.7K ⭐️
 
-<sup><sub>Last updated: May 19, 2025 at 16:22:14 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: May 19, 2025 at 21:43:56 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
