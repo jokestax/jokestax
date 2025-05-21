@@ -25,8 +25,8 @@ Overall, my most recent contributions (besides my own repos) have gone to
 [@civo](https://github.com/civo),
 [@vmware-tanzu](https://github.com/vmware-tanzu),
 [@konstructio](https://github.com/konstructio),
-[@kubefirst](https://github.com/kubefirst)
-and [@patrickdappollonio](https://github.com/patrickdappollonio).
+[@kubearmor](https://github.com/kubearmor)
+and [@kubevirt](https://github.com/kubevirt).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@patrickdappollonio](https://github.com/patrickdappollonio).
 * [open-cluster-management-io/ocm](https://github.com/open-cluster-management-io/ocm) from [@open-cluster-management-io](https://github.com/open-cluster-management-io) with 895 ⭐️
 * [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) from [@kubearmor](https://github.com/kubearmor) with 1.7K ⭐️
 
-<sup><sub>Last updated: May 21, 2025 at 00:25:29 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: May 21, 2025 at 04:27:30 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
