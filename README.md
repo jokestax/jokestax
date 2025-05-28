@@ -24,9 +24,9 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@vmware-tanzu](https://github.com/vmware-tanzu),
 [@sadaram-in](https://github.com/sadaram-in),
-[@kubearmor](https://github.com/kubearmor),
+[@kubefirst](https://github.com/kubefirst),
 [@patrickdappollonio](https://github.com/patrickdappollonio)
-and [@civo](https://github.com/civo).
+and [@kubearmor](https://github.com/kubearmor).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@civo](https://github.com/civo).
 * [kubernetes-sigs/blixt](https://github.com/kubernetes-sigs/blixt) from [@kubernetes-sigs](https://github.com/kubernetes-sigs) with 420 ⭐️
 * [open-cluster-management-io/ocm](https://github.com/open-cluster-management-io/ocm) from [@open-cluster-management-io](https://github.com/open-cluster-management-io) with 897 ⭐️
 
-<sup><sub>Last updated: May 28, 2025 at 04:28:02 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: May 28, 2025 at 08:42:11 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
