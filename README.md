@@ -22,9 +22,9 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#10 - fix chart](https://github.com/civo/node-agent/pull/10) on `civo/node-agent` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@sadaram-in](https://github.com/sadaram-in),
+[@kubefirst](https://github.com/kubefirst),
 [@kubearmor](https://github.com/kubearmor),
+[@patrickdappollonio](https://github.com/patrickdappollonio),
 [@civo](https://github.com/civo)
 and [@vmware-tanzu](https://github.com/vmware-tanzu).
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -46,11 +46,11 @@ and [@vmware-tanzu](https://github.com/vmware-tanzu).
 * [konstructio/workpool](https://github.com/konstructio/workpool) from [@konstructio](https://github.com/konstructio) with 1 ⭐️
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 1.9K ⭐️
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.5K ⭐️
-* [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.6K ⭐️
+* [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.7K ⭐️
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.4K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 * [patrickdappollonio/dotenv](https://github.com/patrickdappollonio/dotenv) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 5 ⭐️
 * [kubernetes-sigs/blixt](https://github.com/kubernetes-sigs/blixt) from [@kubernetes-sigs](https://github.com/kubernetes-sigs) with 421 ⭐️
 * [open-cluster-management-io/ocm](https://github.com/open-cluster-management-io/ocm) from [@open-cluster-management-io](https://github.com/open-cluster-management-io) with 897 ⭐️
 
-<sup><sub>Last updated: May 28, 2025 at 21:43:33 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: May 29, 2025 at 00:26:27 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
