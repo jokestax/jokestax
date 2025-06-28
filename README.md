@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#10 - fix chart](https://github.com/civo/node-agent/pull/10) on `civo/node-agent` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
-[@kubefirst](https://github.com/kubefirst),
 [@kubearmor](https://github.com/kubearmor),
-[@vmware-tanzu](https://github.com/vmware-tanzu)
-and [@kubevirt](https://github.com/kubevirt).
+[@patrickdappollonio](https://github.com/patrickdappollonio),
+[@konstructio](https://github.com/konstructio),
+[@kubernetes-sigs](https://github.com/kubernetes-sigs)
+and [@sadaram-in](https://github.com/sadaram-in).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -41,7 +41,7 @@ and [@kubevirt](https://github.com/kubevirt).
 * [flatcar/mantle](https://github.com/flatcar/mantle) from [@flatcar](https://github.com/flatcar) with 38 ⭐️
 * [civo/civogo](https://github.com/civo/civogo) from [@civo](https://github.com/civo) with 43 ⭐️
 * [juanfont/headscale](https://github.com/juanfont/headscale) from [@juanfont](https://github.com/juanfont) with 29.4K ⭐️
-* [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 90 ⭐️
+* [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 91 ⭐️
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 9 ⭐️
 * [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) from [@mrsimonemms](https://github.com/mrsimonemms) with 2 ⭐️
 * [douglasmakey/admissioncontroller](https://github.com/douglasmakey/admissioncontroller) from [@douglasmakey](https://github.com/douglasmakey) with 27 ⭐️
@@ -53,4 +53,4 @@ and [@kubevirt](https://github.com/kubevirt).
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 * [patrickdappollonio/dotenv](https://github.com/patrickdappollonio/dotenv) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 5 ⭐️
 
-<sup><sub>Last updated: June 28, 2025 at 00:25:26 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: June 28, 2025 at 04:25:15 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
