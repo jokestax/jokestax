@@ -25,8 +25,8 @@ Overall, my most recent contributions (besides my own repos) have gone to
 [@civo](https://github.com/civo),
 [@kubevirt](https://github.com/kubevirt),
 [@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@sadaram-in](https://github.com/sadaram-in)
-and [@kubearmor](https://github.com/kubearmor).
+[@kubearmor](https://github.com/kubearmor)
+and [@patrickdappollonio](https://github.com/patrickdappollonio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@kubearmor](https://github.com/kubearmor).
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 * [patrickdappollonio/dotenv](https://github.com/patrickdappollonio/dotenv) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 5 ⭐️
 
-<sup><sub>Last updated: July 04, 2025 at 16:22:04 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: July 04, 2025 at 21:42:52 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
