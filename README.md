@@ -23,10 +23,10 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@kubefirst](https://github.com/kubefirst),
-[@civo](https://github.com/civo),
-[@vmware-tanzu](https://github.com/vmware-tanzu),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs)
-and [@kubearmor](https://github.com/kubearmor).
+[@patrickdappollonio](https://github.com/patrickdappollonio),
+[@kubevirt](https://github.com/kubevirt),
+[@konstructio](https://github.com/konstructio)
+and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@kubearmor](https://github.com/kubearmor).
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 * [patrickdappollonio/dotenv](https://github.com/patrickdappollonio/dotenv) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 5 ⭐️
 
-<sup><sub>Last updated: July 24, 2025 at 21:53:12 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: July 25, 2025 at 00:39:54 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
