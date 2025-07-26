@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#10 - fix chart](https://github.com/civo/node-agent/pull/10) on `civo/node-agent` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@civo](https://github.com/civo),
-[@konstructio](https://github.com/konstructio),
+[@kubernetes-sigs](https://github.com/kubernetes-sigs),
 [@kubearmor](https://github.com/kubearmor),
-[@patrickdappollonio](https://github.com/patrickdappollonio)
-and [@kubevirt](https://github.com/kubevirt).
+[@civo](https://github.com/civo),
+[@kubevirt](https://github.com/kubevirt)
+and [@vmware-tanzu](https://github.com/vmware-tanzu).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@kubevirt](https://github.com/kubevirt).
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 * [patrickdappollonio/dotenv](https://github.com/patrickdappollonio/dotenv) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 5 ⭐️
 
-<sup><sub>Last updated: July 26, 2025 at 04:27:07 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: July 26, 2025 at 08:41:29 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
