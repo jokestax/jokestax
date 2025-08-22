@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#12 - feat: change gpu count logic](https://github.com/civo/node-agent/pull/12) on `civo/node-agent` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubefirst](https://github.com/kubefirst),
-[@patrickdappollonio](https://github.com/patrickdappollonio),
-[@konstructio](https://github.com/konstructio),
-[@civo](https://github.com/civo)
-and [@vmware-tanzu](https://github.com/vmware-tanzu).
+[@civo](https://github.com/civo),
+[@vmware-tanzu](https://github.com/vmware-tanzu),
+[@sadaram-in](https://github.com/sadaram-in),
+[@patrickdappollonio](https://github.com/patrickdappollonio)
+and [@konstructio](https://github.com/konstructio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@vmware-tanzu](https://github.com/vmware-tanzu).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.5K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: August 22, 2025 at 04:27:08 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: August 22, 2025 at 08:40:27 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
