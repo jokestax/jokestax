@@ -24,8 +24,8 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@sadaram-in](https://github.com/sadaram-in),
 [@kubearmor](https://github.com/kubearmor),
-[@konstructio](https://github.com/konstructio),
-[@civo](https://github.com/civo)
+[@patrickdappollonio](https://github.com/patrickdappollonio),
+[@konstructio](https://github.com/konstructio)
 and [@vmware-tanzu](https://github.com/vmware-tanzu).
 ### ⭐ New third-party projects I'm keeping an eye on
 
@@ -53,4 +53,4 @@ and [@vmware-tanzu](https://github.com/vmware-tanzu).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.5K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: August 27, 2025 at 00:24:33 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: August 27, 2025 at 04:27:00 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
