@@ -10,6 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#5 - update version](https://github.com/jokestax/alpine-make-vm-image/pull/5) on `jokestax/alpine-make-vm-image` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#9 - Update alpine-make-vm-image](https://github.com/jarededwards/alpine-make-vm-image/pull/9) on `jarededwards/alpine-make-vm-image` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#877 - fix: remove helm provider](https://github.com/konstructio/gitops-template/pull/877) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#24 - feat: tag latest version](https://github.com/civo/node-agent/pull/24) on `civo/node-agent` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -19,14 +20,13 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#1036 - fix: patch long-horn uninstall](https://github.com/civo/kubernetes-marketplace/pull/1036) on `civo/kubernetes-marketplace` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#18 - feat: add additional steps](https://github.com/civo/node-agent/pull/18) on `civo/node-agent` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#16 - feat: time window env](https://github.com/civo/node-agent/pull/16) on `civo/node-agent` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#14 - feat: push to dockerhub](https://github.com/civo/node-agent/pull/14) on `civo/node-agent` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubevirt](https://github.com/kubevirt),
-[@vmware-tanzu](https://github.com/vmware-tanzu),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@kubearmor](https://github.com/kubearmor)
-and [@patrickdappollonio](https://github.com/patrickdappollonio).
+[@kubefirst](https://github.com/kubefirst),
+[@kubearmor](https://github.com/kubearmor),
+[@patrickdappollonio](https://github.com/patrickdappollonio),
+[@jarededwards](https://github.com/jarededwards)
+and [@sadaram-in](https://github.com/sadaram-in).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@patrickdappollonio](https://github.com/patrickdappollonio).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.5K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: August 27, 2025 at 16:21:39 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: August 27, 2025 at 21:37:40 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
