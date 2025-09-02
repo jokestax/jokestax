@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#18 - feat: add additional steps](https://github.com/civo/node-agent/pull/18) on `civo/node-agent` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@jarededwards](https://github.com/jarededwards),
-[@kubernetes-sigs](https://github.com/kubernetes-sigs),
-[@sadaram-in](https://github.com/sadaram-in),
-[@patrickdappollonio](https://github.com/patrickdappollonio)
-and [@konstructio](https://github.com/konstructio).
+[@kubearmor](https://github.com/kubearmor),
+[@vmware-tanzu](https://github.com/vmware-tanzu),
+[@kubefirst](https://github.com/kubefirst),
+[@civo](https://github.com/civo)
+and [@kubernetes-sigs](https://github.com/kubernetes-sigs).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@konstructio](https://github.com/konstructio).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.5K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: September 01, 2025 at 21:39:11 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 02, 2025 at 00:24:47 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
