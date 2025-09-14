@@ -10,6 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#378 - fix: improve k3s gpu regex comparison](https://github.com/civo/terraform-provider-civo/pull/378) on `civo/terraform-provider-civo` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#561 - feat: add custom api url to search against](https://github.com/civo/cli/pull/561) on `civo/cli` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#11 - Update fabric manager config location](https://github.com/jarededwards/alpine-make-vm-image/pull/11) on `jarededwards/alpine-make-vm-image` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#5 - update version](https://github.com/jokestax/alpine-make-vm-image/pull/5) on `jokestax/alpine-make-vm-image` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -19,14 +20,13 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#551 - fix: lint and format](https://github.com/uyuni-project/uyuni-tools/pull/551) on `uyuni-project/uyuni-tools` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 * [#14364 - fix/format-lint](https://github.com/kubevirt/kubevirt/pull/14364) on `kubevirt/kubevirt` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 * [#2013 - fix: format and lint error](https://github.com/vmware-tanzu/sonobuoy/pull/2013) on `vmware-tanzu/sonobuoy` - <img src="images/github-open.png" width="12px" height="12px"> open
-* [#1036 - fix: patch long-horn uninstall](https://github.com/civo/kubernetes-marketplace/pull/1036) on `civo/kubernetes-marketplace` - <img src="images/github-open.png" width="12px" height="12px"> open
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@jarededwards](https://github.com/jarededwards),
 [@konstructio](https://github.com/konstructio),
+[@patrickdappollonio](https://github.com/patrickdappollonio),
 [@vmware-tanzu](https://github.com/vmware-tanzu),
-[@patrickdappollonio](https://github.com/patrickdappollonio)
-and [@civo](https://github.com/civo).
+[@kubernetes-retired](https://github.com/kubernetes-retired)
+and [@sadaram-in](https://github.com/sadaram-in).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@civo](https://github.com/civo).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.5K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: September 14, 2025 at 08:35:05 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 14, 2025 at 12:20:08 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
