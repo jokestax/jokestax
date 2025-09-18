@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#2013 - fix: format and lint error](https://github.com/vmware-tanzu/sonobuoy/pull/2013) on `vmware-tanzu/sonobuoy` - <img src="images/github-open.png" width="12px" height="12px"> open
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@sadaram-in](https://github.com/sadaram-in),
+[@patrickdappollonio](https://github.com/patrickdappollonio),
 [@jarededwards](https://github.com/jarededwards),
-[@konstructio](https://github.com/konstructio),
-[@vmware-tanzu](https://github.com/vmware-tanzu),
-[@kubernetes-retired](https://github.com/kubernetes-retired)
-and [@kubearmor](https://github.com/kubearmor).
+[@konstructio](https://github.com/konstructio)
+and [@kubernetes-retired](https://github.com/kubernetes-retired).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@kubearmor](https://github.com/kubearmor).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.5K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: September 17, 2025 at 21:25:33 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 18, 2025 at 00:23:25 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
