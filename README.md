@@ -22,17 +22,17 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#2013 - fix: format and lint error](https://github.com/vmware-tanzu/sonobuoy/pull/2013) on `vmware-tanzu/sonobuoy` - <img src="images/github-open.png" width="12px" height="12px"> open
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubefirst](https://github.com/kubefirst),
 [@civo](https://github.com/civo),
 [@jarededwards](https://github.com/jarededwards),
-[@vmware-tanzu](https://github.com/vmware-tanzu)
-and [@kubernetes-retired](https://github.com/kubernetes-retired).
+[@kubefirst](https://github.com/kubefirst),
+[@patrickdappollonio](https://github.com/patrickdappollonio)
+and [@konstructio](https://github.com/konstructio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
-* [gavinbunney/terraform-provider-kubectl](https://github.com/gavinbunney/terraform-provider-kubectl) from [@gavinbunney](https://github.com/gavinbunney) with 671 ⭐️
+* [gavinbunney/terraform-provider-kubectl](https://github.com/gavinbunney/terraform-provider-kubectl) from [@gavinbunney](https://github.com/gavinbunney) with 672 ⭐️
 * [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 648 ⭐️
 * [cilium/little-vm-helper](https://github.com/cilium/little-vm-helper) from [@cilium](https://github.com/cilium) with 105 ⭐️
 * [patrickdappollonio/tgen](https://github.com/patrickdappollonio/tgen) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 17 ⭐️
@@ -53,4 +53,4 @@ and [@kubernetes-retired](https://github.com/kubernetes-retired).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.5K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: September 22, 2025 at 00:23:33 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 22, 2025 at 04:28:06 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
