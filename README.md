@@ -22,18 +22,18 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#14364 - fix/format-lint](https://github.com/kubevirt/kubevirt/pull/14364) on `kubevirt/kubevirt` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubearmor](https://github.com/kubearmor),
 [@patrickdappollonio](https://github.com/patrickdappollonio),
 [@konstructio](https://github.com/konstructio),
-[@jarededwards](https://github.com/jarededwards)
-and [@vmware-tanzu](https://github.com/vmware-tanzu).
+[@jarededwards](https://github.com/jarededwards),
+[@vmware-tanzu](https://github.com/vmware-tanzu)
+and [@kubearmor](https://github.com/kubearmor).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
 * [gavinbunney/terraform-provider-kubectl](https://github.com/gavinbunney/terraform-provider-kubectl) from [@gavinbunney](https://github.com/gavinbunney) with 672 ⭐️
-* [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 649 ⭐️
+* [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 650 ⭐️
 * [cilium/little-vm-helper](https://github.com/cilium/little-vm-helper) from [@cilium](https://github.com/cilium) with 105 ⭐️
 * [patrickdappollonio/tgen](https://github.com/patrickdappollonio/tgen) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 17 ⭐️
 * [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) from [@TeamNewPipe](https://github.com/TeamNewPipe) with 35.2K ⭐️
@@ -53,4 +53,4 @@ and [@vmware-tanzu](https://github.com/vmware-tanzu).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.5K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: September 25, 2025 at 08:42:05 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 25, 2025 at 12:24:56 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
