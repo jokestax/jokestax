@@ -10,6 +10,9 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#891 - Update main.tf](https://github.com/konstructio/gitops-template/pull/891) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#890 - fix: hardcoded vars](https://github.com/konstructio/gitops-template/pull/890) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#889 - feat: add host vcluster](https://github.com/konstructio/gitops-template/pull/889) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#888 - fix: use multi arch toolkit images](https://github.com/konstructio/gitops-template/pull/888) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#378 - fix: improve k3s gpu regex comparison](https://github.com/civo/terraform-provider-civo/pull/378) on `civo/terraform-provider-civo` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#561 - feat: add custom api url to search against](https://github.com/civo/cli/pull/561) on `civo/cli` - <img src="images/github-open.png" width="12px" height="12px"> open
@@ -17,16 +20,13 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#5 - update version](https://github.com/jokestax/alpine-make-vm-image/pull/5) on `jokestax/alpine-make-vm-image` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#9 - Update alpine-make-vm-image](https://github.com/jarededwards/alpine-make-vm-image/pull/9) on `jarededwards/alpine-make-vm-image` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#877 - fix: remove helm provider](https://github.com/konstructio/gitops-template/pull/877) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#24 - feat: tag latest version](https://github.com/civo/node-agent/pull/24) on `civo/node-agent` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#551 - fix: lint and format](https://github.com/uyuni-project/uyuni-tools/pull/551) on `uyuni-project/uyuni-tools` - <img src="images/github-closed.png" width="12px" height="12px"> closed
-* [#14364 - fix/format-lint](https://github.com/kubevirt/kubevirt/pull/14364) on `kubevirt/kubevirt` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@patrickdappollonio](https://github.com/patrickdappollonio),
 [@konstructio](https://github.com/konstructio),
+[@civo](https://github.com/civo),
 [@jarededwards](https://github.com/jarededwards),
-[@vmware-tanzu](https://github.com/vmware-tanzu)
-and [@kubearmor](https://github.com/kubearmor).
+[@kubefirst](https://github.com/kubefirst)
+and [@patrickdappollonio](https://github.com/patrickdappollonio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@kubearmor](https://github.com/kubearmor).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.5K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: September 25, 2025 at 12:24:56 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 25, 2025 at 16:21:58 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
