@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#9 - Update alpine-make-vm-image](https://github.com/jarededwards/alpine-make-vm-image/pull/9) on `jarededwards/alpine-make-vm-image` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@civo](https://github.com/civo),
-[@vmware-tanzu](https://github.com/vmware-tanzu),
-[@sadaram-in](https://github.com/sadaram-in),
-[@patrickdappollonio](https://github.com/patrickdappollonio)
-and [@konstructio](https://github.com/konstructio).
+[@kubernetes-retired](https://github.com/kubernetes-retired),
+[@kubefirst](https://github.com/kubefirst),
+[@patrickdappollonio](https://github.com/patrickdappollonio),
+[@konstructio](https://github.com/konstructio)
+and [@civo](https://github.com/civo).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@konstructio](https://github.com/konstructio).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.5K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: September 28, 2025 at 21:37:54 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 29, 2025 at 00:24:20 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
