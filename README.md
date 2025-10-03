@@ -53,4 +53,4 @@ and [@jarededwards](https://github.com/jarededwards).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.5K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: October 03, 2025 at 00:22:39 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 03, 2025 at 04:25:28 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
