@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#11 - Update fabric manager config location](https://github.com/jarededwards/alpine-make-vm-image/pull/11) on `jarededwards/alpine-make-vm-image` - <img src="images/github-open.png" width="12px" height="12px"> open
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
-[@civo](https://github.com/civo),
-[@jarededwards](https://github.com/jarededwards),
-[@vmware-tanzu](https://github.com/vmware-tanzu)
-and [@kubernetes-retired](https://github.com/kubernetes-retired).
+[@sadaram-in](https://github.com/sadaram-in),
+[@kubefirst](https://github.com/kubefirst),
+[@kubearmor](https://github.com/kubearmor),
+[@konstructio](https://github.com/konstructio)
+and [@civo](https://github.com/civo).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -36,7 +36,7 @@ and [@kubernetes-retired](https://github.com/kubernetes-retired).
 * [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 653 ⭐️
 * [cilium/little-vm-helper](https://github.com/cilium/little-vm-helper) from [@cilium](https://github.com/cilium) with 105 ⭐️
 * [patrickdappollonio/tgen](https://github.com/patrickdappollonio/tgen) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 16 ⭐️
-* [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) from [@TeamNewPipe](https://github.com/TeamNewPipe) with 35.2K ⭐️
+* [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) from [@TeamNewPipe](https://github.com/TeamNewPipe) with 35.3K ⭐️
 * [isotope-rs/isotope](https://github.com/isotope-rs/isotope) from [@isotope-rs](https://github.com/isotope-rs) with 84 ⭐️
 * [patrickdappollonio/helm-list-charts](https://github.com/patrickdappollonio/helm-list-charts) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 2 ⭐️
 * [flatcar/mantle](https://github.com/flatcar/mantle) from [@flatcar](https://github.com/flatcar) with 39 ⭐️
@@ -53,4 +53,4 @@ and [@kubernetes-retired](https://github.com/kubernetes-retired).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.5K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: October 04, 2025 at 04:22:29 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 04, 2025 at 08:36:10 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
