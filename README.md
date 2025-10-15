@@ -10,6 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#6 - feat: add konstruct arn](https://github.com/konstructio/aws-arn/pull/6) on `konstructio/aws-arn` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#1 - feat: support storing logs](https://github.com/konstructio/provider-terraform/pull/1) on `konstructio/provider-terraform` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#1 - feat: support storing logs](https://github.com/jokestax/provider-terraform/pull/1) on `jokestax/provider-terraform` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#892 - remove bitname](https://github.com/konstructio/gitops-template/pull/892) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -19,14 +20,13 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#888 - fix: use multi arch toolkit images](https://github.com/konstructio/gitops-template/pull/888) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#378 - fix: improve k3s gpu regex comparison](https://github.com/civo/terraform-provider-civo/pull/378) on `civo/terraform-provider-civo` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#561 - feat: add custom api url to search against](https://github.com/civo/cli/pull/561) on `civo/cli` - <img src="images/github-open.png" width="12px" height="12px"> open
-* [#11 - Update fabric manager config location](https://github.com/jarededwards/alpine-make-vm-image/pull/11) on `jarededwards/alpine-make-vm-image` - <img src="images/github-open.png" width="12px" height="12px"> open
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@kubefirst](https://github.com/kubefirst),
+[@kubearmor](https://github.com/kubearmor),
 [@konstructio](https://github.com/konstructio),
-[@civo](https://github.com/civo),
-[@jarededwards](https://github.com/jarededwards),
-[@vmware-tanzu](https://github.com/vmware-tanzu)
-and [@kubernetes-retired](https://github.com/kubernetes-retired).
+[@civo](https://github.com/civo)
+and [@jarededwards](https://github.com/jarededwards).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@kubernetes-retired](https://github.com/kubernetes-retired).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.6K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: October 15, 2025 at 08:43:20 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 15, 2025 at 12:21:38 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
