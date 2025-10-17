@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#561 - feat: add custom api url to search against](https://github.com/civo/cli/pull/561) on `civo/cli` - <img src="images/github-open.png" width="12px" height="12px"> open
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubefirst](https://github.com/kubefirst),
-[@kubearmor](https://github.com/kubearmor),
-[@konstructio](https://github.com/konstructio),
-[@civo](https://github.com/civo)
-and [@jarededwards](https://github.com/jarededwards).
+[@jarededwards](https://github.com/jarededwards),
+[@vmware-tanzu](https://github.com/vmware-tanzu),
+[@kubernetes-retired](https://github.com/kubernetes-retired),
+[@sadaram-in](https://github.com/sadaram-in)
+and [@kubefirst](https://github.com/kubefirst).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@jarededwards](https://github.com/jarededwards).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.6K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: October 17, 2025 at 04:27:25 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 17, 2025 at 08:41:27 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
