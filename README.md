@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#888 - fix: use multi arch toolkit images](https://github.com/konstructio/gitops-template/pull/888) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@vmware-tanzu](https://github.com/vmware-tanzu),
 [@kubernetes-retired](https://github.com/kubernetes-retired),
 [@sadaram-in](https://github.com/sadaram-in),
-[@kubefirst](https://github.com/kubefirst)
-and [@kubearmor](https://github.com/kubearmor).
+[@kubefirst](https://github.com/kubefirst),
+[@kubearmor](https://github.com/kubearmor)
+and [@konstructio](https://github.com/konstructio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@kubearmor](https://github.com/kubearmor).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.6K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: October 23, 2025 at 12:26:27 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 23, 2025 at 16:21:29 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
