@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#888 - fix: use multi arch toolkit images](https://github.com/konstructio/gitops-template/pull/888) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubefirst](https://github.com/kubefirst),
-[@kubearmor](https://github.com/kubearmor),
-[@konstructio](https://github.com/konstructio),
-[@civo](https://github.com/civo)
-and [@jarededwards](https://github.com/jarededwards).
+[@jarededwards](https://github.com/jarededwards),
+[@vmware-tanzu](https://github.com/vmware-tanzu),
+[@kubernetes-retired](https://github.com/kubernetes-retired),
+[@sadaram-in](https://github.com/sadaram-in)
+and [@kubefirst](https://github.com/kubefirst).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -40,7 +40,7 @@ and [@jarededwards](https://github.com/jarededwards).
 * [isotope-rs/isotope](https://github.com/isotope-rs/isotope) from [@isotope-rs](https://github.com/isotope-rs) with 84 ⭐️
 * [patrickdappollonio/helm-list-charts](https://github.com/patrickdappollonio/helm-list-charts) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 2 ⭐️
 * [flatcar/mantle](https://github.com/flatcar/mantle) from [@flatcar](https://github.com/flatcar) with 39 ⭐️
-* [civo/civogo](https://github.com/civo/civogo) from [@civo](https://github.com/civo) with 45 ⭐️
+* [civo/civogo](https://github.com/civo/civogo) from [@civo](https://github.com/civo) with 46 ⭐️
 * [juanfont/headscale](https://github.com/juanfont/headscale) from [@juanfont](https://github.com/juanfont) with 31.9K ⭐️
 * [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 92 ⭐️
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 9 ⭐️
@@ -53,4 +53,4 @@ and [@jarededwards](https://github.com/jarededwards).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.6K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: October 25, 2025 at 08:36:55 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 25, 2025 at 12:22:53 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
