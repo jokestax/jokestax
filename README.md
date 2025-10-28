@@ -33,7 +33,7 @@ and [@sadaram-in](https://github.com/sadaram-in).
 
 
 * [gavinbunney/terraform-provider-kubectl](https://github.com/gavinbunney/terraform-provider-kubectl) from [@gavinbunney](https://github.com/gavinbunney) with 676 ⭐️
-* [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 663 ⭐️
+* [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 664 ⭐️
 * [cilium/little-vm-helper](https://github.com/cilium/little-vm-helper) from [@cilium](https://github.com/cilium) with 106 ⭐️
 * [patrickdappollonio/tgen](https://github.com/patrickdappollonio/tgen) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 17 ⭐️
 * [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) from [@TeamNewPipe](https://github.com/TeamNewPipe) with 35.5K ⭐️
@@ -41,7 +41,7 @@ and [@sadaram-in](https://github.com/sadaram-in).
 * [patrickdappollonio/helm-list-charts](https://github.com/patrickdappollonio/helm-list-charts) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 2 ⭐️
 * [flatcar/mantle](https://github.com/flatcar/mantle) from [@flatcar](https://github.com/flatcar) with 39 ⭐️
 * [civo/civogo](https://github.com/civo/civogo) from [@civo](https://github.com/civo) with 46 ⭐️
-* [juanfont/headscale](https://github.com/juanfont/headscale) from [@juanfont](https://github.com/juanfont) with 32K ⭐️
+* [juanfont/headscale](https://github.com/juanfont/headscale) from [@juanfont](https://github.com/juanfont) with 32.1K ⭐️
 * [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 92 ⭐️
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 9 ⭐️
 * [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) from [@mrsimonemms](https://github.com/mrsimonemms) with 2 ⭐️
@@ -53,4 +53,4 @@ and [@sadaram-in](https://github.com/sadaram-in).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.6K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: October 28, 2025 at 08:42:16 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 28, 2025 at 12:28:09 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
