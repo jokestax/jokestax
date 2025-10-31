@@ -12,7 +12,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 
 * [#6 - upgrade argocd](https://github.com/konstructio/manifests/pull/6) on `konstructio/manifests` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#5 - Upgrade ArgoCD version to v3.1.0](https://github.com/konstructio/manifests/pull/5) on `konstructio/manifests` - <img src="images/github-open.png" width="12px" height="12px"> open
-* [#2 - rename business to project](https://github.com/konstructio/konstruct-templates/pull/2) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#2 - rename business to project](https://github.com/konstructio/konstruct-templates/pull/2) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#1 - feat: add mgmt](https://github.com/konstructio/konstruct-templates/pull/1) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#6 - feat: add konstruct arn](https://github.com/konstructio/aws-arn/pull/6) on `konstructio/aws-arn` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#1 - feat: support storing logs](https://github.com/konstructio/provider-terraform/pull/1) on `konstructio/provider-terraform` - <img src="images/github-open.png" width="12px" height="12px"> open
@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#890 - fix: hardcoded vars](https://github.com/konstructio/gitops-template/pull/890) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@vmware-tanzu](https://github.com/vmware-tanzu),
 [@kubernetes-retired](https://github.com/kubernetes-retired),
 [@sadaram-in](https://github.com/sadaram-in),
-[@kubefirst](https://github.com/kubefirst),
-[@kubearmor](https://github.com/kubearmor)
-and [@konstructio](https://github.com/konstructio).
+[@kubefirst](https://github.com/kubefirst)
+and [@kubearmor](https://github.com/kubearmor).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@konstructio](https://github.com/konstructio).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.6K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: October 31, 2025 at 12:26:38 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 31, 2025 at 16:22:48 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
