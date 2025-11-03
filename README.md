@@ -10,7 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
-* [#4 - fix: mem](https://github.com/konstructio/konstruct-templates/pull/4) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#4 - fix: mem](https://github.com/konstructio/konstruct-templates/pull/4) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#3 - use project instead of business](https://github.com/konstructio/konstruct-templates/pull/3) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#6 - upgrade argocd](https://github.com/konstructio/manifests/pull/6) on `konstructio/manifests` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#5 - Upgrade ArgoCD version to v3.1.0](https://github.com/konstructio/manifests/pull/5) on `konstructio/manifests` - <img src="images/github-open.png" width="12px" height="12px"> open
@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#892 - remove bitname](https://github.com/konstructio/gitops-template/pull/892) on `konstructio/gitops-template` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@civo](https://github.com/civo),
 [@jarededwards](https://github.com/jarededwards),
 [@vmware-tanzu](https://github.com/vmware-tanzu),
-[@kubernetes-retired](https://github.com/kubernetes-retired),
-[@sadaram-in](https://github.com/sadaram-in)
-and [@kubefirst](https://github.com/kubefirst).
+[@kubernetes-retired](https://github.com/kubernetes-retired)
+and [@sadaram-in](https://github.com/sadaram-in).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@kubefirst](https://github.com/kubefirst).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.6K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: November 02, 2025 at 20:45:41 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 02, 2025 at 23:29:14 EST. The content here updates twice daily or when manually triggered.</sup></sub>
