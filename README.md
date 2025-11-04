@@ -10,6 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#6 - fix: wait](https://github.com/konstructio/konstruct-templates/pull/6) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#5 - feat: upgrade to 32](https://github.com/konstructio/konstruct-templates/pull/5) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#4 - fix: mem](https://github.com/konstructio/konstruct-templates/pull/4) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#3 - use project instead of business](https://github.com/konstructio/konstruct-templates/pull/3) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -19,14 +20,13 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#1 - feat: add mgmt](https://github.com/konstructio/konstruct-templates/pull/1) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#1 - feat: add konstruct arn](https://github.com/konstructio/konstruct-aws-arn/pull/1) on `konstructio/konstruct-aws-arn` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#6 - feat: add konstruct arn](https://github.com/konstructio/aws-arn/pull/6) on `konstructio/aws-arn` - <img src="images/github-open.png" width="12px" height="12px"> open
-* [#1 - feat: support storing logs](https://github.com/konstructio/provider-terraform/pull/1) on `konstructio/provider-terraform` - <img src="images/github-open.png" width="12px" height="12px"> open
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@vmware-tanzu](https://github.com/vmware-tanzu),
-[@kubernetes-retired](https://github.com/kubernetes-retired),
-[@sadaram-in](https://github.com/sadaram-in),
-[@kubefirst](https://github.com/kubefirst)
-and [@konstructio](https://github.com/konstructio).
+[@konstructio](https://github.com/konstructio),
+[@civo](https://github.com/civo),
+[@jarededwards](https://github.com/jarededwards),
+[@vmware-tanzu](https://github.com/vmware-tanzu)
+and [@kubernetes-retired](https://github.com/kubernetes-retired).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@konstructio](https://github.com/konstructio).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.6K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: November 03, 2025 at 23:24:07 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 04, 2025 at 03:28:55 EST. The content here updates twice daily or when manually triggered.</sup></sub>
