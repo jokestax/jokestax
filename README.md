@@ -53,4 +53,4 @@ and [@kubernetes-retired](https://github.com/kubernetes-retired).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.6K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: November 30, 2025 at 21:01:27 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 30, 2025 at 23:50:45 EST. The content here updates twice daily or when manually triggered.</sup></sub>
