@@ -53,4 +53,4 @@ and [@vmware-tanzu](https://github.com/vmware-tanzu).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.6K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: December 02, 2025 at 15:26:42 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 02, 2025 at 20:45:15 EST. The content here updates twice daily or when manually triggered.</sup></sub>
