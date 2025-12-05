@@ -10,6 +10,8 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#11 - fix: publish](https://github.com/konstructio/konstruct-templates/pull/11) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#10 - fix: publish.yaml](https://github.com/konstructio/konstruct-templates/pull/10) on `konstructio/konstruct-templates` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 * [#9 - feat: add action controllers](https://github.com/konstructio/konstruct-templates/pull/9) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#8 - feat: add workflows](https://github.com/konstructio/konstruct-templates/pull/8) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#6 - fix: wait](https://github.com/konstructio/konstruct-templates/pull/6) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -18,15 +20,13 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#3 - use project instead of business](https://github.com/konstructio/konstruct-templates/pull/3) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#6 - upgrade argocd](https://github.com/konstructio/manifests/pull/6) on `konstructio/manifests` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#5 - Upgrade ArgoCD version to v3.1.0](https://github.com/konstructio/manifests/pull/5) on `konstructio/manifests` - <img src="images/github-open.png" width="12px" height="12px"> open
-* [#2 - rename business to project](https://github.com/konstructio/konstruct-templates/pull/2) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#1 - feat: add mgmt](https://github.com/konstructio/konstruct-templates/pull/1) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
 [@civo](https://github.com/civo),
 [@jarededwards](https://github.com/jarededwards),
-[@vmware-tanzu](https://github.com/vmware-tanzu)
-and [@kubernetes-retired](https://github.com/kubernetes-retired).
+[@vmware-tanzu](https://github.com/vmware-tanzu),
+[@kubernetes-retired](https://github.com/kubernetes-retired)
+and [@sadaram-in](https://github.com/sadaram-in).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@kubernetes-retired](https://github.com/kubernetes-retired).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.6K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: December 04, 2025 at 23:30:46 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 05, 2025 at 03:30:07 EST. The content here updates twice daily or when manually triggered.</sup></sub>
