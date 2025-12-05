@@ -10,7 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
-* [#9 - feat: add action controllers](https://github.com/konstructio/konstruct-templates/pull/9) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#9 - feat: add action controllers](https://github.com/konstructio/konstruct-templates/pull/9) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#8 - feat: add workflows](https://github.com/konstructio/konstruct-templates/pull/8) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#6 - fix: wait](https://github.com/konstructio/konstruct-templates/pull/6) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#5 - feat: upgrade to 32](https://github.com/konstructio/konstruct-templates/pull/5) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#1 - feat: add mgmt](https://github.com/konstructio/konstruct-templates/pull/1) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@sadaram-in](https://github.com/sadaram-in),
 [@kubefirst](https://github.com/kubefirst),
 [@konstructio](https://github.com/konstructio),
-[@civo](https://github.com/civo)
-and [@jarededwards](https://github.com/jarededwards).
+[@civo](https://github.com/civo),
+[@jarededwards](https://github.com/jarededwards)
+and [@vmware-tanzu](https://github.com/vmware-tanzu).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@jarededwards](https://github.com/jarededwards).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.6K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: December 04, 2025 at 15:27:30 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 04, 2025 at 20:46:36 EST. The content here updates twice daily or when manually triggered.</sup></sub>
