@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#5 - Upgrade ArgoCD version to v3.1.0](https://github.com/konstructio/manifests/pull/5) on `konstructio/manifests` - <img src="images/github-open.png" width="12px" height="12px"> open
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@jarededwards](https://github.com/jarededwards),
+[@vmware-tanzu](https://github.com/vmware-tanzu),
 [@kubernetes-retired](https://github.com/kubernetes-retired),
-[@sadaram-in](https://github.com/sadaram-in),
-[@kubefirst](https://github.com/kubefirst),
-[@konstructio](https://github.com/konstructio)
-and [@civo](https://github.com/civo).
+[@sadaram-in](https://github.com/sadaram-in)
+and [@kubefirst](https://github.com/kubefirst).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@civo](https://github.com/civo).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.6K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: December 06, 2025 at 07:40:25 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 06, 2025 at 11:24:52 EST. The content here updates twice daily or when manually triggered.</sup></sub>
