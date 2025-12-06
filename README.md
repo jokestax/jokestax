@@ -10,6 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#12 - feat: add rbac template](https://github.com/konstructio/konstruct-templates/pull/12) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#11 - fix: publish](https://github.com/konstructio/konstruct-templates/pull/11) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#10 - fix: publish.yaml](https://github.com/konstructio/konstruct-templates/pull/10) on `konstructio/konstruct-templates` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 * [#9 - feat: add action controllers](https://github.com/konstructio/konstruct-templates/pull/9) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -19,7 +20,6 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#4 - fix: mem](https://github.com/konstructio/konstruct-templates/pull/4) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#3 - use project instead of business](https://github.com/konstructio/konstruct-templates/pull/3) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#6 - upgrade argocd](https://github.com/konstructio/manifests/pull/6) on `konstructio/manifests` - <img src="images/github-open.png" width="12px" height="12px"> open
-* [#5 - Upgrade ArgoCD version to v3.1.0](https://github.com/konstructio/manifests/pull/5) on `konstructio/manifests` - <img src="images/github-open.png" width="12px" height="12px"> open
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@jarededwards](https://github.com/jarededwards),
@@ -53,4 +53,4 @@ and [@kubefirst](https://github.com/kubefirst).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.6K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: December 06, 2025 at 11:24:52 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 06, 2025 at 15:22:32 EST. The content here updates twice daily or when manually triggered.</sup></sub>
