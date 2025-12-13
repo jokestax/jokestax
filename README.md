@@ -10,6 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#4896 - fix: isvc deletion using old label](https://github.com/kserve/kserve/pull/4896) on `kserve/kserve` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#17 - fix: org name](https://github.com/konstructio/konstruct-templates/pull/17) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#16 - Fix deploy](https://github.com/konstructio/konstruct-templates/pull/16) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#15 - fix: deploy wf](https://github.com/konstructio/konstruct-templates/pull/15) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -19,14 +20,13 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#11 - fix: publish](https://github.com/konstructio/konstruct-templates/pull/11) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#10 - fix: publish.yaml](https://github.com/konstructio/konstruct-templates/pull/10) on `konstructio/konstruct-templates` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 * [#9 - feat: add action controllers](https://github.com/konstructio/konstruct-templates/pull/9) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#8 - feat: add workflows](https://github.com/konstructio/konstruct-templates/pull/8) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubefirst](https://github.com/kubefirst),
-[@konstructio](https://github.com/konstructio),
 [@civo](https://github.com/civo),
-[@jarededwards](https://github.com/jarededwards)
-and [@vmware-tanzu](https://github.com/vmware-tanzu).
+[@jarededwards](https://github.com/jarededwards),
+[@vmware-tanzu](https://github.com/vmware-tanzu),
+[@kubernetes-retired](https://github.com/kubernetes-retired)
+and [@sadaram-in](https://github.com/sadaram-in).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@vmware-tanzu](https://github.com/vmware-tanzu).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.6K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: December 13, 2025 at 11:25:52 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 13, 2025 at 15:22:46 EST. The content here updates twice daily or when manually triggered.</sup></sub>
