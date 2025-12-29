@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#12 - feat: add rbac template](https://github.com/konstructio/konstruct-templates/pull/12) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@kserve](https://github.com/kserve),
 [@kubefirst](https://github.com/kubefirst),
-[@NVIDIA](https://github.com/NVIDIA),
 [@civo](https://github.com/civo),
-[@vmware-tanzu](https://github.com/vmware-tanzu)
-and [@sadaram-in](https://github.com/sadaram-in).
+[@jarededwards](https://github.com/jarededwards)
+and [@vmware-tanzu](https://github.com/vmware-tanzu).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@sadaram-in](https://github.com/sadaram-in).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.6K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: December 28, 2025 at 15:24:56 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 28, 2025 at 20:58:42 EST. The content here updates twice daily or when manually triggered.</sup></sub>
