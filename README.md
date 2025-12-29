@@ -23,10 +23,10 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@kserve](https://github.com/kserve),
-[@konstructio](https://github.com/konstructio),
-[@civo](https://github.com/civo),
-[@sadaram-in](https://github.com/sadaram-in)
-and [@NVIDIA](https://github.com/NVIDIA).
+[@jarededwards](https://github.com/jarededwards),
+[@vmware-tanzu](https://github.com/vmware-tanzu),
+[@kubernetes-retired](https://github.com/kubernetes-retired)
+and [@sadaram-in](https://github.com/sadaram-in).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@NVIDIA](https://github.com/NVIDIA).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.6K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: December 28, 2025 at 23:51:18 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: December 29, 2025 at 07:49:30 EST. The content here updates twice daily or when manually triggered.</sup></sub>
