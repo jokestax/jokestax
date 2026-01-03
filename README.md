@@ -2,7 +2,7 @@
 
 ## 🌟 Welcome to My GitHub World!
 
-Hey there! I’m Rishi, a Platform Engineer at [Civo](https://www.civo.com/),[Konstruct](https://kubefirst.io/), specializing in Go and Kubernetes. My journey includes an internship at [Graphene AI](https://grapheneai.com/) where I automated cloud infrastructure with Terraform, and a role at [IRIS NITK](https://iris.nitk.ac.in/hrms/) managing data center operations. I also contributed as Co-chair at the [Web Enthusiasts Club](https://webclub.nitk.ac.in/) in Systems and Security SIG.
+Hey there! I’m Rishi, a Junior Platform Engineer at [Kubefirst](https://kubefirst.io/), specializing in Go and Kubernetes. My journey includes an internship at [Graphene AI](https://grapheneai.com/) where I automated cloud infrastructure with Terraform, and a role at [IRIS NITK](https://iris.nitk.ac.in/hrms/) managing data center operations. I also contributed as Co-chair at the [Web Enthusiasts Club](https://webclub.nitk.ac.in/) in Systems and Security SIG.
 
 Feel free to explore my work, and don’t hesitate to connect with me. Find me on [Twitter](https://x.com/RishixMonk) and [LinkedIn](https://www.linkedin.com/in/mrrishi373/).
 ### 🚀 Recent Public Contributions
@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#12 - feat: add rbac template](https://github.com/konstructio/konstruct-templates/pull/12) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@jarededwards](https://github.com/jarededwards),
-[@kubernetes-retired](https://github.com/kubernetes-retired),
 [@sadaram-in](https://github.com/sadaram-in),
-[@kubefirst](https://github.com/kubefirst)
-and [@civo](https://github.com/civo).
+[@konstructio](https://github.com/konstructio),
+[@civo](https://github.com/civo),
+[@vmware-tanzu](https://github.com/vmware-tanzu)
+and [@kubernetes-retired](https://github.com/kubernetes-retired).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@civo](https://github.com/civo).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.6K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: January 03, 2026 at 01:32:38 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: January 03, 2026 at 02:36:27 EST. The content here updates twice daily or when manually triggered.</sup></sub>
