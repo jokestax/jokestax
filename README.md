@@ -10,6 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#7 - Patch 2](https://github.com/jokestax/alpine-make-vm-image/pull/7) on `jokestax/alpine-make-vm-image` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#1553 - fix: add device rules for AllowDevice.conf when running in legacy mode](https://github.com/NVIDIA/nvidia-container-toolkit/pull/1553) on `NVIDIA/nvidia-container-toolkit` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#6 - Update alpine-make-vm-image](https://github.com/jokestax/alpine-make-vm-image/pull/6) on `jokestax/alpine-make-vm-image` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#53 - non b200](https://github.com/alpinelinux/alpine-make-vm-image/pull/53) on `alpinelinux/alpine-make-vm-image` - <img src="images/github-closed.png" width="12px" height="12px"> closed
@@ -19,14 +20,13 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#15 - fix: deploy wf](https://github.com/konstructio/konstruct-templates/pull/15) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#14 - fix: deploy wf](https://github.com/konstructio/konstruct-templates/pull/14) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#13 - Feat rbac](https://github.com/konstructio/konstruct-templates/pull/13) on `konstructio/konstruct-templates` - <img src="images/github-closed.png" width="12px" height="12px"> closed
-* [#12 - feat: add rbac template](https://github.com/konstructio/konstruct-templates/pull/12) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@NVIDIA](https://github.com/NVIDIA),
+[@kserve](https://github.com/kserve),
 [@vmware-tanzu](https://github.com/vmware-tanzu),
-[@konstructio](https://github.com/konstructio),
-[@civo](https://github.com/civo),
-[@jarededwards](https://github.com/jarededwards)
-and [@kubernetes-retired](https://github.com/kubernetes-retired).
+[@sadaram-in](https://github.com/sadaram-in)
+and [@kubefirst](https://github.com/kubefirst).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@kubernetes-retired](https://github.com/kubernetes-retired).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.6K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: January 07, 2026 at 07:50:30 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: January 07, 2026 at 11:32:55 EST. The content here updates twice daily or when manually triggered.</sup></sub>
