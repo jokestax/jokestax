@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#13 - Feat rbac](https://github.com/konstructio/konstruct-templates/pull/13) on `konstructio/konstruct-templates` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@sadaram-in](https://github.com/sadaram-in),
-[@kubefirst](https://github.com/kubefirst),
-[@kserve](https://github.com/kserve),
-[@konstructio](https://github.com/konstructio)
-and [@civo](https://github.com/civo).
+[@civo](https://github.com/civo),
+[@jarededwards](https://github.com/jarededwards),
+[@vmware-tanzu](https://github.com/vmware-tanzu),
+[@kubernetes-retired](https://github.com/kubernetes-retired)
+and [@sadaram-in](https://github.com/sadaram-in).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@civo](https://github.com/civo).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.6K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: January 09, 2026 at 23:34:37 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: January 10, 2026 at 03:28:49 EST. The content here updates twice daily or when manually triggered.</sup></sub>
