@@ -53,4 +53,4 @@ and [@kserve](https://github.com/kserve).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.6K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: January 19, 2026 at 23:47:11 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: January 20, 2026 at 03:34:56 EST. The content here updates twice daily or when manually triggered.</sup></sub>
