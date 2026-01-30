@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#14 - fix: deploy wf](https://github.com/konstructio/konstruct-templates/pull/14) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@sadaram-in](https://github.com/sadaram-in),
-[@kubefirst](https://github.com/kubefirst),
-[@civo](https://github.com/civo),
-[@kserve](https://github.com/kserve)
-and [@konstructio](https://github.com/konstructio).
+[@kserve](https://github.com/kserve),
+[@konstructio](https://github.com/konstructio),
+[@jarededwards](https://github.com/jarededwards),
+[@vmware-tanzu](https://github.com/vmware-tanzu)
+and [@kubernetes-retired](https://github.com/kubernetes-retired).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@konstructio](https://github.com/konstructio).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.6K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: January 30, 2026 at 07:59:46 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: January 30, 2026 at 11:41:17 EST. The content here updates twice daily or when manually triggered.</sup></sub>
