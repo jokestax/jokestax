@@ -41,7 +41,7 @@ and [@kubefirst](https://github.com/kubefirst).
 * [patrickdappollonio/helm-list-charts](https://github.com/patrickdappollonio/helm-list-charts) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 2 ⭐️
 * [flatcar/mantle](https://github.com/flatcar/mantle) from [@flatcar](https://github.com/flatcar) with 41 ⭐️
 * [civo/civogo](https://github.com/civo/civogo) from [@civo](https://github.com/civo) with 45 ⭐️
-* [juanfont/headscale](https://github.com/juanfont/headscale) from [@juanfont](https://github.com/juanfont) with 34.7K ⭐️
+* [juanfont/headscale](https://github.com/juanfont/headscale) from [@juanfont](https://github.com/juanfont) with 34.8K ⭐️
 * [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 96 ⭐️
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 * [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) from [@mrsimonemms](https://github.com/mrsimonemms) with 2 ⭐️
@@ -53,4 +53,4 @@ and [@kubefirst](https://github.com/kubefirst).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.6K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: February 01, 2026 at 11:32:21 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: February 01, 2026 at 15:28:43 EST. The content here updates twice daily or when manually triggered.</sup></sub>
