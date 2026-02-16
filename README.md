@@ -11,7 +11,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 
 
 * [#7 - Update argocd to 3.3.0](https://github.com/konstructio/manifests/pull/7) on `konstructio/manifests` - <img src="images/github-open.png" width="12px" height="12px"> open
-* [#21 - Feat cp](https://github.com/konstructio/konstruct-templates/pull/21) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#21 - feat: add control plane template](https://github.com/konstructio/konstruct-templates/pull/21) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#20 - Feat 0.3](https://github.com/konstructio/konstruct-templates/pull/20) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#19 - feat: 0.3](https://github.com/konstructio/konstruct-templates/pull/19) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#201 - feat: add resource alloc info for worker nodes](https://github.com/civo/docs/pull/201) on `civo/docs` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#4896 - fix: isvc deletion using old label](https://github.com/kserve/kserve/pull/4896) on `kserve/kserve` - <img src="images/github-open.png" width="12px" height="12px"> open
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@sadaram-in](https://github.com/sadaram-in),
 [@konstructio](https://github.com/konstructio),
 [@civo](https://github.com/civo),
-[@kserve](https://github.com/kserve)
-and [@jarededwards](https://github.com/jarededwards).
+[@kserve](https://github.com/kserve),
+[@jarededwards](https://github.com/jarededwards)
+and [@kubernetes-retired](https://github.com/kubernetes-retired).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@jarededwards](https://github.com/jarededwards).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.6K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: February 16, 2026 at 03:51:41 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: February 16, 2026 at 08:07:45 EST. The content here updates twice daily or when manually triggered.</sup></sub>
