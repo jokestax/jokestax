@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#6 - Update alpine-make-vm-image](https://github.com/jokestax/alpine-make-vm-image/pull/6) on `jokestax/alpine-make-vm-image` - <img src="images/github-open.png" width="12px" height="12px"> open
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubernetes-retired](https://github.com/kubernetes-retired),
-[@sadaram-in](https://github.com/sadaram-in),
-[@konstructio](https://github.com/konstructio),
-[@civo](https://github.com/civo)
-and [@kserve](https://github.com/kserve).
+[@civo](https://github.com/civo),
+[@kserve](https://github.com/kserve),
+[@jarededwards](https://github.com/jarededwards),
+[@kubernetes-retired](https://github.com/kubernetes-retired)
+and [@sadaram-in](https://github.com/sadaram-in).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@kserve](https://github.com/kserve).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.6K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: February 18, 2026 at 15:41:08 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: February 18, 2026 at 21:25:07 EST. The content here updates twice daily or when manually triggered.</sup></sub>
