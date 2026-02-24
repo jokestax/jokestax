@@ -50,7 +50,7 @@ and [@kubernetes-retired](https://github.com/kubernetes-retired).
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 2.10K ⭐️
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.8K ⭐️
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.8K ⭐️
-* [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.7K ⭐️
+* [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.6K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: February 24, 2026 at 12:06:58 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: February 24, 2026 at 15:38:02 EST. The content here updates twice daily or when manually triggered.</sup></sub>
