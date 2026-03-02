@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#1553 - fix: add device rules for AllowDevice.conf when running in legacy mode](https://github.com/NVIDIA/nvidia-container-toolkit/pull/1553) on `NVIDIA/nvidia-container-toolkit` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubernetes-retired](https://github.com/kubernetes-retired),
-[@sadaram-in](https://github.com/sadaram-in),
 [@konstructio](https://github.com/konstructio),
-[@civo](https://github.com/civo)
-and [@jarededwards](https://github.com/jarededwards).
+[@civo](https://github.com/civo),
+[@jarededwards](https://github.com/jarededwards),
+[@kubernetes-retired](https://github.com/kubernetes-retired)
+and [@sadaram-in](https://github.com/sadaram-in).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@jarededwards](https://github.com/jarededwards).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.7K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: March 02, 2026 at 00:15:31 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: March 02, 2026 at 03:49:47 EST. The content here updates twice daily or when manually triggered.</sup></sub>
