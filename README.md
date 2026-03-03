@@ -10,6 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#2 - feat: use github app](https://github.com/konstructio/provider-terraform/pull/2) on `konstructio/provider-terraform` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#24 - feat: add Civo Project cluster template](https://github.com/konstructio/konstruct-templates/pull/24) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#23 - add secret for external dns](https://github.com/konstructio/konstruct-templates/pull/23) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#22 - feat: add token for external dns](https://github.com/konstructio/konstruct-templates/pull/22) on `konstructio/konstruct-templates` - <img src="images/github-closed.png" width="12px" height="12px"> closed
@@ -19,14 +20,13 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#19 - feat: 0.3](https://github.com/konstructio/konstruct-templates/pull/19) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#201 - feat: add resource alloc info for worker nodes](https://github.com/civo/docs/pull/201) on `civo/docs` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#7 - Patch 2](https://github.com/jokestax/alpine-make-vm-image/pull/7) on `jokestax/alpine-make-vm-image` - <img src="images/github-open.png" width="12px" height="12px"> open
-* [#1553 - fix: add device rules for AllowDevice.conf when running in legacy mode](https://github.com/NVIDIA/nvidia-container-toolkit/pull/1553) on `NVIDIA/nvidia-container-toolkit` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@konstructio](https://github.com/konstructio),
 [@civo](https://github.com/civo),
 [@jarededwards](https://github.com/jarededwards),
-[@kubernetes-retired](https://github.com/kubernetes-retired),
-[@sadaram-in](https://github.com/sadaram-in)
-and [@konstructio](https://github.com/konstructio).
+[@kubernetes-retired](https://github.com/kubernetes-retired)
+and [@sadaram-in](https://github.com/sadaram-in).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -41,7 +41,7 @@ and [@konstructio](https://github.com/konstructio).
 * [patrickdappollonio/helm-list-charts](https://github.com/patrickdappollonio/helm-list-charts) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 2 ⭐️
 * [flatcar/mantle](https://github.com/flatcar/mantle) from [@flatcar](https://github.com/flatcar) with 41 ⭐️
 * [civo/civogo](https://github.com/civo/civogo) from [@civo](https://github.com/civo) with 45 ⭐️
-* [juanfont/headscale](https://github.com/juanfont/headscale) from [@juanfont](https://github.com/juanfont) with 36K ⭐️
+* [juanfont/headscale](https://github.com/juanfont/headscale) from [@juanfont](https://github.com/juanfont) with 36.1K ⭐️
 * [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 98 ⭐️
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 11 ⭐️
 * [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) from [@mrsimonemms](https://github.com/mrsimonemms) with 2 ⭐️
@@ -53,4 +53,4 @@ and [@konstructio](https://github.com/konstructio).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.7K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: March 03, 2026 at 11:51:58 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: March 03, 2026 at 15:34:29 EST. The content here updates twice daily or when manually triggered.</sup></sub>
