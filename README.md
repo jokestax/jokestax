@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#201 - feat: add resource alloc info for worker nodes](https://github.com/civo/docs/pull/201) on `civo/docs` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@kubernetes-retired](https://github.com/kubernetes-retired),
+[@sadaram-in](https://github.com/sadaram-in),
 [@konstructio](https://github.com/konstructio),
-[@civo](https://github.com/civo),
-[@jarededwards](https://github.com/jarededwards),
-[@kubernetes-retired](https://github.com/kubernetes-retired)
-and [@sadaram-in](https://github.com/sadaram-in).
+[@civo](https://github.com/civo)
+and [@jarededwards](https://github.com/jarededwards).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -41,8 +41,8 @@ and [@sadaram-in](https://github.com/sadaram-in).
 * [patrickdappollonio/helm-list-charts](https://github.com/patrickdappollonio/helm-list-charts) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 2 ⭐️
 * [flatcar/mantle](https://github.com/flatcar/mantle) from [@flatcar](https://github.com/flatcar) with 42 ⭐️
 * [civo/civogo](https://github.com/civo/civogo) from [@civo](https://github.com/civo) with 45 ⭐️
-* [juanfont/headscale](https://github.com/juanfont/headscale) from [@juanfont](https://github.com/juanfont) with 36.3K ⭐️
-* [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 98 ⭐️
+* [juanfont/headscale](https://github.com/juanfont/headscale) from [@juanfont](https://github.com/juanfont) with 36.4K ⭐️
+* [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 99 ⭐️
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 11 ⭐️
 * [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) from [@mrsimonemms](https://github.com/mrsimonemms) with 2 ⭐️
 * [douglasmakey/admissioncontroller](https://github.com/douglasmakey/admissioncontroller) from [@douglasmakey](https://github.com/douglasmakey) with 28 ⭐️
@@ -53,4 +53,4 @@ and [@sadaram-in](https://github.com/sadaram-in).
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.7K ⭐️
 * [konstructio/charts-mirror](https://github.com/konstructio/charts-mirror) from [@konstructio](https://github.com/konstructio) with 10 ⭐️
 
-<sup><sub>Last updated: March 12, 2026 at 22:12:29 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: March 13, 2026 at 01:13:07 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
