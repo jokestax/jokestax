@@ -47,9 +47,9 @@ and [@kubernetes-retired](https://github.com/kubernetes-retired).
 * [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) from [@mrsimonemms](https://github.com/mrsimonemms) with 2 ⭐️
 * [douglasmakey/admissioncontroller](https://github.com/douglasmakey/admissioncontroller) from [@douglasmakey](https://github.com/douglasmakey) with 28 ⭐️
 * [konstructio/workpool](https://github.com/konstructio/workpool) from [@konstructio](https://github.com/konstructio) with 2 ⭐️
-* [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 3.1K ⭐️
+* [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 3.2K ⭐️
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.8K ⭐️
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.8K ⭐️
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.7K ⭐️
 
-<sup><sub>Last updated: April 16, 2026 at 05:21:25 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: April 16, 2026 at 09:49:20 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
