@@ -22,10 +22,10 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#21 - feat: add control plane template](https://github.com/konstructio/konstruct-templates/pull/21) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@civo](https://github.com/civo),
 [@konstructio](https://github.com/konstructio),
-[@jarededwards](https://github.com/jarededwards)
-and [@kubernetes-retired](https://github.com/kubernetes-retired).
+[@jarededwards](https://github.com/jarededwards),
+[@kubernetes-retired](https://github.com/kubernetes-retired)
+and [@civo](https://github.com/civo).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -52,4 +52,4 @@ and [@kubernetes-retired](https://github.com/kubernetes-retired).
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.8K ⭐️
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.7K ⭐️
 
-<sup><sub>Last updated: April 20, 2026 at 09:46:05 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: April 20, 2026 at 13:05:13 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
