@@ -10,6 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#211 - docs: update GPU operator guide with Civo-tuned flags and H100 NVLink…](https://github.com/civo/docs/pull/211) on `civo/docs` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#32 - bootstrap templates](https://github.com/konstructio/konstruct-templates/pull/32) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#1 - retest](https://github.com/jd-konstruct-dd-dryrun/zippaphor/pull/1) on `jd-konstruct-dd-dryrun/zippaphor` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 * [#3 - feat: collect metrics](https://github.com/konstructio/provider-terraform/pull/3) on `konstructio/provider-terraform` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -19,11 +20,10 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#22 - feat: add token for external dns](https://github.com/konstructio/konstruct-templates/pull/22) on `konstructio/konstruct-templates` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 * [#7 - Update argocd to 3.3.0](https://github.com/konstructio/manifests/pull/7) on `konstructio/manifests` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#21 - feat: add control plane template](https://github.com/konstructio/konstruct-templates/pull/21) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#20 - Feat 0.3](https://github.com/konstructio/konstruct-templates/pull/20) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
 [@civo](https://github.com/civo),
+[@konstructio](https://github.com/konstructio),
 [@jarededwards](https://github.com/jarededwards)
 and [@kubernetes-retired](https://github.com/kubernetes-retired).
 ### ⭐ New third-party projects I'm keeping an eye on
@@ -52,4 +52,4 @@ and [@kubernetes-retired](https://github.com/kubernetes-retired).
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.8K ⭐️
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.7K ⭐️
 
-<sup><sub>Last updated: April 20, 2026 at 02:15:37 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: April 20, 2026 at 05:59:05 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
