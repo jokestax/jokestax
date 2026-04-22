@@ -31,7 +31,7 @@ and [@kubernetes-retired](https://github.com/kubernetes-retired).
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
-* [patrickdappollonio/dux](https://github.com/patrickdappollonio/dux) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 15 ⭐️
+* [patrickdappollonio/dux](https://github.com/patrickdappollonio/dux) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 16 ⭐️
 * [gavinbunney/terraform-provider-kubectl](https://github.com/gavinbunney/terraform-provider-kubectl) from [@gavinbunney](https://github.com/gavinbunney) with 687 ⭐️
 * [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 801 ⭐️
 * [cilium/little-vm-helper](https://github.com/cilium/little-vm-helper) from [@cilium](https://github.com/cilium) with 116 ⭐️
@@ -52,4 +52,4 @@ and [@kubernetes-retired](https://github.com/kubernetes-retired).
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.8K ⭐️
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.7K ⭐️
 
-<sup><sub>Last updated: April 21, 2026 at 22:43:33 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: April 22, 2026 at 02:00:39 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
