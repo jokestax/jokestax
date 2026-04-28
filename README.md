@@ -5,6 +5,26 @@
 Hey there! I’m Rishi, a Platform Engineer at [Civo](https://www.civo.com/),[Konstruct](https://konstruct.io/), specializing in Go and Kubernetes. My journey includes an internship at [Graphene AI](https://grapheneai.com/) where I automated cloud infrastructure with Terraform, and a role at [IRIS NITK](https://iris.nitk.ac.in/hrms/) managing data center operations. I also contributed as Co-chair at the [Web Enthusiasts Club](https://webclub.nitk.ac.in/) in Systems and Security SIG.
 
 Feel free to explore my work, and don’t hesitate to connect with me. Find me on [Twitter](https://x.com/RishixMonk) and [LinkedIn](https://www.linkedin.com/in/mrrishi373/).
+### 🚀 Recent Public Contributions
+
+*Pull Requests I've opened or contributed to recently, only public repositories are visible.*
+
+
+* [#43 - fix: bump grpc and opentelemetry to resolve dependabot alerts](https://github.com/civo/civo-cloud-controller-manager/pull/43) on `civo/civo-cloud-controller-manager` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#211 - docs: update GPU operator guide with Civo-tuned flags and H100 NVLink…](https://github.com/civo/docs/pull/211) on `civo/docs` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#32 - bootstrap templates](https://github.com/konstructio/konstruct-templates/pull/32) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#3 - feat: collect metrics](https://github.com/konstructio/provider-terraform/pull/3) on `konstructio/provider-terraform` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#2 - feat: use github app](https://github.com/konstructio/provider-terraform/pull/2) on `konstructio/provider-terraform` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#24 - feat: add Civo Project cluster template](https://github.com/konstructio/konstruct-templates/pull/24) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#7 - Update argocd to 3.3.0](https://github.com/konstructio/manifests/pull/7) on `konstructio/manifests` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#21 - feat: add control plane template](https://github.com/konstructio/konstruct-templates/pull/21) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#20 - Feat 0.3](https://github.com/konstructio/konstruct-templates/pull/20) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#19 - feat: 0.3](https://github.com/konstructio/konstruct-templates/pull/19) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+
+Overall, my most recent contributions (besides my own repos) have gone to 
+[@jarededwards](https://github.com/jarededwards),
+[@civo](https://github.com/civo)
+and [@konstructio](https://github.com/konstructio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -31,4 +51,4 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.8K ⭐️
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.7K ⭐️
 
-<sup><sub>Last updated: April 27, 2026 at 17:03:51 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: April 27, 2026 at 23:25:21 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
