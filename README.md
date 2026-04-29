@@ -13,20 +13,19 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#43 - fix: bump grpc and opentelemetry to resolve dependabot alerts](https://github.com/civo/civo-cloud-controller-manager/pull/43) on `civo/civo-cloud-controller-manager` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#211 - docs: update GPU operator guide with Civo-tuned flags and H100 NVLink…](https://github.com/civo/docs/pull/211) on `civo/docs` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#32 - bootstrap templates](https://github.com/konstructio/konstruct-templates/pull/32) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#1 - retest](https://github.com/jd-konstruct-dd-dryrun/zippaphor/pull/1) on `jd-konstruct-dd-dryrun/zippaphor` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 * [#3 - feat: collect metrics](https://github.com/konstructio/provider-terraform/pull/3) on `konstructio/provider-terraform` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#2 - feat: use github app](https://github.com/konstructio/provider-terraform/pull/2) on `konstructio/provider-terraform` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#24 - feat: add Civo Project cluster template](https://github.com/konstructio/konstruct-templates/pull/24) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#23 - add secret for external dns](https://github.com/konstructio/konstruct-templates/pull/23) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#22 - feat: add token for external dns](https://github.com/konstructio/konstruct-templates/pull/22) on `konstructio/konstruct-templates` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 * [#7 - Update argocd to 3.3.0](https://github.com/konstructio/manifests/pull/7) on `konstructio/manifests` - <img src="images/github-open.png" width="12px" height="12px"> open
-* [#21 - feat: add control plane template](https://github.com/konstructio/konstruct-templates/pull/21) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#20 - Feat 0.3](https://github.com/konstructio/konstruct-templates/pull/20) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#19 - feat: 0.3](https://github.com/konstructio/konstruct-templates/pull/19) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@jarededwards](https://github.com/jarededwards),
-[@kubernetes-retired](https://github.com/kubernetes-retired),
-[@sadaram-in](https://github.com/sadaram-in),
-[@civo](https://github.com/civo)
-and [@konstructio](https://github.com/konstructio).
+[@civo](https://github.com/civo),
+[@konstructio](https://github.com/konstructio),
+[@jarededwards](https://github.com/jarededwards)
+and [@kubernetes-retired](https://github.com/kubernetes-retired).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +52,4 @@ and [@konstructio](https://github.com/konstructio).
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.8K ⭐️
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.7K ⭐️
 
-<sup><sub>Last updated: April 29, 2026 at 13:40:01 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: April 29, 2026 at 17:07:31 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
