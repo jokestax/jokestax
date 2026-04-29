@@ -22,6 +22,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#19 - feat: 0.3](https://github.com/konstructio/konstruct-templates/pull/19) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@patrickdappollonio](https://github.com/patrickdappollonio),
 [@civo](https://github.com/civo),
 [@konstructio](https://github.com/konstructio)
 and [@jarededwards](https://github.com/jarededwards).
@@ -51,4 +52,4 @@ and [@jarededwards](https://github.com/jarededwards).
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.8K ⭐️
 * [uber/kraken](https://github.com/uber/kraken) from [@uber](https://github.com/uber) with 6.7K ⭐️
 
-<sup><sub>Last updated: April 29, 2026 at 02:24:11 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: April 29, 2026 at 06:06:49 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
