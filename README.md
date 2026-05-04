@@ -10,6 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#34 - Update inputs section in kubefirst.yaml](https://github.com/konstructio/konstruct-templates/pull/34) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#43 - fix: bump grpc and opentelemetry to resolve dependabot alerts](https://github.com/civo/civo-cloud-controller-manager/pull/43) on `civo/civo-cloud-controller-manager` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#211 - docs: update GPU operator guide with Civo-tuned flags and H100 NVLink…](https://github.com/civo/docs/pull/211) on `civo/docs` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#32 - bootstrap templates](https://github.com/konstructio/konstruct-templates/pull/32) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
@@ -19,12 +20,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#24 - feat: add Civo Project cluster template](https://github.com/konstructio/konstruct-templates/pull/24) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#23 - add secret for external dns](https://github.com/konstructio/konstruct-templates/pull/23) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#22 - feat: add token for external dns](https://github.com/konstructio/konstruct-templates/pull/22) on `konstructio/konstruct-templates` - <img src="images/github-closed.png" width="12px" height="12px"> closed
-* [#7 - Update argocd to 3.3.0](https://github.com/konstructio/manifests/pull/7) on `konstructio/manifests` - <img src="images/github-open.png" width="12px" height="12px"> open
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@civo](https://github.com/civo),
 [@jarededwards](https://github.com/jarededwards),
-[@kubernetes-retired](https://github.com/kubernetes-retired),
-[@civo](https://github.com/civo)
+[@kubernetes-retired](https://github.com/kubernetes-retired)
 and [@konstructio](https://github.com/konstructio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
@@ -52,4 +52,4 @@ and [@konstructio](https://github.com/konstructio).
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.8K ⭐️
 
-<sup><sub>Last updated: May 04, 2026 at 02:39:05 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: May 04, 2026 at 06:14:48 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
