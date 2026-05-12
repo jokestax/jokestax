@@ -22,10 +22,10 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#22 - feat: add token for external dns](https://github.com/konstructio/konstruct-templates/pull/22) on `konstructio/konstruct-templates` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@jarededwards](https://github.com/jarededwards),
 [@kubernetes-retired](https://github.com/kubernetes-retired),
-[@konstructio](https://github.com/konstructio),
-[@civo](https://github.com/civo)
-and [@jarededwards](https://github.com/jarededwards).
+[@konstructio](https://github.com/konstructio)
+and [@civo](https://github.com/civo).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -52,4 +52,4 @@ and [@jarededwards](https://github.com/jarededwards).
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.8K ⭐️
 
-<sup><sub>Last updated: May 12, 2026 at 14:00:02 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: May 12, 2026 at 17:21:08 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
