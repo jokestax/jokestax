@@ -10,6 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#14053 - feat: add k3s-owned systemd watchdog notifier](https://github.com/k3s-io/k3s/pull/14053) on `k3s-io/k3s` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#34 - Update inputs section in kubefirst.yaml](https://github.com/konstructio/konstruct-templates/pull/34) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#43 - fix: bump grpc and opentelemetry to resolve dependabot alerts](https://github.com/civo/civo-cloud-controller-manager/pull/43) on `civo/civo-cloud-controller-manager` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#211 - docs: update GPU operator guide with Civo-tuned flags and H100 NVLink…](https://github.com/civo/docs/pull/211) on `civo/docs` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -19,9 +20,9 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#2 - feat: use github app](https://github.com/konstructio/provider-terraform/pull/2) on `konstructio/provider-terraform` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#24 - feat: add Civo Project cluster template](https://github.com/konstructio/konstruct-templates/pull/24) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#23 - add secret for external dns](https://github.com/konstructio/konstruct-templates/pull/23) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#22 - feat: add token for external dns](https://github.com/konstructio/konstruct-templates/pull/22) on `konstructio/konstruct-templates` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@k3s-io](https://github.com/k3s-io),
 [@konstructio](https://github.com/konstructio),
 [@civo](https://github.com/civo),
 [@jarededwards](https://github.com/jarededwards)
@@ -31,7 +32,7 @@ and [@kubernetes-retired](https://github.com/kubernetes-retired).
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
-* [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 412 ⭐️
+* [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 413 ⭐️
 * [patrickdappollonio/dux](https://github.com/patrickdappollonio/dux) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 28 ⭐️
 * [gavinbunney/terraform-provider-kubectl](https://github.com/gavinbunney/terraform-provider-kubectl) from [@gavinbunney](https://github.com/gavinbunney) with 686 ⭐️
 * [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 818 ⭐️
@@ -52,4 +53,4 @@ and [@kubernetes-retired](https://github.com/kubernetes-retired).
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.8K ⭐️
 
-<sup><sub>Last updated: May 13, 2026 at 06:28:59 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: May 13, 2026 at 09:30:54 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
