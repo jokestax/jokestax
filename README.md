@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#23 - add secret for external dns](https://github.com/konstructio/konstruct-templates/pull/23) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@k3s-io](https://github.com/k3s-io),
 [@konstructio](https://github.com/konstructio),
 [@civo](https://github.com/civo),
-[@jarededwards](https://github.com/jarededwards)
-and [@kubernetes-retired](https://github.com/kubernetes-retired).
+[@jarededwards](https://github.com/jarededwards),
+[@kubernetes-retired](https://github.com/kubernetes-retired)
+and [@k3s-io](https://github.com/k3s-io).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -43,7 +43,7 @@ and [@kubernetes-retired](https://github.com/kubernetes-retired).
 * [patrickdappollonio/helm-list-charts](https://github.com/patrickdappollonio/helm-list-charts) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 2 ⭐️
 * [flatcar/mantle](https://github.com/flatcar/mantle) from [@flatcar](https://github.com/flatcar) with 42 ⭐️
 * [civo/civogo](https://github.com/civo/civogo) from [@civo](https://github.com/civo) with 45 ⭐️
-* [juanfont/headscale](https://github.com/juanfont/headscale) from [@juanfont](https://github.com/juanfont) with 38.3K ⭐️
+* [juanfont/headscale](https://github.com/juanfont/headscale) from [@juanfont](https://github.com/juanfont) with 38.4K ⭐️
 * [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 100 ⭐️
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 11 ⭐️
 * [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) from [@mrsimonemms](https://github.com/mrsimonemms) with 2 ⭐️
@@ -53,4 +53,4 @@ and [@kubernetes-retired](https://github.com/kubernetes-retired).
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.8K ⭐️
 
-<sup><sub>Last updated: May 14, 2026 at 02:46:35 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: May 14, 2026 at 06:19:16 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
