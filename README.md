@@ -33,7 +33,7 @@ and [@civo](https://github.com/civo).
 
 
 * [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 420 ⭐️
-* [patrickdappollonio/dux](https://github.com/patrickdappollonio/dux) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 30 ⭐️
+* [patrickdappollonio/dux](https://github.com/patrickdappollonio/dux) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 31 ⭐️
 * [gavinbunney/terraform-provider-kubectl](https://github.com/gavinbunney/terraform-provider-kubectl) from [@gavinbunney](https://github.com/gavinbunney) with 686 ⭐️
 * [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 825 ⭐️
 * [cilium/little-vm-helper](https://github.com/cilium/little-vm-helper) from [@cilium](https://github.com/cilium) with 118 ⭐️
@@ -53,4 +53,4 @@ and [@civo](https://github.com/civo).
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.8K ⭐️
 
-<sup><sub>Last updated: May 19, 2026 at 03:47:51 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: May 19, 2026 at 07:19:20 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
