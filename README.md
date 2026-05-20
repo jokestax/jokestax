@@ -10,6 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#36 - Add dynamo platform catalog](https://github.com/konstructio/konstruct-templates/pull/36) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#35 - feat: import GitOps catalog items from saas-rishi](https://github.com/konstructio/konstruct-templates/pull/35) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#14053 - feat: add k3s-owned systemd watchdog notifier](https://github.com/k3s-io/k3s/pull/14053) on `k3s-io/k3s` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#34 - Update inputs section in kubefirst.yaml](https://github.com/konstructio/konstruct-templates/pull/34) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
@@ -19,14 +20,13 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#1 - retest](https://github.com/jd-konstruct-dd-dryrun/zippaphor/pull/1) on `jd-konstruct-dd-dryrun/zippaphor` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 * [#3 - feat: collect metrics](https://github.com/konstructio/provider-terraform/pull/3) on `konstructio/provider-terraform` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#2 - feat: use github app](https://github.com/konstructio/provider-terraform/pull/2) on `konstructio/provider-terraform` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#24 - feat: add Civo Project cluster template](https://github.com/konstructio/konstruct-templates/pull/24) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
-[@k3s-io](https://github.com/k3s-io),
 [@civo](https://github.com/civo),
-[@jarededwards](https://github.com/jarededwards)
-and [@kubernetes-retired](https://github.com/kubernetes-retired).
+[@jarededwards](https://github.com/jarededwards),
+[@kubernetes-retired](https://github.com/kubernetes-retired),
+[@konstructio](https://github.com/konstructio)
+and [@k3s-io](https://github.com/k3s-io).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@kubernetes-retired](https://github.com/kubernetes-retired).
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.8K ⭐️
 
-<sup><sub>Last updated: May 20, 2026 at 03:44:57 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: May 20, 2026 at 06:51:17 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
