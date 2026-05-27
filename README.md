@@ -22,11 +22,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#3 - feat: collect metrics](https://github.com/konstructio/provider-terraform/pull/3) on `konstructio/provider-terraform` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@kubernetes-retired](https://github.com/kubernetes-retired),
 [@cilium](https://github.com/cilium),
 [@konstructio](https://github.com/konstructio),
-[@k3s-io](https://github.com/k3s-io)
-and [@civo](https://github.com/civo).
+[@k3s-io](https://github.com/k3s-io),
+[@civo](https://github.com/civo)
+and [@jarededwards](https://github.com/jarededwards).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@civo](https://github.com/civo).
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.8K ⭐️
 
-<sup><sub>Last updated: May 27, 2026 at 11:48:12 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: May 27, 2026 at 14:27:00 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
