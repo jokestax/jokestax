@@ -10,23 +10,23 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#44 - fix: cert-manager + gateway plumbing so HTTPS listeners actually resolve](https://github.com/konstructio/konstruct-templates/pull/44) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#43 - fix(envoy-gateway): drop oci:// prefix from chart repoURL](https://github.com/konstructio/konstruct-templates/pull/43) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#42 - feat(envoy-gateway): Gateway + GatewayClass + EnvoyProxy with route-scoped listeners](https://github.com/konstructio/konstruct-templates/pull/42) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#41 - feat: match controlplane-template argocd components to rr23](https://github.com/konstructio/konstruct-templates/pull/41) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#40 - feat: add templates/civo/{project,workload}-cluster + terraform updates](https://github.com/konstructio/konstruct-templates/pull/40) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#39 - chore: pin chart versions to match the rr23 reference cluster](https://github.com/konstructio/konstruct-templates/pull/39) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#38 - feat: provider-aware controlplane chart (vault, envoy, gitlab)](https://github.com/konstructio/konstruct-templates/pull/38) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#37 - Hotfix gitlab](https://github.com/konstructio/konstruct-templates/pull/37) on `konstructio/konstruct-templates` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 * [#46156 - docs/helm: fix keepCapNetBindService typo in chart docs](https://github.com/cilium/cilium/pull/46156) on `cilium/cilium` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#36 - Add dynamo platform catalog](https://github.com/konstructio/konstruct-templates/pull/36) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#35 - feat: import GitOps catalog items from saas-rishi](https://github.com/konstructio/konstruct-templates/pull/35) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#14053 - feat: add k3s-owned systemd watchdog notifier](https://github.com/k3s-io/k3s/pull/14053) on `k3s-io/k3s` - <img src="images/github-open.png" width="12px" height="12px"> open
-* [#34 - Update inputs section in kubefirst.yaml](https://github.com/konstructio/konstruct-templates/pull/34) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
-* [#43 - fix: bump grpc and opentelemetry to resolve dependabot alerts](https://github.com/civo/civo-cloud-controller-manager/pull/43) on `civo/civo-cloud-controller-manager` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
 [@cilium](https://github.com/cilium),
 [@k3s-io](https://github.com/k3s-io),
-[@civo](https://github.com/civo)
-and [@jarededwards](https://github.com/jarededwards).
+[@civo](https://github.com/civo),
+[@jarededwards](https://github.com/jarededwards)
+and [@konstructio](https://github.com/konstructio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -53,4 +53,4 @@ and [@jarededwards](https://github.com/jarededwards).
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.8K ⭐️
 
-<sup><sub>Last updated: May 29, 2026 at 14:34:29 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: May 29, 2026 at 17:51:48 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
