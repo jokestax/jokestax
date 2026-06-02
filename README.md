@@ -10,6 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#46 - feat(controlplane-template): add konstruct-clusters ArgoCD Application](https://github.com/konstructio/konstruct-templates/pull/46) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#45 - fix(dex): switch from ingress to HTTPRoute](https://github.com/konstructio/konstruct-templates/pull/45) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#44 - fix: cert-manager + gateway plumbing so HTTPS listeners actually resolve](https://github.com/konstructio/konstruct-templates/pull/44) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#43 - fix(envoy-gateway): drop oci:// prefix from chart repoURL](https://github.com/konstructio/konstruct-templates/pull/43) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -19,20 +20,19 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#39 - chore: pin chart versions to match the rr23 reference cluster](https://github.com/konstructio/konstruct-templates/pull/39) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#38 - feat: provider-aware controlplane chart (vault, envoy, gitlab)](https://github.com/konstructio/konstruct-templates/pull/38) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#37 - Hotfix gitlab](https://github.com/konstructio/konstruct-templates/pull/37) on `konstructio/konstruct-templates` - <img src="images/github-closed.png" width="12px" height="12px"> closed
-* [#46156 - docs/helm: fix keepCapNetBindService typo in chart docs](https://github.com/cilium/cilium/pull/46156) on `cilium/cilium` - <img src="images/github-open.png" width="12px" height="12px"> open
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@civo](https://github.com/civo),
 [@jarededwards](https://github.com/jarededwards),
 [@konstructio](https://github.com/konstructio),
-[@cilium](https://github.com/cilium),
-[@k3s-io](https://github.com/k3s-io)
-and [@civo](https://github.com/civo).
+[@cilium](https://github.com/cilium)
+and [@k3s-io](https://github.com/k3s-io).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
-* [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 427 ⭐️
+* [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 428 ⭐️
 * [patrickdappollonio/dux](https://github.com/patrickdappollonio/dux) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 48 ⭐️
 * [gavinbunney/terraform-provider-kubectl](https://github.com/gavinbunney/terraform-provider-kubectl) from [@gavinbunney](https://github.com/gavinbunney) with 686 ⭐️
 * [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 833 ⭐️
@@ -53,4 +53,4 @@ and [@civo](https://github.com/civo).
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.8K ⭐️
 
-<sup><sub>Last updated: June 02, 2026 at 00:08:28 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: June 02, 2026 at 08:04:31 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
