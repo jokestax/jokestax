@@ -10,7 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
-* [#51 - refactor(token-refresher): rename to git-token-refresher + gate on gitProvider](https://github.com/konstructio/konstruct-templates/pull/51) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#51 - refactor(token-refresher): rename to git-token-refresher + gate on gitProvider](https://github.com/konstructio/konstruct-templates/pull/51) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#50 - feat(project-cluster): install Gateway API CRDs before cert-manager](https://github.com/konstructio/konstruct-templates/pull/50) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#49 - fix(envoy-gateway): align https-logs listener with logs.<domain> hostname](https://github.com/konstructio/konstruct-templates/pull/49) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#48 - chore: drop templates/civo-workload-cluster (superseded by templates/civo/workload-cluster)](https://github.com/konstructio/konstruct-templates/pull/48) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -53,4 +53,4 @@ and [@jarededwards](https://github.com/jarededwards).
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.8K ⭐️
 
-<sup><sub>Last updated: June 02, 2026 at 15:41:08 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: June 02, 2026 at 18:22:38 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
