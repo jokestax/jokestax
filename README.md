@@ -10,6 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#52 - feat(workflows): GitLab CI equivalents of deploy + publish](https://github.com/konstructio/konstruct-templates/pull/52) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#51 - refactor(token-refresher): rename to git-token-refresher + gate on gitProvider](https://github.com/konstructio/konstruct-templates/pull/51) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#50 - feat(project-cluster): install Gateway API CRDs before cert-manager](https://github.com/konstructio/konstruct-templates/pull/50) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#49 - fix(envoy-gateway): align https-logs listener with logs.<domain> hostname](https://github.com/konstructio/konstruct-templates/pull/49) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -19,21 +20,19 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#45 - fix(dex): switch from ingress to HTTPRoute](https://github.com/konstructio/konstruct-templates/pull/45) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#44 - fix: cert-manager + gateway plumbing so HTTPS listeners actually resolve](https://github.com/konstructio/konstruct-templates/pull/44) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#43 - fix(envoy-gateway): drop oci:// prefix from chart repoURL](https://github.com/konstructio/konstruct-templates/pull/43) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#42 - feat(envoy-gateway): Gateway + GatewayClass + EnvoyProxy with route-scoped listeners](https://github.com/konstructio/konstruct-templates/pull/42) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@civo](https://github.com/civo),
 [@jarededwards](https://github.com/jarededwards),
-[@konstructio](https://github.com/konstructio),
-[@cilium](https://github.com/cilium)
-and [@k3s-io](https://github.com/k3s-io).
+[@konstructio](https://github.com/konstructio)
+and [@cilium](https://github.com/cilium).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
-* [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 428 ⭐️
-* [patrickdappollonio/dux](https://github.com/patrickdappollonio/dux) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 49 ⭐️
+* [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 429 ⭐️
+* [patrickdappollonio/dux](https://github.com/patrickdappollonio/dux) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 50 ⭐️
 * [gavinbunney/terraform-provider-kubectl](https://github.com/gavinbunney/terraform-provider-kubectl) from [@gavinbunney](https://github.com/gavinbunney) with 686 ⭐️
 * [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 829 ⭐️
 * [cilium/little-vm-helper](https://github.com/cilium/little-vm-helper) from [@cilium](https://github.com/cilium) with 121 ⭐️
@@ -53,4 +52,4 @@ and [@k3s-io](https://github.com/k3s-io).
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.8K ⭐️
 
-<sup><sub>Last updated: June 03, 2026 at 08:42:05 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: June 03, 2026 at 15:49:51 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
