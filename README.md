@@ -22,20 +22,20 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#42 - feat(envoy-gateway): Gateway + GatewayClass + EnvoyProxy with route-scoped listeners](https://github.com/konstructio/konstruct-templates/pull/42) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@civo](https://github.com/civo),
+[@jarededwards](https://github.com/jarededwards),
 [@konstructio](https://github.com/konstructio),
-[@cilium](https://github.com/cilium),
-[@k3s-io](https://github.com/k3s-io),
-[@civo](https://github.com/civo)
-and [@jarededwards](https://github.com/jarededwards).
+[@cilium](https://github.com/cilium)
+and [@k3s-io](https://github.com/k3s-io).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
 * [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 428 ⭐️
-* [patrickdappollonio/dux](https://github.com/patrickdappollonio/dux) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 48 ⭐️
+* [patrickdappollonio/dux](https://github.com/patrickdappollonio/dux) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 49 ⭐️
 * [gavinbunney/terraform-provider-kubectl](https://github.com/gavinbunney/terraform-provider-kubectl) from [@gavinbunney](https://github.com/gavinbunney) with 686 ⭐️
-* [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 833 ⭐️
+* [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 829 ⭐️
 * [cilium/little-vm-helper](https://github.com/cilium/little-vm-helper) from [@cilium](https://github.com/cilium) with 121 ⭐️
 * [patrickdappollonio/tgen](https://github.com/patrickdappollonio/tgen) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 17 ⭐️
 * [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) from [@TeamNewPipe](https://github.com/TeamNewPipe) with 38.5K ⭐️
@@ -53,4 +53,4 @@ and [@jarededwards](https://github.com/jarededwards).
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.8K ⭐️
 
-<sup><sub>Last updated: June 02, 2026 at 18:22:38 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: June 03, 2026 at 08:42:05 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
