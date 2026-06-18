@@ -22,16 +22,16 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#43 - fix(envoy-gateway): drop oci:// prefix from chart repoURL](https://github.com/konstructio/konstruct-templates/pull/43) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@civo](https://github.com/civo),
-[@jarededwards](https://github.com/jarededwards),
-[@konstructio](https://github.com/konstructio)
-and [@cilium](https://github.com/cilium).
+[@konstructio](https://github.com/konstructio),
+[@cilium](https://github.com/cilium),
+[@civo](https://github.com/civo)
+and [@jarededwards](https://github.com/jarededwards).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
-* [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 440 ⭐️
+* [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 441 ⭐️
 * [patrickdappollonio/dux](https://github.com/patrickdappollonio/dux) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 55 ⭐️
 * [gavinbunney/terraform-provider-kubectl](https://github.com/gavinbunney/terraform-provider-kubectl) from [@gavinbunney](https://github.com/gavinbunney) with 688 ⭐️
 * [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 838 ⭐️
@@ -52,4 +52,4 @@ and [@cilium](https://github.com/cilium).
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.8K ⭐️
 
-<sup><sub>Last updated: June 17, 2026 at 18:00:58 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: June 18, 2026 at 00:08:49 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
