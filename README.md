@@ -10,6 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#54 - feat: add konstruct-web-service chart](https://github.com/konstructio/konstruct-templates/pull/54) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#52 - feat(workflows): GitLab CI equivalents of deploy + publish](https://github.com/konstructio/konstruct-templates/pull/52) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#51 - refactor(token-refresher): rename to git-token-refresher + gate on gitProvider](https://github.com/konstructio/konstruct-templates/pull/51) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#50 - feat(project-cluster): install Gateway API CRDs before cert-manager](https://github.com/konstructio/konstruct-templates/pull/50) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -19,7 +20,6 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#46 - feat(controlplane-template): add konstruct-clusters ArgoCD Application](https://github.com/konstructio/konstruct-templates/pull/46) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#45 - fix(dex): switch from ingress to HTTPRoute](https://github.com/konstructio/konstruct-templates/pull/45) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#44 - fix: cert-manager + gateway plumbing so HTTPS listeners actually resolve](https://github.com/konstructio/konstruct-templates/pull/44) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#43 - fix(envoy-gateway): drop oci:// prefix from chart repoURL](https://github.com/konstructio/konstruct-templates/pull/43) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@konstructio](https://github.com/konstructio),
@@ -52,4 +52,4 @@ and [@jarededwards](https://github.com/jarededwards).
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.8K ⭐️
 
-<sup><sub>Last updated: June 23, 2026 at 03:50:25 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: June 23, 2026 at 07:18:12 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
