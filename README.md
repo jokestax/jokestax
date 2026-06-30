@@ -22,16 +22,16 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#44 - fix: cert-manager + gateway plumbing so HTTPS listeners actually resolve](https://github.com/konstructio/konstruct-templates/pull/44) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@cilium](https://github.com/cilium),
 [@civo](https://github.com/civo),
-[@jarededwards](https://github.com/jarededwards)
-and [@konstructio](https://github.com/konstructio).
+[@jarededwards](https://github.com/jarededwards),
+[@konstructio](https://github.com/konstructio)
+and [@cilium](https://github.com/cilium).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
-* [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 454 ⭐️
+* [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 455 ⭐️
 * [patrickdappollonio/dux](https://github.com/patrickdappollonio/dux) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 57 ⭐️
 * [gavinbunney/terraform-provider-kubectl](https://github.com/gavinbunney/terraform-provider-kubectl) from [@gavinbunney](https://github.com/gavinbunney) with 686 ⭐️
 * [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 843 ⭐️
@@ -52,4 +52,4 @@ and [@konstructio](https://github.com/konstructio).
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.8K ⭐️
 
-<sup><sub>Last updated: June 30, 2026 at 13:55:52 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: June 30, 2026 at 17:39:31 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
