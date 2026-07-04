@@ -10,7 +10,9 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
-* [#56 - feat: convert templates/aws/* to Helm charts and add Atlantis to project-cluster](https://github.com/konstructio/konstruct-templates/pull/56) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#58 - feat: scope external-secrets store enum to aws-ssm; keep Vault KV cluster-scoped](https://github.com/konstructio/konstruct-templates/pull/58) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#57 - revert: aws templates](https://github.com/konstructio/konstruct-templates/pull/57) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#56 - feat: convert templates/aws/* to Helm charts and add Atlantis to project-cluster](https://github.com/konstructio/konstruct-templates/pull/56) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#55 - fix: directory](https://github.com/konstructio/konstruct-templates/pull/55) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#54 - feat: add konstruct-web-service chart](https://github.com/konstructio/konstruct-templates/pull/54) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#52 - feat(workflows): GitLab CI equivalents of deploy + publish](https://github.com/konstructio/konstruct-templates/pull/52) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -18,8 +20,6 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#50 - feat(project-cluster): install Gateway API CRDs before cert-manager](https://github.com/konstructio/konstruct-templates/pull/50) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#49 - fix(envoy-gateway): align https-logs listener with logs.<domain> hostname](https://github.com/konstructio/konstruct-templates/pull/49) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#48 - chore: drop templates/civo-workload-cluster (superseded by templates/civo/workload-cluster)](https://github.com/konstructio/konstruct-templates/pull/48) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#47 - feat(crossplane): provider workdir + secrets plumbing](https://github.com/konstructio/konstruct-templates/pull/47) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#46 - feat(controlplane-template): add konstruct-clusters ArgoCD Application](https://github.com/konstructio/konstruct-templates/pull/46) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@konstructio](https://github.com/konstructio),
@@ -42,7 +42,7 @@ and [@jarededwards](https://github.com/jarededwards).
 * [patrickdappollonio/helm-list-charts](https://github.com/patrickdappollonio/helm-list-charts) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 2 ⭐️
 * [flatcar/mantle](https://github.com/flatcar/mantle) from [@flatcar](https://github.com/flatcar) with 43 ⭐️
 * [civo/civogo](https://github.com/civo/civogo) from [@civo](https://github.com/civo) with 45 ⭐️
-* [juanfont/headscale](https://github.com/juanfont/headscale) from [@juanfont](https://github.com/juanfont) with 40.10K ⭐️
+* [juanfont/headscale](https://github.com/juanfont/headscale) from [@juanfont](https://github.com/juanfont) with 41K ⭐️
 * [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 100 ⭐️
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 11 ⭐️
 * [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) from [@mrsimonemms](https://github.com/mrsimonemms) with 2 ⭐️
@@ -52,4 +52,4 @@ and [@jarededwards](https://github.com/jarededwards).
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.8K ⭐️
 
-<sup><sub>Last updated: July 04, 2026 at 13:07:10 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: July 04, 2026 at 16:58:28 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
