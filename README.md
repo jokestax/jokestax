@@ -10,6 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#59 - feat: add oauth2proxy to gitops catalog](https://github.com/konstructio/konstruct-templates/pull/59) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#58 - feat: scope external-secrets store enum to aws-ssm; keep Vault KV cluster-scoped](https://github.com/konstructio/konstruct-templates/pull/58) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#57 - revert: aws templates](https://github.com/konstructio/konstruct-templates/pull/57) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#56 - feat: convert templates/aws/* to Helm charts and add Atlantis to project-cluster](https://github.com/konstructio/konstruct-templates/pull/56) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -19,22 +20,21 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#51 - refactor(token-refresher): rename to git-token-refresher + gate on gitProvider](https://github.com/konstructio/konstruct-templates/pull/51) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#50 - feat(project-cluster): install Gateway API CRDs before cert-manager](https://github.com/konstructio/konstruct-templates/pull/50) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#49 - fix(envoy-gateway): align https-logs listener with logs.<domain> hostname](https://github.com/konstructio/konstruct-templates/pull/49) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#48 - chore: drop templates/civo-workload-cluster (superseded by templates/civo/workload-cluster)](https://github.com/konstructio/konstruct-templates/pull/48) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@cilium](https://github.com/cilium),
-[@civo](https://github.com/civo),
-[@jarededwards](https://github.com/jarededwards)
-and [@konstructio](https://github.com/konstructio).
+[@jarededwards](https://github.com/jarededwards),
+[@konstructio](https://github.com/konstructio),
+[@cilium](https://github.com/cilium)
+and [@civo](https://github.com/civo).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
-* [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 466 ⭐️
+* [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 467 ⭐️
 * [patrickdappollonio/dux](https://github.com/patrickdappollonio/dux) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 59 ⭐️
 * [gavinbunney/terraform-provider-kubectl](https://github.com/gavinbunney/terraform-provider-kubectl) from [@gavinbunney](https://github.com/gavinbunney) with 686 ⭐️
-* [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 845 ⭐️
+* [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 846 ⭐️
 * [cilium/little-vm-helper](https://github.com/cilium/little-vm-helper) from [@cilium](https://github.com/cilium) with 124 ⭐️
 * [patrickdappollonio/tgen](https://github.com/patrickdappollonio/tgen) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 17 ⭐️
 * [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) from [@TeamNewPipe](https://github.com/TeamNewPipe) with 38.9K ⭐️
@@ -52,4 +52,4 @@ and [@konstructio](https://github.com/konstructio).
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.8K ⭐️
 
-<sup><sub>Last updated: July 06, 2026 at 04:21:41 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: July 06, 2026 at 11:35:51 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
