@@ -22,10 +22,10 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#50 - feat(project-cluster): install Gateway API CRDs before cert-manager](https://github.com/konstructio/konstruct-templates/pull/50) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@konstructio](https://github.com/konstructio),
 [@cilium](https://github.com/cilium),
-[@civo](https://github.com/civo),
-[@jarededwards](https://github.com/jarededwards)
-and [@konstructio](https://github.com/konstructio).
+[@civo](https://github.com/civo)
+and [@jarededwards](https://github.com/jarededwards).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -52,4 +52,4 @@ and [@konstructio](https://github.com/konstructio).
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.9K ⭐️
 
-<sup><sub>Last updated: July 19, 2026 at 12:58:42 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: July 19, 2026 at 16:51:19 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
