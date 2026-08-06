@@ -10,6 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#412 - fix: make firewall create_default_rules updatable in-place (no longer ForceNew)](https://github.com/civo/terraform-provider-civo/pull/412) on `civo/terraform-provider-civo` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#64 - feat: split civo cluster modules into infra + bootstrap](https://github.com/konstructio/konstruct-templates/pull/64) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#62 - konstruct-web-service: render nodeSelector + tolerations](https://github.com/konstructio/konstruct-templates/pull/62) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#61 - Update main.tf](https://github.com/konstructio/konstruct-templates/pull/61) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -19,12 +20,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#56 - feat: convert templates/aws/* to Helm charts and add Atlantis to project-cluster](https://github.com/konstructio/konstruct-templates/pull/56) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#55 - fix: directory](https://github.com/konstructio/konstruct-templates/pull/55) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#54 - feat: add konstruct-web-service chart](https://github.com/konstructio/konstruct-templates/pull/54) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
-* [#52 - feat(workflows): GitLab CI equivalents of deploy + publish](https://github.com/konstructio/konstruct-templates/pull/52) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@civo](https://github.com/civo),
 [@konstructio](https://github.com/konstructio),
-[@cilium](https://github.com/cilium),
-[@civo](https://github.com/civo)
+[@cilium](https://github.com/cilium)
 and [@jarededwards](https://github.com/jarededwards).
 ### ⭐ New third-party projects I'm keeping an eye on
 
@@ -52,4 +52,4 @@ and [@jarededwards](https://github.com/jarededwards).
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.9K ⭐️
 
-<sup><sub>Last updated: August 06, 2026 at 02:31:06 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: August 06, 2026 at 06:40:08 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
