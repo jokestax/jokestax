@@ -10,7 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
-* [#412 - fix: make firewall create_default_rules updatable in-place (no longer ForceNew)](https://github.com/civo/terraform-provider-civo/pull/412) on `civo/terraform-provider-civo` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#412 - fix: make firewall create_default_rules updatable in-place (no longer ForceNew)](https://github.com/civo/terraform-provider-civo/pull/412) on `civo/terraform-provider-civo` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#64 - feat: split civo cluster modules into infra + bootstrap](https://github.com/konstructio/konstruct-templates/pull/64) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#62 - konstruct-web-service: render nodeSelector + tolerations](https://github.com/konstructio/konstruct-templates/pull/62) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#61 - Update main.tf](https://github.com/konstructio/konstruct-templates/pull/61) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -52,4 +52,4 @@ and [@jarededwards](https://github.com/jarededwards).
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.9K ⭐️
 
-<sup><sub>Last updated: August 06, 2026 at 06:40:08 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: August 06, 2026 at 10:11:26 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
