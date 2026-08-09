@@ -22,10 +22,10 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#54 - feat: add konstruct-web-service chart](https://github.com/konstructio/konstruct-templates/pull/54) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@civo](https://github.com/civo),
 [@konstructio](https://github.com/konstructio),
-[@cilium](https://github.com/cilium)
-and [@jarededwards](https://github.com/jarededwards).
+[@cilium](https://github.com/cilium),
+[@jarededwards](https://github.com/jarededwards)
+and [@civo](https://github.com/civo).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -34,7 +34,7 @@ and [@jarededwards](https://github.com/jarededwards).
 * [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 714 ⭐️
 * [patrickdappollonio/dux](https://github.com/patrickdappollonio/dux) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 65 ⭐️
 * [gavinbunney/terraform-provider-kubectl](https://github.com/gavinbunney/terraform-provider-kubectl) from [@gavinbunney](https://github.com/gavinbunney) with 688 ⭐️
-* [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 865 ⭐️
+* [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 866 ⭐️
 * [cilium/little-vm-helper](https://github.com/cilium/little-vm-helper) from [@cilium](https://github.com/cilium) with 125 ⭐️
 * [patrickdappollonio/tgen](https://github.com/patrickdappollonio/tgen) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 17 ⭐️
 * [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) from [@TeamNewPipe](https://github.com/TeamNewPipe) with 39.3K ⭐️
@@ -52,4 +52,4 @@ and [@jarededwards](https://github.com/jarededwards).
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.9K ⭐️
 
-<sup><sub>Last updated: August 09, 2026 at 08:52:25 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: August 09, 2026 at 12:35:47 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
