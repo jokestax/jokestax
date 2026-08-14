@@ -22,10 +22,10 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#54 - feat: add konstruct-web-service chart](https://github.com/konstructio/konstruct-templates/pull/54) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@jarededwards](https://github.com/jarededwards),
 [@civo](https://github.com/civo),
-[@konstructio](https://github.com/konstructio),
-[@cilium](https://github.com/cilium)
-and [@jarededwards](https://github.com/jarededwards).
+[@konstructio](https://github.com/konstructio)
+and [@cilium](https://github.com/cilium).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -42,7 +42,7 @@ and [@jarededwards](https://github.com/jarededwards).
 * [patrickdappollonio/helm-list-charts](https://github.com/patrickdappollonio/helm-list-charts) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 2 ⭐️
 * [flatcar/mantle](https://github.com/flatcar/mantle) from [@flatcar](https://github.com/flatcar) with 43 ⭐️
 * [civo/civogo](https://github.com/civo/civogo) from [@civo](https://github.com/civo) with 45 ⭐️
-* [juanfont/headscale](https://github.com/juanfont/headscale) from [@juanfont](https://github.com/juanfont) with 42.8K ⭐️
+* [juanfont/headscale](https://github.com/juanfont/headscale) from [@juanfont](https://github.com/juanfont) with 42.9K ⭐️
 * [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 99 ⭐️
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 11 ⭐️
 * [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) from [@mrsimonemms](https://github.com/mrsimonemms) with 2 ⭐️
@@ -52,4 +52,4 @@ and [@jarededwards](https://github.com/jarededwards).
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 * [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) from [@uber-go](https://github.com/uber-go) with 4.9K ⭐️
 
-<sup><sub>Last updated: August 14, 2026 at 12:53:24 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: August 14, 2026 at 16:31:19 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
