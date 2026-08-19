@@ -10,6 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#85 - feat: lightweight SaaS mode for civo/project-cluster template](https://github.com/konstructio/konstruct-templates/pull/85) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#78 - feat: Kontract cluster templates for AWS and Civo](https://github.com/konstructio/konstruct-templates/pull/78) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#412 - fix: make firewall create_default_rules updatable in-place (no longer ForceNew)](https://github.com/civo/terraform-provider-civo/pull/412) on `civo/terraform-provider-civo` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#64 - feat: split civo cluster modules into infra + bootstrap](https://github.com/konstructio/konstruct-templates/pull/64) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -19,13 +20,12 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#58 - feat: scope external-secrets store enum to aws-ssm; keep Vault KV cluster-scoped](https://github.com/konstructio/konstruct-templates/pull/58) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#57 - revert: aws templates](https://github.com/konstructio/konstruct-templates/pull/57) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#56 - feat: convert templates/aws/* to Helm charts and add Atlantis to project-cluster](https://github.com/konstructio/konstruct-templates/pull/56) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#55 - fix: directory](https://github.com/konstructio/konstruct-templates/pull/55) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@jarededwards](https://github.com/jarededwards),
 [@konstructio](https://github.com/konstructio),
-[@civo](https://github.com/civo)
-and [@cilium](https://github.com/cilium).
+[@civo](https://github.com/civo),
+[@cilium](https://github.com/cilium)
+and [@jarededwards](https://github.com/jarededwards).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -52,4 +52,4 @@ and [@cilium](https://github.com/cilium).
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 3.4K ⭐️
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 
-<sup><sub>Last updated: August 19, 2026 at 12:32:00 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: August 19, 2026 at 16:28:32 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
