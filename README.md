@@ -10,6 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#90 - feat: GitLab app-repo token refresher for civo/project-cluster](https://github.com/konstructio/konstruct-templates/pull/90) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#89 - docs: document platform-supplied values in aws/workload-cluster values.yaml](https://github.com/konstructio/konstruct-templates/pull/89) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#88 - refactor: consolidate orgName into platformOrg, harden org-derived resource names](https://github.com/konstructio/konstruct-templates/pull/88) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#85 - feat: lightweight SaaS mode for civo/project-cluster template](https://github.com/konstructio/konstruct-templates/pull/85) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -19,7 +20,6 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#62 - konstruct-web-service: render nodeSelector + tolerations](https://github.com/konstructio/konstruct-templates/pull/62) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#61 - Update main.tf](https://github.com/konstructio/konstruct-templates/pull/61) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#59 - feat: add oauth2proxy to gitops catalog](https://github.com/konstructio/konstruct-templates/pull/59) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#58 - feat: scope external-secrets store enum to aws-ssm; keep Vault KV cluster-scoped](https://github.com/konstructio/konstruct-templates/pull/58) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@konstructio](https://github.com/konstructio),
@@ -52,4 +52,4 @@ and [@jarededwards](https://github.com/jarededwards).
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 3.4K ⭐️
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 
-<sup><sub>Last updated: August 24, 2026 at 04:49:00 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: August 24, 2026 at 08:51:44 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
