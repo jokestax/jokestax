@@ -22,10 +22,10 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#57 - revert: aws templates](https://github.com/konstructio/konstruct-templates/pull/57) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
+[@cilium](https://github.com/cilium),
 [@jarededwards](https://github.com/jarededwards),
-[@konstructio](https://github.com/konstructio),
-[@civo](https://github.com/civo)
-and [@cilium](https://github.com/cilium).
+[@konstructio](https://github.com/konstructio)
+and [@civo](https://github.com/civo).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -52,4 +52,4 @@ and [@cilium](https://github.com/cilium).
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 3.4K ⭐️
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 
-<sup><sub>Last updated: August 23, 2026 at 12:26:25 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: August 23, 2026 at 21:20:41 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
