@@ -10,6 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#94 - fix: api domain](https://github.com/konstructio/konstruct-templates/pull/94) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#9 - ci: publish image to ghcr.io/konstructio/provider-terraform on release tags](https://github.com/konstructio/provider-terraform/pull/9) on `konstructio/provider-terraform` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#8 - feat: rebase main-civo onto upstream main (Crossplane v2, remotePullPolicy)](https://github.com/konstructio/provider-terraform/pull/8) on `konstructio/provider-terraform` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#93 - chore(control-plane): bump provider-terraform to v0.0.1-rc.7 and drop its workdir PVC](https://github.com/konstructio/konstruct-templates/pull/93) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -19,20 +20,19 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#89 - docs: document platform-supplied values in aws/workload-cluster values.yaml](https://github.com/konstructio/konstruct-templates/pull/89) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#88 - refactor: consolidate orgName into platformOrg, harden org-derived resource names](https://github.com/konstructio/konstruct-templates/pull/88) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#85 - feat: lightweight SaaS mode for civo/project-cluster template](https://github.com/konstructio/konstruct-templates/pull/85) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#78 - feat: Kontract cluster templates for AWS and Civo](https://github.com/konstructio/konstruct-templates/pull/78) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
 [@civo](https://github.com/civo),
-[@cilium](https://github.com/cilium)
-and [@jarededwards](https://github.com/jarededwards).
+[@cilium](https://github.com/cilium),
+[@jarededwards](https://github.com/jarededwards)
+and [@konstructio](https://github.com/konstructio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
 * [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) from [@containers](https://github.com/containers) with 2K ⭐️
-* [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 725 ⭐️
+* [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 726 ⭐️
 * [patrickdappollonio/dux](https://github.com/patrickdappollonio/dux) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 66 ⭐️
 * [gavinbunney/terraform-provider-kubectl](https://github.com/gavinbunney/terraform-provider-kubectl) from [@gavinbunney](https://github.com/gavinbunney) with 689 ⭐️
 * [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 871 ⭐️
@@ -52,4 +52,4 @@ and [@jarededwards](https://github.com/jarededwards).
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 3.4K ⭐️
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 
-<sup><sub>Last updated: August 27, 2026 at 04:02:39 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: August 27, 2026 at 17:54:40 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
