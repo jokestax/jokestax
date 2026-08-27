@@ -10,7 +10,8 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
-* [#8 - feat: rebase onto upstream main (Crossplane v2, remotePullPolicy)](https://github.com/konstructio/provider-terraform/pull/8) on `konstructio/provider-terraform` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#9 - ci: publish image to ghcr.io/konstructio/provider-terraform on release tags](https://github.com/konstructio/provider-terraform/pull/9) on `konstructio/provider-terraform` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#8 - feat: rebase main-civo onto upstream main (Crossplane v2, remotePullPolicy)](https://github.com/konstructio/provider-terraform/pull/8) on `konstructio/provider-terraform` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#93 - chore(control-plane): bump provider-terraform to v0.0.1-rc.7 and drop its workdir PVC](https://github.com/konstructio/konstruct-templates/pull/93) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#92 - fix(civo/project-cluster): repository secret URL ends in .git](https://github.com/konstructio/konstruct-templates/pull/92) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#91 - fix(civo/project-cluster): argocd git-token-refresher writes a repository secret](https://github.com/konstructio/konstruct-templates/pull/91) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -19,7 +20,6 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#88 - refactor: consolidate orgName into platformOrg, harden org-derived resource names](https://github.com/konstructio/konstruct-templates/pull/88) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#85 - feat: lightweight SaaS mode for civo/project-cluster template](https://github.com/konstructio/konstruct-templates/pull/85) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#78 - feat: Kontract cluster templates for AWS and Civo](https://github.com/konstructio/konstruct-templates/pull/78) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#412 - fix: make firewall create_default_rules updatable in-place (no longer ForceNew)](https://github.com/civo/terraform-provider-civo/pull/412) on `civo/terraform-provider-civo` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@konstructio](https://github.com/konstructio),
@@ -32,7 +32,7 @@ and [@jarededwards](https://github.com/jarededwards).
 
 
 * [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) from [@containers](https://github.com/containers) with 2K ⭐️
-* [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 726 ⭐️
+* [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 725 ⭐️
 * [patrickdappollonio/dux](https://github.com/patrickdappollonio/dux) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 66 ⭐️
 * [gavinbunney/terraform-provider-kubectl](https://github.com/gavinbunney/terraform-provider-kubectl) from [@gavinbunney](https://github.com/gavinbunney) with 689 ⭐️
 * [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 871 ⭐️
@@ -52,4 +52,4 @@ and [@jarededwards](https://github.com/jarededwards).
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 3.4K ⭐️
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 
-<sup><sub>Last updated: August 26, 2026 at 18:49:28 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: August 27, 2026 at 04:02:39 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
