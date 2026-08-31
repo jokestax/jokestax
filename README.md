@@ -10,16 +10,16 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#96 - Domain](https://github.com/konstructio/konstruct-templates/pull/96) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#95 - fix: api domain](https://github.com/konstructio/konstruct-templates/pull/95) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#413 - Bump civogo to v0.7.3](https://github.com/civo/terraform-provider-civo/pull/413) on `civo/terraform-provider-civo` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#291 - Bump Go to 1.25.13 and golang.org/x/net to v0.55.0](https://github.com/civo/civogo/pull/291) on `civo/civogo` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#290 - Fix FindObjectStoreCredential for names longer than 30 characters](https://github.com/civo/civogo/pull/290) on `civo/civogo` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#289 - Fix FindObjectStoreCredential for names longer than 30 characters](https://github.com/civo/civogo/pull/289) on `civo/civogo` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 * [#94 - fix: api domain](https://github.com/konstructio/konstruct-templates/pull/94) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#9 - ci: publish image to ghcr.io/konstructio/provider-terraform on release tags](https://github.com/konstructio/provider-terraform/pull/9) on `konstructio/provider-terraform` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#8 - feat: rebase main-civo onto upstream main (Crossplane v2, remotePullPolicy)](https://github.com/konstructio/provider-terraform/pull/8) on `konstructio/provider-terraform` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#93 - chore(control-plane): bump provider-terraform to v0.0.1-rc.7 and drop its workdir PVC](https://github.com/konstructio/konstruct-templates/pull/93) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#92 - fix(civo/project-cluster): repository secret URL ends in .git](https://github.com/konstructio/konstruct-templates/pull/92) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#91 - fix(civo/project-cluster): argocd git-token-refresher writes a repository secret](https://github.com/konstructio/konstruct-templates/pull/91) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#90 - feat: GitLab app-repo token refresher for civo/project-cluster](https://github.com/konstructio/konstruct-templates/pull/90) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#89 - docs: document platform-supplied values in aws/workload-cluster values.yaml](https://github.com/konstructio/konstruct-templates/pull/89) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#88 - refactor: consolidate orgName into platformOrg, harden org-derived resource names](https://github.com/konstructio/konstruct-templates/pull/88) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#85 - feat: lightweight SaaS mode for civo/project-cluster template](https://github.com/konstructio/konstruct-templates/pull/85) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@konstructio](https://github.com/konstructio),
@@ -35,7 +35,7 @@ and [@jarededwards](https://github.com/jarededwards).
 * [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 743 ⭐️
 * [patrickdappollonio/dux](https://github.com/patrickdappollonio/dux) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 66 ⭐️
 * [gavinbunney/terraform-provider-kubectl](https://github.com/gavinbunney/terraform-provider-kubectl) from [@gavinbunney](https://github.com/gavinbunney) with 689 ⭐️
-* [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 873 ⭐️
+* [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 876 ⭐️
 * [cilium/little-vm-helper](https://github.com/cilium/little-vm-helper) from [@cilium](https://github.com/cilium) with 128 ⭐️
 * [patrickdappollonio/tgen](https://github.com/patrickdappollonio/tgen) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 17 ⭐️
 * [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) from [@TeamNewPipe](https://github.com/TeamNewPipe) with 39.5K ⭐️
@@ -52,4 +52,4 @@ and [@jarededwards](https://github.com/jarededwards).
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 3.4K ⭐️
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 
-<sup><sub>Last updated: August 31, 2026 at 00:16:28 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: August 31, 2026 at 11:54:55 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
