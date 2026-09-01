@@ -10,7 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
-* [#99 - feat(aws): migrate cluster templates from ingress-nginx to Envoy Gateway](https://github.com/konstructio/konstruct-templates/pull/99) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#99 - feat(aws): migrate cluster templates from ingress-nginx to Envoy Gateway](https://github.com/konstructio/konstruct-templates/pull/99) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#98 - feat: port konstruct-web-service chart to helm-templates/](https://github.com/konstructio/konstruct-templates/pull/98) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#97 - docs: multi-org GitHub App rollout runbook](https://github.com/konstructio/konstruct-templates/pull/97) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#11 - feat: multi-org GitHub App credentials via labeled secrets](https://github.com/konstructio/provider-terraform/pull/11) on `konstructio/provider-terraform` - <img src="images/github-open.png" width="12px" height="12px"> open
@@ -22,9 +22,9 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#290 - Fix FindObjectStoreCredential for names longer than 30 characters](https://github.com/civo/civogo/pull/290) on `civo/civogo` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@civo](https://github.com/civo),
-[@cilium](https://github.com/cilium)
-and [@konstructio](https://github.com/konstructio).
+[@cilium](https://github.com/cilium),
+[@konstructio](https://github.com/konstructio)
+and [@civo](https://github.com/civo).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -51,4 +51,4 @@ and [@konstructio](https://github.com/konstructio).
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 3.4K ⭐️
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 
-<sup><sub>Last updated: September 01, 2026 at 09:11:17 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 01, 2026 at 15:14:33 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
