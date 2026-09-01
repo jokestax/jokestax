@@ -10,6 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#97 - docs: multi-org GitHub App rollout runbook](https://github.com/konstructio/konstruct-templates/pull/97) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#11 - feat: multi-org GitHub App credentials via labeled secrets](https://github.com/konstructio/provider-terraform/pull/11) on `konstructio/provider-terraform` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#10 - feat: multi-org GitHub App credentials via labeled secrets](https://github.com/konstructio/provider-terraform/pull/10) on `konstructio/provider-terraform` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 * [#96 - Domain](https://github.com/konstructio/konstruct-templates/pull/96) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -19,7 +20,6 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#290 - Fix FindObjectStoreCredential for names longer than 30 characters](https://github.com/civo/civogo/pull/290) on `civo/civogo` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#289 - Fix FindObjectStoreCredential for names longer than 30 characters](https://github.com/civo/civogo/pull/289) on `civo/civogo` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 * [#94 - fix: api domain](https://github.com/konstructio/konstruct-templates/pull/94) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#9 - ci: publish image to ghcr.io/konstructio/provider-terraform on release tags](https://github.com/konstructio/provider-terraform/pull/9) on `konstructio/provider-terraform` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@konstructio](https://github.com/konstructio),
@@ -52,4 +52,4 @@ and [@jarededwards](https://github.com/jarededwards).
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 3.4K ⭐️
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 
-<sup><sub>Last updated: August 31, 2026 at 17:20:25 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 01, 2026 at 00:02:00 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
