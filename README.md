@@ -10,6 +10,8 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#99 - feat(aws): migrate cluster templates from ingress-nginx to Envoy Gateway](https://github.com/konstructio/konstruct-templates/pull/99) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#98 - feat: port konstruct-web-service chart to helm-templates/](https://github.com/konstructio/konstruct-templates/pull/98) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#97 - docs: multi-org GitHub App rollout runbook](https://github.com/konstructio/konstruct-templates/pull/97) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#11 - feat: multi-org GitHub App credentials via labeled secrets](https://github.com/konstructio/provider-terraform/pull/11) on `konstructio/provider-terraform` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#10 - feat: multi-org GitHub App credentials via labeled secrets](https://github.com/konstructio/provider-terraform/pull/10) on `konstructio/provider-terraform` - <img src="images/github-closed.png" width="12px" height="12px"> closed
@@ -18,14 +20,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#413 - Bump civogo to v0.7.3](https://github.com/civo/terraform-provider-civo/pull/413) on `civo/terraform-provider-civo` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#291 - Bump Go to 1.25.13 and golang.org/x/net to v0.55.0](https://github.com/civo/civogo/pull/291) on `civo/civogo` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#290 - Fix FindObjectStoreCredential for names longer than 30 characters](https://github.com/civo/civogo/pull/290) on `civo/civogo` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#289 - Fix FindObjectStoreCredential for names longer than 30 characters](https://github.com/civo/civogo/pull/289) on `civo/civogo` - <img src="images/github-closed.png" width="12px" height="12px"> closed
-* [#94 - fix: api domain](https://github.com/konstructio/konstruct-templates/pull/94) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
 [@civo](https://github.com/civo),
 [@cilium](https://github.com/cilium)
-and [@jarededwards](https://github.com/jarededwards).
+and [@konstructio](https://github.com/konstructio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -38,7 +37,7 @@ and [@jarededwards](https://github.com/jarededwards).
 * [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 876 ⭐️
 * [cilium/little-vm-helper](https://github.com/cilium/little-vm-helper) from [@cilium](https://github.com/cilium) with 128 ⭐️
 * [patrickdappollonio/tgen](https://github.com/patrickdappollonio/tgen) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 17 ⭐️
-* [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) from [@TeamNewPipe](https://github.com/TeamNewPipe) with 39.5K ⭐️
+* [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) from [@TeamNewPipe](https://github.com/TeamNewPipe) with 39.6K ⭐️
 * [isotope-rs/isotope](https://github.com/isotope-rs/isotope) from [@isotope-rs](https://github.com/isotope-rs) with 83 ⭐️
 * [patrickdappollonio/helm-list-charts](https://github.com/patrickdappollonio/helm-list-charts) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 2 ⭐️
 * [flatcar/mantle](https://github.com/flatcar/mantle) from [@flatcar](https://github.com/flatcar) with 43 ⭐️
@@ -52,4 +51,4 @@ and [@jarededwards](https://github.com/jarededwards).
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 3.4K ⭐️
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 
-<sup><sub>Last updated: September 01, 2026 at 00:02:00 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 01, 2026 at 09:11:17 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
