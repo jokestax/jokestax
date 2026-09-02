@@ -51,4 +51,4 @@ and [@cilium](https://github.com/cilium).
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 3.4K ⭐️
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 
-<sup><sub>Last updated: September 01, 2026 at 18:25:49 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 01, 2026 at 23:23:42 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
