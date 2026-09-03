@@ -10,6 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#103 - feat(aws): grant the konstruct operator role access on theme clusters](https://github.com/konstructio/konstruct-templates/pull/103) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#102 - feat: enforce NetworkPolicies on theme clusters (cilium / VPC CNI agent)](https://github.com/konstructio/konstruct-templates/pull/102) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#101 - fix: qualify workspace kind in wait jobs with its API group](https://github.com/konstructio/konstruct-templates/pull/101) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#100 - fix(aws): convert workload-downstream-cluster tokens to terraform variables](https://github.com/konstructio/konstruct-templates/pull/100) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -19,18 +20,17 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#11 - feat: multi-org GitHub App credentials via labeled secrets](https://github.com/konstructio/provider-terraform/pull/11) on `konstructio/provider-terraform` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#10 - feat: multi-org GitHub App credentials via labeled secrets](https://github.com/konstructio/provider-terraform/pull/10) on `konstructio/provider-terraform` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 * [#96 - Domain](https://github.com/konstructio/konstruct-templates/pull/96) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#95 - fix: api domain](https://github.com/konstructio/konstruct-templates/pull/95) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@civo](https://github.com/civo),
-[@cilium](https://github.com/cilium)
-and [@konstructio](https://github.com/konstructio).
+[@konstructio](https://github.com/konstructio),
+[@civo](https://github.com/civo)
+and [@cilium](https://github.com/cilium).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
-* [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) from [@containers](https://github.com/containers) with 2K ⭐️
+* [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) from [@containers](https://github.com/containers) with 2.1K ⭐️
 * [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 744 ⭐️
 * [patrickdappollonio/dux](https://github.com/patrickdappollonio/dux) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 66 ⭐️
 * [gavinbunney/terraform-provider-kubectl](https://github.com/gavinbunney/terraform-provider-kubectl) from [@gavinbunney](https://github.com/gavinbunney) with 689 ⭐️
@@ -51,4 +51,4 @@ and [@konstructio](https://github.com/konstructio).
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 3.4K ⭐️
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 
-<sup><sub>Last updated: September 02, 2026 at 23:25:29 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 03, 2026 at 04:38:20 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
