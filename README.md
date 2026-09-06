@@ -10,6 +10,8 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#106 - fix(konstruct-web-service): replace per-route OIDC policy with the opt-out](https://github.com/konstructio/konstruct-templates/pull/106) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#105 - feat(konstruct-web-service): auth-gate opt-out via empty route policy](https://github.com/konstructio/konstruct-templates/pull/105) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#104 - feat(konstruct-web-service): OIDC SecurityPolicy for the platform auth gate](https://github.com/konstructio/konstruct-templates/pull/104) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#103 - feat(aws): grant the konstruct operator role access on theme clusters](https://github.com/konstructio/konstruct-templates/pull/103) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#102 - feat: enforce NetworkPolicies on theme clusters (cilium / VPC CNI agent)](https://github.com/konstructio/konstruct-templates/pull/102) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -18,21 +20,19 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#99 - feat(aws): migrate cluster templates from ingress-nginx to Envoy Gateway](https://github.com/konstructio/konstruct-templates/pull/99) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#98 - feat: port konstruct-web-service chart to helm-templates/](https://github.com/konstructio/konstruct-templates/pull/98) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#97 - docs: multi-org GitHub App rollout runbook](https://github.com/konstructio/konstruct-templates/pull/97) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
-* [#11 - feat: multi-org GitHub App credentials via labeled secrets](https://github.com/konstructio/provider-terraform/pull/11) on `konstructio/provider-terraform` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#10 - feat: multi-org GitHub App credentials via labeled secrets](https://github.com/konstructio/provider-terraform/pull/10) on `konstructio/provider-terraform` - <img src="images/github-closed.png" width="12px" height="12px"> closed
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@civo](https://github.com/civo),
-[@cilium](https://github.com/cilium)
-and [@konstructio](https://github.com/konstructio).
+[@konstructio](https://github.com/konstructio),
+[@civo](https://github.com/civo)
+and [@cilium](https://github.com/cilium).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
 * [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) from [@containers](https://github.com/containers) with 2.1K ⭐️
-* [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 746 ⭐️
-* [patrickdappollonio/dux](https://github.com/patrickdappollonio/dux) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 66 ⭐️
+* [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 747 ⭐️
+* [patrickdappollonio/dux](https://github.com/patrickdappollonio/dux) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 67 ⭐️
 * [gavinbunney/terraform-provider-kubectl](https://github.com/gavinbunney/terraform-provider-kubectl) from [@gavinbunney](https://github.com/gavinbunney) with 689 ⭐️
 * [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 879 ⭐️
 * [cilium/little-vm-helper](https://github.com/cilium/little-vm-helper) from [@cilium](https://github.com/cilium) with 128 ⭐️
@@ -51,4 +51,4 @@ and [@konstructio](https://github.com/konstructio).
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 3.5K ⭐️
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 
-<sup><sub>Last updated: September 05, 2026 at 23:25:39 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 06, 2026 at 04:25:31 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
