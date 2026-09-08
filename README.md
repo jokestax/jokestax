@@ -22,9 +22,9 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#97 - docs: multi-org GitHub App rollout runbook](https://github.com/konstructio/konstruct-templates/pull/97) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
-[@civo](https://github.com/civo)
-and [@cilium](https://github.com/cilium).
+[@civo](https://github.com/civo),
+[@cilium](https://github.com/cilium)
+and [@konstructio](https://github.com/konstructio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -51,4 +51,4 @@ and [@cilium](https://github.com/cilium).
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 3.5K ⭐️
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 
-<sup><sub>Last updated: September 07, 2026 at 18:34:50 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 07, 2026 at 23:31:15 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
