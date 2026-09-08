@@ -10,6 +10,8 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#108 - fix(civo/project-cluster): align sync behaviour with the platform install](https://github.com/konstructio/konstruct-templates/pull/108) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#107 - fix(civo): give non-theme workload clusters a usable gateway stack](https://github.com/konstructio/konstruct-templates/pull/107) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#106 - fix(konstruct-web-service): replace per-route OIDC policy with the opt-out](https://github.com/konstructio/konstruct-templates/pull/106) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#105 - feat(konstruct-web-service): auth-gate opt-out via empty route policy](https://github.com/konstructio/konstruct-templates/pull/105) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#104 - feat(konstruct-web-service): OIDC SecurityPolicy for the platform auth gate](https://github.com/konstructio/konstruct-templates/pull/104) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -18,8 +20,6 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#101 - fix: qualify workspace kind in wait jobs with its API group](https://github.com/konstructio/konstruct-templates/pull/101) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#100 - fix(aws): convert workload-downstream-cluster tokens to terraform variables](https://github.com/konstructio/konstruct-templates/pull/100) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#99 - feat(aws): migrate cluster templates from ingress-nginx to Envoy Gateway](https://github.com/konstructio/konstruct-templates/pull/99) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#98 - feat: port konstruct-web-service chart to helm-templates/](https://github.com/konstructio/konstruct-templates/pull/98) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#97 - docs: multi-org GitHub App rollout runbook](https://github.com/konstructio/konstruct-templates/pull/97) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@konstructio](https://github.com/konstructio),
@@ -51,4 +51,4 @@ and [@cilium](https://github.com/cilium).
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 3.5K ⭐️
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 
-<sup><sub>Last updated: September 08, 2026 at 12:10:46 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 08, 2026 at 18:25:03 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
