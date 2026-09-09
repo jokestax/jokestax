@@ -10,6 +10,9 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#14 - Revert "fix(image): run manager under tini to reap zombie processes"](https://github.com/konstructio/provider-terraform/pull/14) on `konstructio/provider-terraform` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#13 - revert: multi-org GitHub App credentials (#11)](https://github.com/konstructio/provider-terraform/pull/13) on `konstructio/provider-terraform` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#12 - fix(image): run manager under tini to reap zombie processes](https://github.com/konstructio/provider-terraform/pull/12) on `konstructio/provider-terraform` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#111 - fix(project-cluster): wave the log-streamer Service/route after the provider](https://github.com/konstructio/konstruct-templates/pull/111) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#110 - fix(aws/project-cluster): actually set the Gateway's cert-manager issuer](https://github.com/konstructio/konstruct-templates/pull/110) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#109 - fix(aws/project-cluster): order sync waves by real dependencies](https://github.com/konstructio/konstruct-templates/pull/109) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -17,9 +20,6 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#107 - fix(civo): give non-theme workload clusters a usable gateway stack](https://github.com/konstructio/konstruct-templates/pull/107) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#106 - fix(konstruct-web-service): replace per-route OIDC policy with the opt-out](https://github.com/konstructio/konstruct-templates/pull/106) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#105 - feat(konstruct-web-service): auth-gate opt-out via empty route policy](https://github.com/konstructio/konstruct-templates/pull/105) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#104 - feat(konstruct-web-service): OIDC SecurityPolicy for the platform auth gate](https://github.com/konstructio/konstruct-templates/pull/104) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#103 - feat(aws): grant the konstruct operator role access on theme clusters](https://github.com/konstructio/konstruct-templates/pull/103) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#102 - feat: enforce NetworkPolicies on theme clusters (cilium / VPC CNI agent)](https://github.com/konstructio/konstruct-templates/pull/102) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@konstructio](https://github.com/konstructio),
@@ -31,7 +31,7 @@ and [@cilium](https://github.com/cilium).
 
 
 * [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) from [@containers](https://github.com/containers) with 2.1K ⭐️
-* [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 751 ⭐️
+* [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 753 ⭐️
 * [patrickdappollonio/dux](https://github.com/patrickdappollonio/dux) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 67 ⭐️
 * [gavinbunney/terraform-provider-kubectl](https://github.com/gavinbunney/terraform-provider-kubectl) from [@gavinbunney](https://github.com/gavinbunney) with 689 ⭐️
 * [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 882 ⭐️
@@ -51,4 +51,4 @@ and [@cilium](https://github.com/cilium).
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 3.5K ⭐️
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 
-<sup><sub>Last updated: September 09, 2026 at 12:04:58 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 09, 2026 at 18:18:57 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
