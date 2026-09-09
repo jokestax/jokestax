@@ -10,31 +10,31 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
-* [#108 - fix(civo/project-cluster): align sync behaviour with the platform install](https://github.com/konstructio/konstruct-templates/pull/108) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#111 - fix(project-cluster): wave the log-streamer Service/route after the provider](https://github.com/konstructio/konstruct-templates/pull/111) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#110 - fix(aws/project-cluster): actually set the Gateway's cert-manager issuer](https://github.com/konstructio/konstruct-templates/pull/110) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#109 - fix(aws/project-cluster): order sync waves by real dependencies](https://github.com/konstructio/konstruct-templates/pull/109) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#108 - fix(civo/project-cluster): align sync behaviour with the platform install, order waves by dependency](https://github.com/konstructio/konstruct-templates/pull/108) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#107 - fix(civo): give non-theme workload clusters a usable gateway stack](https://github.com/konstructio/konstruct-templates/pull/107) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#106 - fix(konstruct-web-service): replace per-route OIDC policy with the opt-out](https://github.com/konstructio/konstruct-templates/pull/106) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#105 - feat(konstruct-web-service): auth-gate opt-out via empty route policy](https://github.com/konstructio/konstruct-templates/pull/105) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#104 - feat(konstruct-web-service): OIDC SecurityPolicy for the platform auth gate](https://github.com/konstructio/konstruct-templates/pull/104) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#103 - feat(aws): grant the konstruct operator role access on theme clusters](https://github.com/konstructio/konstruct-templates/pull/103) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#102 - feat: enforce NetworkPolicies on theme clusters (cilium / VPC CNI agent)](https://github.com/konstructio/konstruct-templates/pull/102) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#101 - fix: qualify workspace kind in wait jobs with its API group](https://github.com/konstructio/konstruct-templates/pull/101) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#100 - fix(aws): convert workload-downstream-cluster tokens to terraform variables](https://github.com/konstructio/konstruct-templates/pull/100) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#99 - feat(aws): migrate cluster templates from ingress-nginx to Envoy Gateway](https://github.com/konstructio/konstruct-templates/pull/99) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@civo](https://github.com/civo),
-[@cilium](https://github.com/cilium)
-and [@konstructio](https://github.com/konstructio).
+[@cilium](https://github.com/cilium),
+[@konstructio](https://github.com/konstructio)
+and [@civo](https://github.com/civo).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
 * [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) from [@containers](https://github.com/containers) with 2.1K ⭐️
-* [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 750 ⭐️
+* [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 751 ⭐️
 * [patrickdappollonio/dux](https://github.com/patrickdappollonio/dux) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 67 ⭐️
 * [gavinbunney/terraform-provider-kubectl](https://github.com/gavinbunney/terraform-provider-kubectl) from [@gavinbunney](https://github.com/gavinbunney) with 689 ⭐️
-* [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 881 ⭐️
+* [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 882 ⭐️
 * [cilium/little-vm-helper](https://github.com/cilium/little-vm-helper) from [@cilium](https://github.com/cilium) with 128 ⭐️
 * [patrickdappollonio/tgen](https://github.com/patrickdappollonio/tgen) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 17 ⭐️
 * [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) from [@TeamNewPipe](https://github.com/TeamNewPipe) with 39.6K ⭐️
@@ -51,4 +51,4 @@ and [@konstructio](https://github.com/konstructio).
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 3.5K ⭐️
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 
-<sup><sub>Last updated: September 08, 2026 at 23:35:34 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 09, 2026 at 04:44:49 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
