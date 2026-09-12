@@ -22,9 +22,9 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#105 - feat(konstruct-web-service): auth-gate opt-out via empty route policy](https://github.com/konstructio/konstruct-templates/pull/105) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@civo](https://github.com/civo),
-[@cilium](https://github.com/cilium)
-and [@konstructio](https://github.com/konstructio).
+[@konstructio](https://github.com/konstructio),
+[@civo](https://github.com/civo)
+and [@cilium](https://github.com/cilium).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -51,4 +51,4 @@ and [@konstructio](https://github.com/konstructio).
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 3.5K ⭐️
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 
-<sup><sub>Last updated: September 11, 2026 at 23:36:23 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 12, 2026 at 04:26:48 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
