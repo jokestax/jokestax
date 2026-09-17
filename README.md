@@ -10,6 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#15 - feat: multi-org GitHub App credentials via labeled secrets (re-land #11)](https://github.com/konstructio/provider-terraform/pull/15) on `konstructio/provider-terraform` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#14 - Revert "fix(image): run manager under tini to reap zombie processes"](https://github.com/konstructio/provider-terraform/pull/14) on `konstructio/provider-terraform` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#13 - revert: multi-org GitHub App credentials (#11)](https://github.com/konstructio/provider-terraform/pull/13) on `konstructio/provider-terraform` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#12 - fix(image): run manager under tini to reap zombie processes](https://github.com/konstructio/provider-terraform/pull/12) on `konstructio/provider-terraform` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -19,7 +20,6 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#108 - fix(civo/project-cluster): align sync behaviour with the platform install, order waves by dependency](https://github.com/konstructio/konstruct-templates/pull/108) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#107 - fix(civo): give non-theme workload clusters a usable gateway stack](https://github.com/konstructio/konstruct-templates/pull/107) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#106 - fix(konstruct-web-service): replace per-route OIDC policy with the opt-out](https://github.com/konstructio/konstruct-templates/pull/106) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#105 - feat(konstruct-web-service): auth-gate opt-out via empty route policy](https://github.com/konstructio/konstruct-templates/pull/105) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@konstructio](https://github.com/konstructio),
@@ -51,4 +51,4 @@ and [@cilium](https://github.com/cilium).
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 3.5K ⭐️
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 
-<sup><sub>Last updated: September 16, 2026 at 18:41:10 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 16, 2026 at 23:53:33 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
