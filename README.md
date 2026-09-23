@@ -10,6 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#112 - docs: rollout runbook for multi-org GitHub Actions runners](https://github.com/konstructio/konstruct-templates/pull/112) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#16 - feat(shard): horizontal sharding for Workspaces — assigner + provider-side consumption](https://github.com/konstructio/provider-terraform/pull/16) on `konstructio/provider-terraform` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#15 - feat: multi-org GitHub App credentials via labeled secrets (re-land #11)](https://github.com/konstructio/provider-terraform/pull/15) on `konstructio/provider-terraform` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#14 - Revert "fix(image): run manager under tini to reap zombie processes"](https://github.com/konstructio/provider-terraform/pull/14) on `konstructio/provider-terraform` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -19,7 +20,6 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#110 - fix(aws/project-cluster): actually set the Gateway's cert-manager issuer](https://github.com/konstructio/konstruct-templates/pull/110) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#109 - fix(aws/project-cluster): order sync waves by real dependencies](https://github.com/konstructio/konstruct-templates/pull/109) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#108 - fix(civo/project-cluster): align sync behaviour with the platform install, order waves by dependency](https://github.com/konstructio/konstruct-templates/pull/108) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#107 - fix(civo): give non-theme workload clusters a usable gateway stack](https://github.com/konstructio/konstruct-templates/pull/107) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@konstructio](https://github.com/konstructio),
@@ -51,4 +51,4 @@ and [@cilium](https://github.com/cilium).
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 3.5K ⭐️
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
 
-<sup><sub>Last updated: September 23, 2026 at 05:08:26 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 23, 2026 at 12:18:03 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
