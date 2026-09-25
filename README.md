@@ -49,6 +49,6 @@ and [@cilium](https://github.com/cilium).
 * [douglasmakey/admissioncontroller](https://github.com/douglasmakey/admissioncontroller) from [@douglasmakey](https://github.com/douglasmakey) with 29 ⭐️
 * [konstructio/workpool](https://github.com/konstructio/workpool) from [@konstructio](https://github.com/konstructio) with 2 ⭐️
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 3.5K ⭐️
-* [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.9K ⭐️
+* [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.10K ⭐️
 
-<sup><sub>Last updated: September 25, 2026 at 05:26:56 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 25, 2026 at 12:45:39 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
