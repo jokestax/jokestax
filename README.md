@@ -10,6 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#113 - feat(project-cluster): add EFS and the EFS CSI driver for RWX volumes](https://github.com/konstructio/konstruct-templates/pull/113) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#17 - fix(image): run manager under tini to reap zombie processes](https://github.com/konstructio/provider-terraform/pull/17) on `konstructio/provider-terraform` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#112 - docs: rollout runbook for multi-org GitHub Actions runners](https://github.com/konstructio/konstruct-templates/pull/112) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#16 - feat(shard): horizontal sharding for Workspaces — assigner + provider-side consumption](https://github.com/konstructio/provider-terraform/pull/16) on `konstructio/provider-terraform` - <img src="images/github-open.png" width="12px" height="12px"> open
@@ -19,7 +20,6 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#12 - fix(image): run manager under tini to reap zombie processes](https://github.com/konstructio/provider-terraform/pull/12) on `konstructio/provider-terraform` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#111 - fix(project-cluster): wave the log-streamer Service/route after the provider](https://github.com/konstructio/konstruct-templates/pull/111) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#110 - fix(aws/project-cluster): actually set the Gateway's cert-manager issuer](https://github.com/konstructio/konstruct-templates/pull/110) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#109 - fix(aws/project-cluster): order sync waves by real dependencies](https://github.com/konstructio/konstruct-templates/pull/109) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@konstructio](https://github.com/konstructio),
@@ -51,4 +51,4 @@ and [@cilium](https://github.com/cilium).
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 3.5K ⭐️
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.10K ⭐️
 
-<sup><sub>Last updated: September 29, 2026 at 06:27:28 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: September 29, 2026 at 13:47:50 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
