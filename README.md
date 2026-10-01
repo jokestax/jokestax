@@ -22,9 +22,9 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#16 - feat(shard): horizontal sharding for Workspaces — assigner + provider-side consumption](https://github.com/konstructio/provider-terraform/pull/16) on `konstructio/provider-terraform` - <img src="images/github-open.png" width="12px" height="12px"> open
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@cilium](https://github.com/cilium),
-[@konstructio](https://github.com/konstructio)
-and [@civo](https://github.com/civo).
+[@konstructio](https://github.com/konstructio),
+[@civo](https://github.com/civo)
+and [@cilium](https://github.com/cilium).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -51,4 +51,4 @@ and [@civo](https://github.com/civo).
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 3.5K ⭐️
 * [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) from [@aquasecurity](https://github.com/aquasecurity) with 1.10K ⭐️
 
-<sup><sub>Last updated: October 01, 2026 at 11:10:28 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 01, 2026 at 16:50:42 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
