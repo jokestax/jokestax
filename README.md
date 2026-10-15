@@ -22,9 +22,9 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#17 - fix(image): run manager under tini to reap zombie processes](https://github.com/konstructio/provider-terraform/pull/17) on `konstructio/provider-terraform` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@civo](https://github.com/civo),
-[@cilium](https://github.com/cilium)
-and [@konstructio](https://github.com/konstructio).
+[@konstructio](https://github.com/konstructio),
+[@civo](https://github.com/civo)
+and [@cilium](https://github.com/cilium).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -51,4 +51,4 @@ and [@konstructio](https://github.com/konstructio).
 * [konstructio/workpool](https://github.com/konstructio/workpool) from [@konstructio](https://github.com/konstructio) with 2 ⭐️
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 3.5K ⭐️
 
-<sup><sub>Last updated: October 14, 2026 at 23:37:43 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 15, 2026 at 04:56:00 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
