@@ -10,7 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
-* [#121 - feat(catalog): konstruct-app and aws-parameter-store-role catalog apps](https://github.com/konstructio/konstruct-templates/pull/121) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#121 - feat(catalog): konstruct-app and aws-parameter-store-role catalog apps](https://github.com/konstructio/konstruct-templates/pull/121) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#10 - Upgrade ArgoCD version to v3.5.5](https://github.com/konstructio/manifests/pull/10) on `konstructio/manifests` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#120 - docs(horizontal-scaling): rebalancing, sizing and troubleshooting](https://github.com/konstructio/konstruct-templates/pull/120) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#119 - docs(horizontal-scaling): point the runbook at the current shard images](https://github.com/konstructio/konstruct-templates/pull/119) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -22,9 +22,9 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#113 - feat(project-cluster): add EFS and the EFS CSI driver for RWX volumes](https://github.com/konstructio/konstruct-templates/pull/113) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@cilium](https://github.com/cilium),
-[@konstructio](https://github.com/konstructio)
-and [@civo](https://github.com/civo).
+[@konstructio](https://github.com/konstructio),
+[@civo](https://github.com/civo)
+and [@cilium](https://github.com/cilium).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -35,7 +35,7 @@ and [@civo](https://github.com/civo).
 * [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 773 ⭐️
 * [patrickdappollonio/dux](https://github.com/patrickdappollonio/dux) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 66 ⭐️
 * [gavinbunney/terraform-provider-kubectl](https://github.com/gavinbunney/terraform-provider-kubectl) from [@gavinbunney](https://github.com/gavinbunney) with 690 ⭐️
-* [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 898 ⭐️
+* [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 899 ⭐️
 * [cilium/little-vm-helper](https://github.com/cilium/little-vm-helper) from [@cilium](https://github.com/cilium) with 129 ⭐️
 * [patrickdappollonio/tgen](https://github.com/patrickdappollonio/tgen) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 17 ⭐️
 * [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) from [@TeamNewPipe](https://github.com/TeamNewPipe) with 40.2K ⭐️
@@ -51,4 +51,4 @@ and [@civo](https://github.com/civo).
 * [konstructio/workpool](https://github.com/konstructio/workpool) from [@konstructio](https://github.com/konstructio) with 2 ⭐️
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 3.5K ⭐️
 
-<sup><sub>Last updated: October 16, 2026 at 12:13:58 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 16, 2026 at 18:37:11 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
