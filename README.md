@@ -22,9 +22,9 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#113 - feat(project-cluster): add EFS and the EFS CSI driver for RWX volumes](https://github.com/konstructio/konstruct-templates/pull/113) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@civo](https://github.com/civo),
-[@cilium](https://github.com/cilium)
-and [@konstructio](https://github.com/konstructio).
+[@konstructio](https://github.com/konstructio),
+[@civo](https://github.com/civo)
+and [@cilium](https://github.com/cilium).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -41,7 +41,7 @@ and [@konstructio](https://github.com/konstructio).
 * [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) from [@TeamNewPipe](https://github.com/TeamNewPipe) with 40.3K ⭐️
 * [isotope-rs/isotope](https://github.com/isotope-rs/isotope) from [@isotope-rs](https://github.com/isotope-rs) with 83 ⭐️
 * [patrickdappollonio/helm-list-charts](https://github.com/patrickdappollonio/helm-list-charts) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 2 ⭐️
-* [flatcar/mantle](https://github.com/flatcar/mantle) from [@flatcar](https://github.com/flatcar) with 43 ⭐️
+* [flatcar/mantle](https://github.com/flatcar/mantle) from [@flatcar](https://github.com/flatcar) with 42 ⭐️
 * [civo/civogo](https://github.com/civo/civogo) from [@civo](https://github.com/civo) with 45 ⭐️
 * [juanfont/headscale](https://github.com/juanfont/headscale) from [@juanfont](https://github.com/juanfont) with 44.9K ⭐️
 * [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 100 ⭐️
@@ -51,4 +51,4 @@ and [@konstructio](https://github.com/konstructio).
 * [konstructio/workpool](https://github.com/konstructio/workpool) from [@konstructio](https://github.com/konstructio) with 2 ⭐️
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 3.5K ⭐️
 
-<sup><sub>Last updated: October 23, 2026 at 12:37:47 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 23, 2026 at 18:55:58 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
