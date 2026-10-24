@@ -35,7 +35,7 @@ and [@cilium](https://github.com/cilium).
 * [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 776 ⭐️
 * [patrickdappollonio/dux](https://github.com/patrickdappollonio/dux) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 68 ⭐️
 * [gavinbunney/terraform-provider-kubectl](https://github.com/gavinbunney/terraform-provider-kubectl) from [@gavinbunney](https://github.com/gavinbunney) with 690 ⭐️
-* [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 907 ⭐️
+* [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 908 ⭐️
 * [cilium/little-vm-helper](https://github.com/cilium/little-vm-helper) from [@cilium](https://github.com/cilium) with 129 ⭐️
 * [patrickdappollonio/tgen](https://github.com/patrickdappollonio/tgen) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 17 ⭐️
 * [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) from [@TeamNewPipe](https://github.com/TeamNewPipe) with 40.3K ⭐️
@@ -51,4 +51,4 @@ and [@cilium](https://github.com/cilium).
 * [konstructio/workpool](https://github.com/konstructio/workpool) from [@konstructio](https://github.com/konstructio) with 2 ⭐️
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 3.5K ⭐️
 
-<sup><sub>Last updated: October 24, 2026 at 14:37:10 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 24, 2026 at 18:16:26 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
