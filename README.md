@@ -10,6 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#122 - feat(konstruct-web-service): run tenant pods in a per-pod user namespace](https://github.com/konstructio/konstruct-templates/pull/122) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#121 - feat(catalog): konstruct-app and aws-parameter-store-role catalog apps](https://github.com/konstructio/konstruct-templates/pull/121) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#10 - Upgrade ArgoCD version to v3.5.5](https://github.com/konstructio/manifests/pull/10) on `konstructio/manifests` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#120 - docs(horizontal-scaling): rebalancing, sizing and troubleshooting](https://github.com/konstructio/konstruct-templates/pull/120) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -19,7 +20,6 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#116 - docs(horizontal-scaling): one log-streamer Service with shared EFS logs](https://github.com/konstructio/konstruct-templates/pull/116) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#115 - docs(horizontal-scaling): make the runbook self-contained for customers](https://github.com/konstructio/konstruct-templates/pull/115) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#114 - docs: rollout runbook for horizontal scaling of provider-terraform](https://github.com/konstructio/konstruct-templates/pull/114) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#113 - feat(project-cluster): add EFS and the EFS CSI driver for RWX volumes](https://github.com/konstructio/konstruct-templates/pull/113) on `konstructio/konstruct-templates` - <img src="images/github-open.png" width="12px" height="12px"> open
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@konstructio](https://github.com/konstructio),
@@ -51,4 +51,4 @@ and [@cilium](https://github.com/cilium).
 * [konstructio/workpool](https://github.com/konstructio/workpool) from [@konstructio](https://github.com/konstructio) with 2 ⭐️
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 3.5K ⭐️
 
-<sup><sub>Last updated: October 28, 2026 at 10:54:17 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: October 28, 2026 at 16:49:35 EDT. The content here updates twice daily or when manually triggered.</sup></sub>
