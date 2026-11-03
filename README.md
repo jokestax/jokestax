@@ -32,9 +32,9 @@ and [@cilium](https://github.com/cilium).
 
 * [w453y/xdp-bfd](https://github.com/w453y/xdp-bfd) from [@w453y](https://github.com/w453y) with 11 ⭐️
 * [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) from [@containers](https://github.com/containers) with 2.2K ⭐️
-* [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 779 ⭐️
+* [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 780 ⭐️
 * [patrickdappollonio/dux](https://github.com/patrickdappollonio/dux) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 68 ⭐️
-* [gavinbunney/terraform-provider-kubectl](https://github.com/gavinbunney/terraform-provider-kubectl) from [@gavinbunney](https://github.com/gavinbunney) with 690 ⭐️
+* [gavinbunney/terraform-provider-kubectl](https://github.com/gavinbunney/terraform-provider-kubectl) from [@gavinbunney](https://github.com/gavinbunney) with 689 ⭐️
 * [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 912 ⭐️
 * [cilium/little-vm-helper](https://github.com/cilium/little-vm-helper) from [@cilium](https://github.com/cilium) with 129 ⭐️
 * [patrickdappollonio/tgen](https://github.com/patrickdappollonio/tgen) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 17 ⭐️
@@ -51,4 +51,4 @@ and [@cilium](https://github.com/cilium).
 * [konstructio/workpool](https://github.com/konstructio/workpool) from [@konstructio](https://github.com/konstructio) with 2 ⭐️
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 3.5K ⭐️
 
-<sup><sub>Last updated: November 03, 2026 at 06:40:50 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 03, 2026 at 14:12:20 EST. The content here updates twice daily or when manually triggered.</sup></sub>
