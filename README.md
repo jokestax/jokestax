@@ -10,6 +10,8 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#87 - Resolve public ingress maintenance (LON1, FRA1, NYC1, MUM1)](https://github.com/civo/status/pull/87) on `civo/status` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#86 - Scheduled maintenance: public ingress (LON1, FRA1, NYC1, MUM1) — 5 Nov 06:00–21:30 UTC](https://github.com/civo/status/pull/86) on `civo/status` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#1077 - disable Weave Scope monitoring feature](https://github.com/civo/kubernetes-marketplace/pull/1077) on `civo/kubernetes-marketplace` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#122 - feat(konstruct-web-service): run tenant pods in a per-pod user namespace](https://github.com/konstructio/konstruct-templates/pull/122) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#121 - feat(catalog): konstruct-app and aws-parameter-store-role catalog apps](https://github.com/konstructio/konstruct-templates/pull/121) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -18,8 +20,6 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#119 - docs(horizontal-scaling): point the runbook at the current shard images](https://github.com/konstructio/konstruct-templates/pull/119) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#118 - docs(horizontal-scaling): create EFS before the chart](https://github.com/konstructio/konstruct-templates/pull/118) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#117 - docs(horizontal-scaling): drop per-shard log Services entirely](https://github.com/konstructio/konstruct-templates/pull/117) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#116 - docs(horizontal-scaling): one log-streamer Service with shared EFS logs](https://github.com/konstructio/konstruct-templates/pull/116) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#115 - docs(horizontal-scaling): make the runbook self-contained for customers](https://github.com/konstructio/konstruct-templates/pull/115) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@civo](https://github.com/civo),
@@ -51,4 +51,4 @@ and [@cilium](https://github.com/cilium).
 * [konstructio/workpool](https://github.com/konstructio/workpool) from [@konstructio](https://github.com/konstructio) with 2 ⭐️
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 3.5K ⭐️
 
-<sup><sub>Last updated: November 05, 2026 at 06:56:38 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 05, 2026 at 14:45:02 EST. The content here updates twice daily or when manually triggered.</sup></sub>
