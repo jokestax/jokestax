@@ -38,7 +38,7 @@ and [@cilium](https://github.com/cilium).
 * [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 912 ⭐️
 * [cilium/little-vm-helper](https://github.com/cilium/little-vm-helper) from [@cilium](https://github.com/cilium) with 129 ⭐️
 * [patrickdappollonio/tgen](https://github.com/patrickdappollonio/tgen) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 17 ⭐️
-* [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) from [@TeamNewPipe](https://github.com/TeamNewPipe) with 40.4K ⭐️
+* [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) from [@TeamNewPipe](https://github.com/TeamNewPipe) with 40.5K ⭐️
 * [isotope-rs/isotope](https://github.com/isotope-rs/isotope) from [@isotope-rs](https://github.com/isotope-rs) with 83 ⭐️
 * [patrickdappollonio/helm-list-charts](https://github.com/patrickdappollonio/helm-list-charts) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 2 ⭐️
 * [flatcar/mantle](https://github.com/flatcar/mantle) from [@flatcar](https://github.com/flatcar) with 42 ⭐️
@@ -51,4 +51,4 @@ and [@cilium](https://github.com/cilium).
 * [konstructio/workpool](https://github.com/konstructio/workpool) from [@konstructio](https://github.com/konstructio) with 2 ⭐️
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 3.5K ⭐️
 
-<sup><sub>Last updated: November 05, 2026 at 19:51:33 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 06, 2026 at 06:52:46 EST. The content here updates twice daily or when manually triggered.</sup></sub>
