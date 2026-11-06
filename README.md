@@ -22,15 +22,15 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#117 - docs(horizontal-scaling): drop per-shard log Services entirely](https://github.com/konstructio/konstruct-templates/pull/117) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@civo](https://github.com/civo),
-[@konstructio](https://github.com/konstructio)
-and [@cilium](https://github.com/cilium).
+[@cilium](https://github.com/cilium),
+[@civo](https://github.com/civo)
+and [@konstructio](https://github.com/konstructio).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
-* [w453y/xdp-bfd](https://github.com/w453y/xdp-bfd) from [@w453y](https://github.com/w453y) with 11 ⭐️
+* [w453y/xdp-bfd](https://github.com/w453y/xdp-bfd) from [@w453y](https://github.com/w453y) with 12 ⭐️
 * [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) from [@containers](https://github.com/containers) with 2.2K ⭐️
 * [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 783 ⭐️
 * [patrickdappollonio/dux](https://github.com/patrickdappollonio/dux) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 69 ⭐️
@@ -51,4 +51,4 @@ and [@cilium](https://github.com/cilium).
 * [konstructio/workpool](https://github.com/konstructio/workpool) from [@konstructio](https://github.com/konstructio) with 2 ⭐️
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 3.5K ⭐️
 
-<sup><sub>Last updated: November 06, 2026 at 13:59:28 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 06, 2026 at 18:58:21 EST. The content here updates twice daily or when manually triggered.</sup></sub>
