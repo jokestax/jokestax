@@ -10,6 +10,8 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#89 - LON1: mark degraded storage performance incident resolved](https://github.com/civo/status/pull/89) on `civo/status` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#88 - LON1: degraded storage performance (investigating)](https://github.com/civo/status/pull/88) on `civo/status` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#87 - Resolve public ingress maintenance (LON1, FRA1, NYC1, MUM1)](https://github.com/civo/status/pull/87) on `civo/status` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#86 - Scheduled maintenance: public ingress (LON1, FRA1, NYC1, MUM1) — 5 Nov 06:00–21:30 UTC](https://github.com/civo/status/pull/86) on `civo/status` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#1077 - disable Weave Scope monitoring feature](https://github.com/civo/kubernetes-marketplace/pull/1077) on `civo/kubernetes-marketplace` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -18,8 +20,6 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#10 - Upgrade ArgoCD version to v3.5.5](https://github.com/konstructio/manifests/pull/10) on `konstructio/manifests` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#120 - docs(horizontal-scaling): rebalancing, sizing and troubleshooting](https://github.com/konstructio/konstruct-templates/pull/120) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#119 - docs(horizontal-scaling): point the runbook at the current shard images](https://github.com/konstructio/konstruct-templates/pull/119) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#118 - docs(horizontal-scaling): create EFS before the chart](https://github.com/konstructio/konstruct-templates/pull/118) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#117 - docs(horizontal-scaling): drop per-shard log Services entirely](https://github.com/konstructio/konstruct-templates/pull/117) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@civo](https://github.com/civo),
@@ -33,7 +33,7 @@ and [@cilium](https://github.com/cilium).
 * [w453y/xdp-bfd](https://github.com/w453y/xdp-bfd) from [@w453y](https://github.com/w453y) with 12 ⭐️
 * [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) from [@containers](https://github.com/containers) with 2.2K ⭐️
 * [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 789 ⭐️
-* [patrickdappollonio/dux](https://github.com/patrickdappollonio/dux) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 69 ⭐️
+* [patrickdappollonio/dux](https://github.com/patrickdappollonio/dux) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 70 ⭐️
 * [gavinbunney/terraform-provider-kubectl](https://github.com/gavinbunney/terraform-provider-kubectl) from [@gavinbunney](https://github.com/gavinbunney) with 688 ⭐️
 * [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 913 ⭐️
 * [cilium/little-vm-helper](https://github.com/cilium/little-vm-helper) from [@cilium](https://github.com/cilium) with 129 ⭐️
@@ -51,4 +51,4 @@ and [@cilium](https://github.com/cilium).
 * [konstructio/workpool](https://github.com/konstructio/workpool) from [@konstructio](https://github.com/konstructio) with 2 ⭐️
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 3.5K ⭐️
 
-<sup><sub>Last updated: November 08, 2026 at 09:49:36 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 08, 2026 at 15:14:51 EST. The content here updates twice daily or when manually triggered.</sup></sub>
