@@ -10,6 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#53 - fix: apply pool labels and taints before node initialization](https://github.com/civo/civo-cloud-controller-manager/pull/53) on `civo/civo-cloud-controller-manager` - <img src="images/github-open.png" width="12px" height="12px"> open
 * [#89 - LON1: mark degraded storage performance incident resolved](https://github.com/civo/status/pull/89) on `civo/status` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#88 - LON1: degraded storage performance (investigating)](https://github.com/civo/status/pull/88) on `civo/status` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#87 - Resolve public ingress maintenance (LON1, FRA1, NYC1, MUM1)](https://github.com/civo/status/pull/87) on `civo/status` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -19,12 +20,11 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#121 - feat(catalog): konstruct-app and aws-parameter-store-role catalog apps](https://github.com/konstructio/konstruct-templates/pull/121) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#10 - Upgrade ArgoCD version to v3.5.5](https://github.com/konstructio/manifests/pull/10) on `konstructio/manifests` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#120 - docs(horizontal-scaling): rebalancing, sizing and troubleshooting](https://github.com/konstructio/konstruct-templates/pull/120) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#119 - docs(horizontal-scaling): point the runbook at the current shard images](https://github.com/konstructio/konstruct-templates/pull/119) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@cilium](https://github.com/cilium),
-[@civo](https://github.com/civo)
-and [@konstructio](https://github.com/konstructio).
+[@civo](https://github.com/civo),
+[@konstructio](https://github.com/konstructio)
+and [@cilium](https://github.com/cilium).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -32,10 +32,10 @@ and [@konstructio](https://github.com/konstructio).
 
 * [w453y/xdp-bfd](https://github.com/w453y/xdp-bfd) from [@w453y](https://github.com/w453y) with 12 ⭐️
 * [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) from [@containers](https://github.com/containers) with 2.2K ⭐️
-* [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 791 ⭐️
+* [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 792 ⭐️
 * [patrickdappollonio/dux](https://github.com/patrickdappollonio/dux) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 70 ⭐️
 * [gavinbunney/terraform-provider-kubectl](https://github.com/gavinbunney/terraform-provider-kubectl) from [@gavinbunney](https://github.com/gavinbunney) with 688 ⭐️
-* [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 916 ⭐️
+* [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 917 ⭐️
 * [cilium/little-vm-helper](https://github.com/cilium/little-vm-helper) from [@cilium](https://github.com/cilium) with 129 ⭐️
 * [patrickdappollonio/tgen](https://github.com/patrickdappollonio/tgen) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 17 ⭐️
 * [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) from [@TeamNewPipe](https://github.com/TeamNewPipe) with 40.6K ⭐️
@@ -43,7 +43,7 @@ and [@konstructio](https://github.com/konstructio).
 * [patrickdappollonio/helm-list-charts](https://github.com/patrickdappollonio/helm-list-charts) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 2 ⭐️
 * [flatcar/mantle](https://github.com/flatcar/mantle) from [@flatcar](https://github.com/flatcar) with 42 ⭐️
 * [civo/civogo](https://github.com/civo/civogo) from [@civo](https://github.com/civo) with 45 ⭐️
-* [juanfont/headscale](https://github.com/juanfont/headscale) from [@juanfont](https://github.com/juanfont) with 45.5K ⭐️
+* [juanfont/headscale](https://github.com/juanfont/headscale) from [@juanfont](https://github.com/juanfont) with 45.6K ⭐️
 * [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 100 ⭐️
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 11 ⭐️
 * [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) from [@mrsimonemms](https://github.com/mrsimonemms) with 2 ⭐️
@@ -51,4 +51,4 @@ and [@konstructio](https://github.com/konstructio).
 * [konstructio/workpool](https://github.com/konstructio/workpool) from [@konstructio](https://github.com/konstructio) with 2 ⭐️
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 3.5K ⭐️
 
-<sup><sub>Last updated: November 10, 2026 at 07:14:28 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 10, 2026 at 16:40:25 EST. The content here updates twice daily or when manually triggered.</sup></sub>
