@@ -10,7 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
-* [#53 - fix: apply pool labels and taints before node initialization](https://github.com/civo/civo-cloud-controller-manager/pull/53) on `civo/civo-cloud-controller-manager` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#53 - fix: apply pool labels and taints before node initialization](https://github.com/civo/civo-cloud-controller-manager/pull/53) on `civo/civo-cloud-controller-manager` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#89 - LON1: mark degraded storage performance incident resolved](https://github.com/civo/status/pull/89) on `civo/status` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#88 - LON1: degraded storage performance (investigating)](https://github.com/civo/status/pull/88) on `civo/status` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#87 - Resolve public ingress maintenance (LON1, FRA1, NYC1, MUM1)](https://github.com/civo/status/pull/87) on `civo/status` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -51,4 +51,4 @@ and [@cilium](https://github.com/cilium).
 * [konstructio/workpool](https://github.com/konstructio/workpool) from [@konstructio](https://github.com/konstructio) with 2 ⭐️
 * [openai/openai-go](https://github.com/openai/openai-go) from [@openai](https://github.com/openai) with 3.5K ⭐️
 
-<sup><sub>Last updated: November 10, 2026 at 16:40:25 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 11, 2026 at 00:06:25 EST. The content here updates twice daily or when manually triggered.</sup></sub>
