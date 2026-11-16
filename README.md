@@ -22,9 +22,9 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#120 - docs(horizontal-scaling): rebalancing, sizing and troubleshooting](https://github.com/konstructio/konstruct-templates/pull/120) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@konstructio](https://github.com/konstructio),
-[@cilium](https://github.com/cilium)
-and [@civo](https://github.com/civo).
+[@civo](https://github.com/civo),
+[@konstructio](https://github.com/konstructio)
+and [@cilium](https://github.com/cilium).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -51,4 +51,4 @@ and [@civo](https://github.com/civo).
 * [douglasmakey/admissioncontroller](https://github.com/douglasmakey/admissioncontroller) from [@douglasmakey](https://github.com/douglasmakey) with 29 ⭐️
 * [konstructio/workpool](https://github.com/konstructio/workpool) from [@konstructio](https://github.com/konstructio) with 2 ⭐️
 
-<sup><sub>Last updated: November 15, 2026 at 15:51:22 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 16, 2026 at 00:17:15 EST. The content here updates twice daily or when manually triggered.</sup></sub>
