@@ -10,7 +10,7 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
-* [#55 - fix: read pool labels and taints from the pool endpoint](https://github.com/civo/civo-cloud-controller-manager/pull/55) on `civo/civo-cloud-controller-manager` - <img src="images/github-open.png" width="12px" height="12px"> open
+* [#55 - fix: read pool labels and taints from the pool endpoint](https://github.com/civo/civo-cloud-controller-manager/pull/55) on `civo/civo-cloud-controller-manager` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#53 - fix: apply pool labels and taints before node initialization](https://github.com/civo/civo-cloud-controller-manager/pull/53) on `civo/civo-cloud-controller-manager` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#89 - LON1: mark degraded storage performance incident resolved](https://github.com/civo/status/pull/89) on `civo/status` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#88 - LON1: degraded storage performance (investigating)](https://github.com/civo/status/pull/88) on `civo/status` - <img src="images/github-merged.png" width="12px" height="12px"> merged
@@ -22,9 +22,9 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 * [#10 - Upgrade ArgoCD version to v3.5.5](https://github.com/konstructio/manifests/pull/10) on `konstructio/manifests` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
-[@cilium](https://github.com/cilium),
-[@civo](https://github.com/civo)
-and [@konstructio](https://github.com/konstructio).
+[@civo](https://github.com/civo),
+[@konstructio](https://github.com/konstructio)
+and [@cilium](https://github.com/cilium).
 ### ⭐ New third-party projects I'm keeping an eye on
 
 *Repositories I've starred recently because they were interesting, cool, or useful.*
@@ -33,10 +33,10 @@ and [@konstructio](https://github.com/konstructio).
 * [jairoFernandez/litek8s](https://github.com/jairoFernandez/litek8s) from [@jairoFernandez](https://github.com/jairoFernandez) with 23 ⭐️
 * [w453y/xdp-bfd](https://github.com/w453y/xdp-bfd) from [@w453y](https://github.com/w453y) with 13 ⭐️
 * [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) from [@containers](https://github.com/containers) with 2.3K ⭐️
-* [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 805 ⭐️
+* [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 806 ⭐️
 * [patrickdappollonio/dux](https://github.com/patrickdappollonio/dux) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 70 ⭐️
 * [gavinbunney/terraform-provider-kubectl](https://github.com/gavinbunney/terraform-provider-kubectl) from [@gavinbunney](https://github.com/gavinbunney) with 688 ⭐️
-* [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 920 ⭐️
+* [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 921 ⭐️
 * [cilium/little-vm-helper](https://github.com/cilium/little-vm-helper) from [@cilium](https://github.com/cilium) with 129 ⭐️
 * [patrickdappollonio/tgen](https://github.com/patrickdappollonio/tgen) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 17 ⭐️
 * [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) from [@TeamNewPipe](https://github.com/TeamNewPipe) with 40.8K ⭐️
@@ -51,4 +51,4 @@ and [@konstructio](https://github.com/konstructio).
 * [douglasmakey/admissioncontroller](https://github.com/douglasmakey/admissioncontroller) from [@douglasmakey](https://github.com/douglasmakey) with 29 ⭐️
 * [konstructio/workpool](https://github.com/konstructio/workpool) from [@konstructio](https://github.com/konstructio) with 2 ⭐️
 
-<sup><sub>Last updated: November 16, 2026 at 21:47:36 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 17, 2026 at 07:50:05 EST. The content here updates twice daily or when manually triggered.</sup></sub>
