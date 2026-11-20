@@ -51,4 +51,4 @@ and [@cilium](https://github.com/cilium).
 * [douglasmakey/admissioncontroller](https://github.com/douglasmakey/admissioncontroller) from [@douglasmakey](https://github.com/douglasmakey) with 29 ⭐️
 * [konstructio/workpool](https://github.com/konstructio/workpool) from [@konstructio](https://github.com/konstructio) with 2 ⭐️
 
-<sup><sub>Last updated: November 19, 2026 at 17:55:32 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 20, 2026 at 01:07:28 EST. The content here updates twice daily or when manually triggered.</sup></sub>
