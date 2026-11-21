@@ -36,19 +36,19 @@ and [@cilium](https://github.com/cilium).
 * [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 807 ⭐️
 * [patrickdappollonio/dux](https://github.com/patrickdappollonio/dux) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 72 ⭐️
 * [gavinbunney/terraform-provider-kubectl](https://github.com/gavinbunney/terraform-provider-kubectl) from [@gavinbunney](https://github.com/gavinbunney) with 688 ⭐️
-* [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 925 ⭐️
+* [arighi/virtme-ng](https://github.com/arighi/virtme-ng) from [@arighi](https://github.com/arighi) with 926 ⭐️
 * [cilium/little-vm-helper](https://github.com/cilium/little-vm-helper) from [@cilium](https://github.com/cilium) with 129 ⭐️
 * [patrickdappollonio/tgen](https://github.com/patrickdappollonio/tgen) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 17 ⭐️
-* [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) from [@TeamNewPipe](https://github.com/TeamNewPipe) with 40.8K ⭐️
+* [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) from [@TeamNewPipe](https://github.com/TeamNewPipe) with 40.9K ⭐️
 * [isotope-rs/isotope](https://github.com/isotope-rs/isotope) from [@isotope-rs](https://github.com/isotope-rs) with 83 ⭐️
 * [patrickdappollonio/helm-list-charts](https://github.com/patrickdappollonio/helm-list-charts) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 2 ⭐️
 * [flatcar/mantle](https://github.com/flatcar/mantle) from [@flatcar](https://github.com/flatcar) with 42 ⭐️
 * [civo/civogo](https://github.com/civo/civogo) from [@civo](https://github.com/civo) with 45 ⭐️
-* [juanfont/headscale](https://github.com/juanfont/headscale) from [@juanfont](https://github.com/juanfont) with 45.9K ⭐️
+* [juanfont/headscale](https://github.com/juanfont/headscale) from [@juanfont](https://github.com/juanfont) with 45.10K ⭐️
 * [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) from [@patrickdappollonio](https://github.com/patrickdappollonio) with 101 ⭐️
 * [konstructio/konstruct-ui](https://github.com/konstructio/konstruct-ui) from [@konstructio](https://github.com/konstructio) with 11 ⭐️
 * [mrsimonemms/golang-helpers](https://github.com/mrsimonemms/golang-helpers) from [@mrsimonemms](https://github.com/mrsimonemms) with 2 ⭐️
 * [douglasmakey/admissioncontroller](https://github.com/douglasmakey/admissioncontroller) from [@douglasmakey](https://github.com/douglasmakey) with 29 ⭐️
 * [konstructio/workpool](https://github.com/konstructio/workpool) from [@konstructio](https://github.com/konstructio) with 2 ⭐️
 
-<sup><sub>Last updated: November 20, 2026 at 20:07:09 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 21, 2026 at 07:13:16 EST. The content here updates twice daily or when manually triggered.</sup></sub>
