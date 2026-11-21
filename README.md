@@ -10,16 +10,16 @@ Feel free to explore my work, and don’t hesitate to connect with me. Find me o
 *Pull Requests I've opened or contributed to recently, only public repositories are visible.*
 
 
+* [#102 - Update network issue: Civo API and website restored (2026-11-21 19:18)](https://github.com/civo/status/pull/102) on `civo/status` - <img src="images/github-closed.png" width="12px" height="12px"> closed
+* [#100 - Update network issue: LON1 network restored (2026-11-21 18:39)](https://github.com/civo/status/pull/100) on `civo/status` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#99 - Update network issue: NYC1 network restored (2026-11-21 18:12)](https://github.com/civo/status/pull/99) on `civo/status` - <img src="images/github-merged.png" width="12px" height="12px"> merged
+* [#98 - Update network issue: FRA1 and MUM1 network restored (2026-11-21 17:50)](https://github.com/civo/status/pull/98) on `civo/status` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#55 - fix: read pool labels and taints from the pool endpoint](https://github.com/civo/civo-cloud-controller-manager/pull/55) on `civo/civo-cloud-controller-manager` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#53 - fix: apply pool labels and taints before node initialization](https://github.com/civo/civo-cloud-controller-manager/pull/53) on `civo/civo-cloud-controller-manager` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#89 - LON1: mark degraded storage performance incident resolved](https://github.com/civo/status/pull/89) on `civo/status` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#88 - LON1: degraded storage performance (investigating)](https://github.com/civo/status/pull/88) on `civo/status` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#87 - Resolve public ingress maintenance (LON1, FRA1, NYC1, MUM1)](https://github.com/civo/status/pull/87) on `civo/status` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 * [#86 - Scheduled maintenance: public ingress (LON1, FRA1, NYC1, MUM1) — 5 Nov 06:00–21:30 UTC](https://github.com/civo/status/pull/86) on `civo/status` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#1077 - disable Weave Scope monitoring feature](https://github.com/civo/kubernetes-marketplace/pull/1077) on `civo/kubernetes-marketplace` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#122 - feat(konstruct-web-service): run tenant pods in a per-pod user namespace](https://github.com/konstructio/konstruct-templates/pull/122) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#121 - feat(catalog): konstruct-app and aws-parameter-store-role catalog apps](https://github.com/konstructio/konstruct-templates/pull/121) on `konstructio/konstruct-templates` - <img src="images/github-merged.png" width="12px" height="12px"> merged
-* [#10 - Upgrade ArgoCD version to v3.5.5](https://github.com/konstructio/manifests/pull/10) on `konstructio/manifests` - <img src="images/github-merged.png" width="12px" height="12px"> merged
 
 Overall, my most recent contributions (besides my own repos) have gone to 
 [@civo](https://github.com/civo),
@@ -51,4 +51,4 @@ and [@cilium](https://github.com/cilium).
 * [douglasmakey/admissioncontroller](https://github.com/douglasmakey/admissioncontroller) from [@douglasmakey](https://github.com/douglasmakey) with 29 ⭐️
 * [konstructio/workpool](https://github.com/konstructio/workpool) from [@konstructio](https://github.com/konstructio) with 2 ⭐️
 
-<sup><sub>Last updated: November 21, 2026 at 07:13:16 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 21, 2026 at 16:28:32 EST. The content here updates twice daily or when manually triggered.</sup></sub>
