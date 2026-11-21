@@ -30,7 +30,7 @@ and [@cilium](https://github.com/cilium).
 *Repositories I've starred recently because they were interesting, cool, or useful.*
 
 
-* [jairoFernandez/litek8s](https://github.com/jairoFernandez/litek8s) from [@jairoFernandez](https://github.com/jairoFernandez) with 23 ⭐️
+* [jairoFernandez/litek8s](https://github.com/jairoFernandez/litek8s) from [@jairoFernandez](https://github.com/jairoFernandez) with 24 ⭐️
 * [w453y/xdp-bfd](https://github.com/w453y/xdp-bfd) from [@w453y](https://github.com/w453y) with 13 ⭐️
 * [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) from [@containers](https://github.com/containers) with 2.3K ⭐️
 * [calfonso/rusternetes](https://github.com/calfonso/rusternetes) from [@calfonso](https://github.com/calfonso) with 807 ⭐️
@@ -51,4 +51,4 @@ and [@cilium](https://github.com/cilium).
 * [douglasmakey/admissioncontroller](https://github.com/douglasmakey/admissioncontroller) from [@douglasmakey](https://github.com/douglasmakey) with 29 ⭐️
 * [konstructio/workpool](https://github.com/konstructio/workpool) from [@konstructio](https://github.com/konstructio) with 2 ⭐️
 
-<sup><sub>Last updated: November 20, 2026 at 11:45:37 EST. The content here updates twice daily or when manually triggered.</sup></sub>
+<sup><sub>Last updated: November 20, 2026 at 20:07:09 EST. The content here updates twice daily or when manually triggered.</sup></sub>
